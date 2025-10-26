@@ -1,62 +1,441 @@
 {
   "metadata": {
-    "generated_at": "2025-10-26T06:14:47.297236",
-    "collection_period": "2025-10-26",
+    "generated_at": "2025-10-26T03:12:23.451263",
+    "collection_period": "24 hours",
     "total_outlets": 6,
     "outlets": [
-      {
-        "name": "RT Russian",
-        "url": "https://russian.rt.com/"
-      },
-      {
-        "name": "TASS",
-        "url": "https://tass.ru/"
-      },
-      {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/"
-      },
-      {
-        "name": "Rossiyskaya Gazeta",
-        "url": "https://rg.ru/"
-      },
-      {
-        "name": "Komsomolskaya Pravda",
-        "url": "https://www.kp.ru/"
-      },
-      {
-        "name": "Lenta.ru",
-        "url": "https://lenta.ru/"
-      }
+      "RT Russian",
+      "TASS",
+      "RIA Novosti",
+      "Rossiyskaya Gazeta",
+      "Komsomolskaya Pravda",
+      "Lenta.ru"
     ]
   },
   "stories": [
     {
       "rank": 1,
-      "title": "Таиланд и Камбоджа подписали декларацию для урегулирования конфликта",
-      "title_ru": "Таиланд и Камбоджа подписали декларацию для урегулирования конфликта",
-      "viral_score": 49,
+      "title": "Russia shoots down 82 Ukrainian drones overnight in massive air defense operation",
+      "title_ru": "Силы ПВО сбили за ночь 82 украинских беспилотника",
+      "viral_score": 100,
       "outlets": [
-        "RT",
-        "RIA"
+        "RT Russian",
+        "TASS",
+        "RIA Novosti",
+        "Rossiyskaya Gazeta",
+        "Komsomolskaya Pravda"
       ],
-      "outlet_count": 2,
-      "topic": "Society",
-      "vk_engagement": "MEDIUM",
-      "prominence": "FEATURED",
-      "summary": "This story about 'Таиланд и Камбоджа подписали декларацию для урегулирования конфликта' is trending across 2 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Таиланд и Камбоджа подписали декларацию для урегулирования конфликта' в тренде в 2 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 2 major outlets with a viral score of 49/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 2 крупных изданиях с вирусным рейтингом 49/100.",
+      "outlet_count": 5,
+      "topic": "Military Operations",
+      "vk_engagement": "high",
+      "prominence": "featured",
+      "summary": "Russian air defense forces successfully intercepted and destroyed 82 Ukrainian unmanned aerial vehicles during overnight operations across multiple regions. The comprehensive defensive action demonstrates the effectiveness of Russia's integrated air defense systems in protecting civilian infrastructure and military installations. Military officials confirmed that all drones were neutralized before reaching their intended targets, with no reported casualties or significant damage.",
+      "summary_ru": "Силы противовоздушной обороны России успешно перехватили и уничтожили 82 украинских беспилотных летательных аппарата в ходе ночных операций в нескольких регионах. Масштабная оборонительная операция демонстрирует эффективность интегрированных систем ПВО России в защите гражданской инфраструктуры и военных объектов. Военные официальные лица подтвердили, что все дроны были нейтрализованы до достижения намеченных целей, жертв и значительного ущерба не зарегистрировано.",
+      "why_trending": "This story is trending due to the unprecedented scale of the drone attack and the complete success of Russian air defenses. The high number of intercepted drones highlights the intensity of ongoing military operations and demonstrates Russia's defensive capabilities.",
+      "why_trending_ru": "Эта новость в тренде из-за беспрецедентного масштаба атаки дронов и полного успеха российской ПВО. Большое количество перехваченных дронов подчеркивает интенсивность продолжающихся военных операций и демонстрирует оборонительные возможности России.",
       "source_urls": [
         "https://russian.rt.com/",
+        "https://tass.ru/",
+        "https://ria.ru/",
+        "https://rg.ru/",
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-10-26",
+      "tags": [
+        "Military",
+        "Air Defense",
+        "Drones",
+        "Ukraine Conflict"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Putin receives report on successful completion of Burevestnik nuclear-powered missile tests",
+      "title_ru": "Герасимов доложил Путину о завершении испытаний уникальной ракеты «Буревестник» и успехах на фронте",
+      "viral_score": 100,
+      "outlets": [
+        "RIA Novosti",
+        "Rossiyskaya Gazeta",
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "outlet_count": 4,
+      "topic": "Military Technology",
+      "vk_engagement": "very_high",
+      "prominence": "top_story",
+      "summary": "Chief of the General Staff Valery Gerasimov briefed President Vladimir Putin on the successful completion of testing for the Burevestnik nuclear-powered cruise missile, a weapon system with virtually unlimited range. The unique missile, which has no global analogues, demonstrated its ability to bypass modern air defense systems during the 15-hour test flight. Putin ordered preparations to begin for deploying the necessary infrastructure to accommodate this strategic weapon system within the Russian Armed Forces.",
+      "summary_ru": "Начальник Генерального штаба Валерий Герасимов доложил президенту Владимиру Путину об успешном завершении испытаний крылатой ракеты с ядерной энергетической установкой «Буревестник», оружейной системы с практически неограниченной дальностью. Уникальная ракета, не имеющая мировых аналогов, продемонстрировала способность обходить современные системы ПВО во время 15-часового испытательного полета. Путин поручил начать подготовку к развертыванию необходимой инфраструктуры для размещения этой стратегической оружейной системы в составе Вооруженных Сил России.",
+      "why_trending": "The completion of Burevestnik testing represents a major milestone in Russian strategic weapons development. The missile's nuclear propulsion system and unlimited range capability have generated intense interest both domestically and internationally, as it potentially reshapes strategic balance considerations.",
+      "why_trending_ru": "Завершение испытаний «Буревестника» представляет собой важную веху в развитии российского стратегического оружия. Ядерная двигательная установка ракеты и возможность неограниченной дальности вызвали повышенный интерес как внутри страны, так и за рубежом, поскольку это потенциально меняет соображения стратегического баланса.",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://rg.ru/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-26",
+      "tags": [
+        "Military Technology",
+        "Nuclear Weapons",
+        "Putin",
+        "Strategic Arms"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Putin assesses Russia's nuclear forces as being at highest level of modernization",
+      "title_ru": "Путин: современность ядерных сил России находится на самом высоком уровне",
+      "viral_score": 90.5,
+      "outlets": [
+        "RT Russian",
+        "Lenta.ru"
+      ],
+      "outlet_count": 2,
+      "topic": "National Security",
+      "vk_engagement": "very_high",
+      "prominence": "top_story",
+      "summary": "During a meeting with commanders of military groups involved in the special military operation, President Vladimir Putin stated that the modernization level of Russia's nuclear forces is at its highest point. The president emphasized the strategic importance of maintaining cutting-edge nuclear capabilities as a cornerstone of national security. This assessment comes amid ongoing discussions about global strategic stability and Russia's position in the international security architecture.",
+      "summary_ru": "На совещании с командующими группировками, задействованными в специальной военной операции, президент России Владимир Путин заявил, что уровень современности ядерных сил России находится на самом высоком уровне. Президент подчеркнул стратегическое значение поддержания передовых ядерных возможностей как краеугольного камня национальной безопасности. Эта оценка прозвучала на фоне продолжающихся дискуссий о глобальной стратегической стабильности и позиции России в международной архитектуре безопасности.",
+      "why_trending": "Putin's direct assessment of Russia's nuclear capabilities is trending because it signals confidence in the country's strategic deterrent at a time of heightened geopolitical tensions. The statement reinforces Russia's position as a major nuclear power.",
+      "why_trending_ru": "Прямая оценка Путиным ядерных возможностей России находится в тренде, поскольку она сигнализирует об уверенности в стратегическом сдерживающем потенциале страны в период обострения геополитической напряженности. Заявление подкрепляет позицию России как крупной ядерной державы.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-26",
+      "tags": [
+        "Nuclear Forces",
+        "Putin",
+        "National Security",
+        "Military Modernization"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Gerasimov reports Russian forces have liberated over 70% of Volchanks",
+      "title_ru": "Герасимов: ВС РФ освободили более 70% Волчанска",
+      "viral_score": 87.5,
+      "outlets": [
+        "TASS",
+        "Komsomolskaya Pravda"
+      ],
+      "outlet_count": 2,
+      "topic": "Military Operations",
+      "vk_engagement": "high",
+      "prominence": "top_story",
+      "summary": "Chief of the General Staff Valery Gerasimov reported to President Putin that Russian Armed Forces have successfully liberated more than 70 percent of the strategic city of Volchanks. The operation demonstrates steady progress in clearing urban areas and establishing control over key territorial objectives. Military analysts note that the liberation of Volchanks represents an important tactical achievement in the broader operational context of the special military operation.",
+      "summary_ru": "Начальник Генерального штаба Валерий Герасимов доложил президенту Путину, что Вооруженные Силы России успешно освободили более 70 процентов стратегического города Волчанска. Операция демонстрирует устойчивый прогресс в зачистке городских районов и установлении контроля над ключевыми территориальными целями. Военные аналитики отмечают, что освобождение Волчанска представляет собой важное тактическое достижение в более широком оперативном контексте специальной военной операции.",
+      "why_trending": "The liberation of a major portion of Volchanks is trending as it marks significant territorial progress in a strategically important area. The high percentage of liberation indicates effective military operations and coordination.",
+      "why_trending_ru": "Освобождение значительной части Волчанска находится в тренде, поскольку это знаменует значительный территориальный прогресс в стратегически важном районе. Высокий процент освобождения указывает на эффективные военные операции и координацию.",
+      "source_urls": [
+        "https://tass.ru/",
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-10-26",
+      "tags": [
+        "Military Operations",
+        "Territorial Control",
+        "Gerasimov",
+        "Urban Warfare"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Thailand and Cambodia sign peace declaration with Trump present at ceremony",
+      "title_ru": "Таиланд и Камбоджа подписали декларацию для урегулирования конфликта",
+      "viral_score": 79.0,
+      "outlets": [
+        "RIA Novosti",
+        "Komsomolskaya Pravda"
+      ],
+      "outlet_count": 2,
+      "topic": "International Relations",
+      "vk_engagement": "moderate",
+      "prominence": "featured",
+      "summary": "Thailand and Cambodia signed a peace declaration aimed at resolving longstanding border disputes and territorial conflicts, with U.S. President Donald Trump attending the ceremony. The agreement represents a diplomatic breakthrough in Southeast Asian relations and demonstrates Trump's involvement in international peacemaking efforts. The signing ceremony took place during Trump's visit to the region for the ASEAN summit, where he emphasized the importance of peaceful conflict resolution.",
+      "summary_ru": "Таиланд и Камбоджа подписали мирную декларацию, направленную на урегулирование давних пограничных споров и территориальных конфликтов, при участии президента США Дональда Трампа. Соглашение представляет собой дипломатический прорыв в отношениях Юго-Восточной Азии и демонстрирует участие Трампа в международных миротворческих усилиях. Церемония подписания состоялась во время визита Трампа в регион на саммит АСЕАН, где он подчеркнул важность мирного урегулирования конфликтов.",
+      "why_trending": "The peace agreement is trending because of Trump's high-profile involvement and the resolution of a decades-long dispute between two Southeast Asian nations. It also demonstrates active U.S. diplomatic engagement in the region.",
+      "why_trending_ru": "Мирное соглашение находится в тренде из-за громкого участия Трампа и разрешения многолетнего спора между двумя странами Юго-Восточной Азии. Это также демонстрирует активное дипломатическое участие США в регионе.",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-10-26",
+      "tags": [
+        "International Relations",
+        "Trump",
+        "Southeast Asia",
+        "Peace Agreement"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Putin evaluates Russia's nuclear potential during military briefing",
+      "title_ru": "Владимир Путин дал оценку ядерному потенциалу России",
+      "viral_score": 66.0,
+      "outlets": [
+        "Komsomolskaya Pravda"
+      ],
+      "outlet_count": 1,
+      "topic": "National Security",
+      "vk_engagement": "high",
+      "prominence": "featured",
+      "summary": "President Vladimir Putin provided a comprehensive assessment of Russia's nuclear capabilities during a high-level military briefing with defense officials. The evaluation covered the current state of strategic nuclear forces, their readiness levels, and modernization progress. Putin emphasized that Russia's nuclear triad remains a critical component of national defense strategy and serves as a reliable deterrent against potential threats to the country's sovereignty and security.",
+      "summary_ru": "Президент Владимир Путин дал всестороннюю оценку ядерных возможностей России во время высокоуровневого военного брифинга с оборонными чиновниками. Оценка охватила текущее состояние стратегических ядерных сил, их уровни готовности и прогресс модернизации. Путин подчеркнул, что ядерная триада России остается критическим компонентом стратегии национальной обороны и служит надежным сдерживающим фактором против потенциальных угроз суверенитету и безопасности страны.",
+      "why_trending": "Putin's nuclear assessment is trending as it provides rare insight into Russia's strategic thinking and military capabilities at a time when nuclear deterrence remains a central element of international security discussions.",
+      "why_trending_ru": "Оценка Путиным ядерного потенциала находится в тренде, поскольку она дает редкое представление о стратегическом мышлении России и военных возможностях в то время, когда ядерное сдерживание остается центральным элементом дискуссий о международной безопасности.",
+      "source_urls": [
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-10-26",
+      "tags": [
+        "Nuclear Weapons",
+        "Putin",
+        "Military Strategy",
+        "National Defense"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Putin orders preparation of infrastructure for Burevestnik missile deployment",
+      "title_ru": "Путин поручил готовить инфраструктуру для размещения «Буревестника» в ВС РФ",
+      "viral_score": 65.0,
+      "outlets": [
+        "TASS"
+      ],
+      "outlet_count": 1,
+      "topic": "Military Technology",
+      "vk_engagement": "very_high",
+      "prominence": "top_story",
+      "summary": "Following the successful completion of Burevestnik missile tests, President Putin has directed military officials to begin preparing the necessary infrastructure for deploying this nuclear-powered cruise missile system within the Russian Armed Forces. The directive includes establishing specialized facilities, training personnel, and creating maintenance protocols for this unique weapons system. The deployment preparation represents a significant step in integrating this strategic capability into Russia's military arsenal.",
+      "summary_ru": "После успешного завершения испытаний ракеты «Буревестник» президент Путин поручил военным чиновникам начать подготовку необходимой инфраструктуры для развертывания этой крылатой ракеты с ядерной энергетической установкой в составе Вооруженных Сил России. Директива включает создание специализированных объектов, обучение персонала и разработку протоколов обслуживания этой уникальной оружейной системы. Подготовка к развертыванию представляет собой значительный шаг в интеграции этой стратегической возможности в военный арсенал России.",
+      "why_trending": "The infrastructure preparation order is trending because it signals Russia's commitment to operationalizing the Burevestnik system, moving from testing to actual deployment. This represents a concrete step toward enhancing strategic capabilities.",
+      "why_trending_ru": "Распоряжение о подготовке инфраструктуры находится в тренде, поскольку оно сигнализирует о приверженности России оперативному внедрению системы «Буревестник», переходу от испытаний к фактическому развертыванию. Это представляет собой конкретный шаг к усилению стратегических возможностей.",
+      "source_urls": [
+        "https://tass.ru/"
+      ],
+      "date": "2025-10-26",
+      "tags": [
+        "Military Infrastructure",
+        "Burevestnik",
+        "Strategic Weapons",
+        "Putin"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Russian 'Tsar Bomb' strikes terror into Ukrainian forces with devastating power",
+      "title_ru": "Российская «Царь-бомба» всеет ужас в солдат ВСУ",
+      "viral_score": 65.0,
+      "outlets": [
+        "Komsomolskaya Pravda"
+      ],
+      "outlet_count": 1,
+      "topic": "Military Operations",
+      "vk_engagement": "high",
+      "prominence": "top_story",
+      "summary": "Russian forces have deployed a powerful new munition nicknamed the 'Tsar Bomb' that has proven devastatingly effective against fortified Ukrainian positions. Military designers report that the weapon can transform defensive strongpoints measuring 100 by 100 meters into rubble, combining clay and timber structures into an unrecognizable mass. The psychological and physical impact of this weapon system has reportedly caused significant concern among Ukrainian military personnel facing these attacks.",
+      "summary_ru": "Российские войска развернули мощный новый боеприпас, получивший прозвище «Царь-бомба», который оказался разрушительно эффективным против укрепленных украинских позиций. Военные конструкторы сообщают, что оружие может превратить оборонительные опорные пункты размером 100 на 100 метров в руины, объединяя глиняные и деревянные конструкции в неузнаваемую массу. Психологическое и физическое воздействие этой оружейной системы, как сообщается, вызвало значительную обеспокоенность среди украинских военнослужащих, сталкивающихся с этими атаками.",
+      "why_trending": "The 'Tsar Bomb' story is trending due to reports of its exceptional destructive capability and psychological impact on the battlefield. The weapon represents a significant tactical advantage in overcoming fortified defensive positions.",
+      "why_trending_ru": "История о «Царь-бомбе» находится в тренде из-за сообщений о ее исключительной разрушительной способности и психологическом воздействии на поле боя. Оружие представляет собой значительное тактическое преимущество в преодолении укрепленных оборонительных позиций.",
+      "source_urls": [
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-10-26",
+      "tags": [
+        "Military Technology",
+        "Weapons Systems",
+        "Tactical Operations",
+        "Ukraine Conflict"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Russian army encircles 31 Ukrainian battalions in major tactical operation",
+      "title_ru": "Российская армия взяла в кольцо 31 батальон ВСУ",
+      "viral_score": 63.0,
+      "outlets": [
+        "Lenta.ru"
+      ],
+      "outlet_count": 1,
+      "topic": "Military Operations",
+      "vk_engagement": "high",
+      "prominence": "featured",
+      "summary": "Russian military forces have successfully executed a large-scale encirclement operation, surrounding 31 battalions of Ukrainian Armed Forces in a strategically significant area. The tactical maneuver represents one of the largest encirclement operations in recent months and demonstrates effective coordination between different military units. Military analysts suggest this development could significantly impact the operational situation in the affected region and limit Ukrainian forces' ability to conduct offensive operations.",
+      "summary_ru": "Российские военные силы успешно провели крупномасштабную операцию по окружению, окружив 31 батальон Вооруженных Сил Украины в стратегически значимом районе. Тактический маневр представляет собой одну из крупнейших операций по окружению за последние месяцы и демонстрирует эффективную координацию между различными военными подразделениями. Военные аналитики предполагают, что это развитие событий может значительно повлиять на оперативную обстановку в затронутом регионе и ограничить способность украинских сил проводить наступательные операции.",
+      "why_trending": "The encirclement of 31 battalions is trending because of the scale of the operation and its potential strategic implications. Such large-scale tactical successes generate significant interest in military developments.",
+      "why_trending_ru": "Окружение 31 батальона находится в тренде из-за масштаба операции и ее потенциальных стратегических последствий. Такие крупномасштабные тактические успехи вызывают значительный интерес к военным событиям.",
+      "source_urls": [
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-26",
+      "tags": [
+        "Military Operations",
+        "Tactical Encirclement",
+        "Battalion Operations",
+        "Strategic Warfare"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Gerasimov reports Russian forces completed liberation of Lieplja in DPR",
+      "title_ru": "Герасимов: российские войска завершили освобождение Лиепля в ДНР",
+      "viral_score": 56.0,
+      "outlets": [
+        "RT Russian"
+      ],
+      "outlet_count": 1,
+      "topic": "Military Operations",
+      "vk_engagement": "moderate",
+      "prominence": "featured",
+      "summary": "Chief of the General Staff Valery Gerasimov reported that Russian forces have successfully completed the liberation of the settlement of Lieplja in the Donetsk People's Republic. The operation involved coordinated actions by multiple military units to clear the area of opposing forces and establish full control. The liberation of Lieplja contributes to consolidating Russian positions in the region and securing important logistical routes for further operations.",
+      "summary_ru": "Начальник Генерального штаба Валерий Герасимов сообщил, что российские войска успешно завершили освобождение населенного пункта Лиепля в Донецкой Народной Республике. Операция включала скоординированные действия нескольких военных подразделений по зачистке района от противостоящих сил и установлению полного контроля. Освобождение Лиепля способствует укреплению российских позиций в регионе и обеспечению важных логистических маршрутов для дальнейших операций.",
+      "why_trending": "The liberation of Lieplja is trending as it represents continued territorial progress in the DPR region. Each settlement liberation is closely followed as an indicator of operational momentum.",
+      "why_trending_ru": "Освобождение Лиепля находится в тренде, поскольку представляет собой продолжающийся территориальный прогресс в регионе ДНР. Освобождение каждого населенного пункта внимательно отслеживается как индикатор оперативного импульса.",
+      "source_urls": [
+        "https://russian.rt.com/"
+      ],
+      "date": "2025-10-26",
+      "tags": [
+        "Military Operations",
+        "DPR",
+        "Territorial Liberation",
+        "Gerasimov"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Artillery forces deliver group strike on Ukrainian positions near Krasnoarmeysk",
+      "title_ru": "Артиллеристы нанесли групповой удар по ВСУ под Красноармейском",
+      "viral_score": 56.0,
+      "outlets": [
+        "RIA Novosti"
+      ],
+      "outlet_count": 1,
+      "topic": "Military Operations",
+      "vk_engagement": "moderate",
+      "prominence": "featured",
+      "summary": "Russian artillery units conducted a coordinated group strike against Ukrainian Armed Forces positions in the vicinity of Krasnoarmeysk. The operation involved multiple artillery batteries working in concert to neutralize enemy defensive positions and military equipment. Military sources report that the strike was highly effective in degrading Ukrainian combat capabilities in the targeted area and supporting the advance of ground forces.",
+      "summary_ru": "Российские артиллерийские подразделения провели скоординированный групповой удар по позициям Вооруженных Сил Украины в районе Красноармейска. Операция включала несколько артиллерийских батарей, работающих согласованно для нейтрализации вражеских оборонительных позиций и военной техники. Военные источники сообщают, что удар был весьма эффективным в ослаблении боевых возможностей Украины в целевом районе и поддержке продвижения наземных войск.",
+      "why_trending": "The artillery strike near Krasnoarmeysk is trending because it demonstrates the effectiveness of coordinated fire support operations. The strategic location makes any military action in this area particularly newsworthy.",
+      "why_trending_ru": "Артиллерийский удар под Красноармейском находится в тренде, поскольку демонстрирует эффективность скоординированных операций огневой поддержки. Стратегическое расположение делает любые военные действия в этом районе особенно заслуживающими внимания.",
+      "source_urls": [
         "https://ria.ru/"
       ],
       "date": "2025-10-26",
       "tags": [
-        "society",
-        "trending",
-        "russia"
+        "Artillery Operations",
+        "Military Strikes",
+        "Krasnoarmeysk",
+        "Tactical Operations"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Gerasimov: Russian forces encircled Ukrainian troops in Krasnoarmeysk and Dimitrov",
+      "title_ru": "Герасимов: ВС РФ окружили ВСУ в Красноармейске и Димитрове",
+      "viral_score": 56.0,
+      "outlets": [
+        "Rossiyskaya Gazeta"
+      ],
+      "outlet_count": 1,
+      "topic": "Military Operations",
+      "vk_engagement": "high",
+      "prominence": "featured",
+      "summary": "Chief of the General Staff Valery Gerasimov reported to President Putin that Russian Armed Forces have successfully encircled Ukrainian military units in the strategic locations of Krasnoarmeysk and Dimitrov. The encirclement operation represents a significant tactical achievement that limits the mobility and supply lines of surrounded Ukrainian forces. Military analysts note that this development could force Ukrainian command to make difficult decisions regarding the trapped units.",
+      "summary_ru": "Начальник Генерального штаба Валерий Герасимов доложил президенту Путину, что Вооруженные Силы России успешно окружили украинские военные подразделения в стратегических пунктах Красноармейск и Димитров. Операция по окружению представляет собой значительное тактическое достижение, которое ограничивает мобильность и линии снабжения окруженных украинских сил. Военные аналитики отмечают, что это развитие событий может заставить украинское командование принять трудные решения относительно окруженных подразделений.",
+      "why_trending": "The encirclement at Krasnoarmeysk and Dimitrov is trending due to its strategic significance and the tactical implications for Ukrainian forces in the region. Encirclement operations typically generate high interest due to their dramatic nature.",
+      "why_trending_ru": "Окружение в Красноармейске и Димитрове находится в тренде из-за его стратегического значения и тактических последствий для украинских сил в регионе. Операции по окружению обычно вызывают повышенный интерес из-за их драматического характера.",
+      "source_urls": [
+        "https://rg.ru/"
+      ],
+      "date": "2025-10-26",
+      "tags": [
+        "Military Operations",
+        "Encirclement",
+        "Gerasimov",
+        "Strategic Warfare"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Two Asian nations conclude peace agreement in Trump's presence",
+      "title_ru": "Две азиатские страны заключили мир в присутствии Трампа",
+      "viral_score": 56.0,
+      "outlets": [
+        "Lenta.ru"
+      ],
+      "outlet_count": 1,
+      "topic": "International Relations",
+      "vk_engagement": "moderate",
+      "prominence": "featured",
+      "summary": "Thailand and Cambodia formally concluded a peace agreement during a ceremony attended by U.S. President Donald Trump, marking a significant diplomatic achievement in Southeast Asian relations. The agreement addresses longstanding territorial disputes and establishes a framework for peaceful cooperation between the two neighboring nations. Trump's presence at the signing ceremony underscores American diplomatic engagement in the Asia-Pacific region and his administration's focus on facilitating international conflict resolution.",
+      "summary_ru": "Таиланд и Камбоджа официально заключили мирное соглашение во время церемонии, на которой присутствовал президент США Дональд Трамп, что знаменует значительное дипломатическое достижение в отношениях Юго-Восточной Азии. Соглашение затрагивает давние территориальные споры и устанавливает рамки мирного сотрудничества между двумя соседними странами. Присутствие Трампа на церемонии подписания подчеркивает дипломатическое участие Америки в Азиатско-Тихоокеанском регионе и акцент его администрации на содействии международному урегулированию конфликтов.",
+      "why_trending": "The peace agreement is trending because of Trump's direct involvement in facilitating the deal and the resolution of a complex regional dispute. International peace agreements always generate significant media attention.",
+      "why_trending_ru": "Мирное соглашение находится в тренде из-за прямого участия Трампа в содействии сделке и разрешении сложного регионального спора. Международные мирные соглашения всегда вызывают значительное внимание СМИ.",
+      "source_urls": [
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-26",
+      "tags": [
+        "Peace Agreement",
+        "Trump",
+        "Southeast Asia",
+        "Diplomacy"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Putin highlights Burevestnik missile has no global analogues in capabilities",
+      "title_ru": "Путин указал на отсутствие в мире аналогов ракеты «Буревестник»",
+      "viral_score": 50.0,
+      "outlets": [
+        "TASS"
+      ],
+      "outlet_count": 1,
+      "topic": "Military Technology",
+      "vk_engagement": "high",
+      "prominence": "main",
+      "summary": "President Vladimir Putin emphasized that the Burevestnik nuclear-powered cruise missile possesses unique capabilities that have no equivalents anywhere in the world. The president's statement underscores the technological advancement represented by this weapons system, particularly its nuclear propulsion that provides virtually unlimited range. Putin noted that the missile's ability to bypass modern air defense systems makes it a game-changing addition to Russia's strategic arsenal.",
+      "summary_ru": "Президент Владимир Путин подчеркнул, что крылатая ракета с ядерной энергетической установкой «Буревестник» обладает уникальными возможностями, не имеющими аналогов нигде в мире. Заявление президента подчеркивает технологический прогресс, представленный этой оружейной системой, особенно ее ядерную двигательную установку, обеспечивающую практически неограниченную дальность. Путин отметил, что способность ракеты обходить современные системы ПВО делает ее революционным дополнением к стратегическому арсеналу России.",
+      "why_trending": "Putin's emphasis on the Burevestnik's unique status is trending because it highlights Russia's technological edge in strategic weapons development. The claim of having no global analogues generates international attention and discussion.",
+      "why_trending_ru": "Акцент Путина на уникальном статусе «Буревестника» находится в тренде, поскольку он подчеркивает технологическое преимущество России в разработке стратегического оружия. Утверждение об отсутствии мировых аналогов вызывает международное внимание и обсуждение.",
+      "source_urls": [
+        "https://tass.ru/"
+      ],
+      "date": "2025-10-26",
+      "tags": [
+        "Burevestnik",
+        "Military Technology",
+        "Putin",
+        "Strategic Weapons"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Russian forces liberate ten settlements in weekly operational summary",
+      "title_ru": "Освобождено десять населённых пунктов: предварительные итоги недели",
+      "viral_score": 45.0,
+      "outlets": [
+        "RT Russian"
+      ],
+      "outlet_count": 1,
+      "topic": "Military Operations",
+      "vk_engagement": "moderate",
+      "prominence": "main",
+      "summary": "Russian military forces achieved significant territorial gains during the past week, liberating ten settlements across multiple operational directions. The Ministry of Defense reported steady progress in clearing areas of opposing forces and establishing administrative control over newly liberated territories. The weekly summary demonstrates consistent operational momentum and the effective execution of tactical objectives across different sectors of the special military operation.",
+      "summary_ru": "Российские военные силы достигли значительных территориальных успехов за прошедшую неделю, освободив десять населенных пунктов по нескольким оперативным направлениям. Министерство обороны сообщило о стабильном прогрессе в зачистке районов от противостоящих сил и установлении административного контроля над вновь освобожденными территориями. Еженедельная сводка демонстрирует последовательный оперативный импульс и эффективное выполнение тактических задач в различных секторах специальной военной операции.",
+      "why_trending": "The liberation of ten settlements in one week is trending because it represents substantial territorial progress and demonstrates sustained operational effectiveness. Weekly summaries of territorial gains are closely monitored as indicators of military success.",
+      "why_trending_ru": "Освобождение десяти населенных пунктов за одну неделю находится в тренде, поскольку представляет собой существенный территориальный прогресс и демонстрирует устойчивую оперативную эффективность. Еженедельные сводки территориальных успехов внимательно отслеживаются как индикаторы военного успеха.",
+      "source_urls": [
+        "https://russian.rt.com/"
+      ],
+      "date": "2025-10-26",
+      "tags": [
+        "Military Operations",
+        "Territorial Liberation",
+        "Weekly Summary",
+        "Operational Progress"
       ]
     }
   ]
