@@ -1,0 +1,100 @@
+RT RUSSIAN - https://russian.rt.com/
+Collected: 2025-10-28
+
+TOP FEATURED STORIES:
+
+1. В Госдуме предложили ввести в российских школах шведский стол
+   - Prominence: featured
+   - Timestamp: 01:34
+   - URL: https://russian.rt.com/
+   
+2. В Госдуме предложили выплачивать россиянам 13-ю пенсию к новогодним праздникам
+   - Prominence: featured
+   - Timestamp: 03:54
+   - URL: https://russian.rt.com/
+
+SPECIAL OPERATION SECTION (UKRAINE):
+
+3. «Пресечены попытки вырваться из кольца»: МО сообщило о разгроме группировок противника
+   - Prominence: top_story
+   - Section: Спецоперация на Украине
+   - URL: https://russian.rt.com/
+
+4. «Продвинулись в глубину обороны противника»: ВС РФ освободили Новониколаевку, Привольное и Егоровку
+   - Prominence: main
+   - Section: Спецоперация на Украине
+   - URL: https://russian.rt.com/
+
+5. «Тактический успех»: в ВС РФ сообщили о окружении группировки ВСУ в районе Красноармейска и Кулянска
+   - Prominence: main
+   - Section: Спецоперация на Украине
+   - URL: https://russian.rt.com/
+
+6. Ракетными войсками и артиллерией: ВС РФ нанесли удары по объектам энергетики и ВПК в составе вооружённых ВСУ
+   - Prominence: main
+   - Section: Спецоперация на Украине
+   - URL: https://russian.rt.com/
+
+7. «Снабжение у врага полностью оборудовали, как наши военные открывали путь к освобождению Дроновки»
+   - Prominence: main
+   - Section: Спецоперация на Украине
+   - URL: https://russian.rt.com/
+
+8. В ответ на атаки Киева: ВС России нанесли групповой удар по объектам ВПК и энергетики Украины
+   - Prominence: main
+   - Section: Спецоперация на Украине
+   - URL: https://russian.rt.com/
+
+NEWS FEED (RECENT):
+
+9. В суд Москвы поступило дело иноагента акунина
+   - Prominence: news_feed
+   - Timestamp: 10:01
+   - URL: https://russian.rt.com/
+
+10. Розничные продажи пива в России в 2025 г сократились на 16,9%
+    - Prominence: news_feed
+    - Timestamp: 09:58
+    - URL: https://russian.rt.com/
+
+11. ЦБ: половина активов российских инвесторов была разморожена
+    - Prominence: news_feed
+    - Timestamp: 09:55
+    - URL: https://russian.rt.com/
+
+12. Планировавший совершить теракт в Крыму хотел подорвать авто и скрыться в Европе
+    - Prominence: news_feed
+    - Timestamp: 09:52
+    - URL: https://russian.rt.com/
+
+13. Politico: в ЕС считают выдачу Киеву кредита за активов России делом времени
+    - Prominence: news_feed
+    - Timestamp: 09:49
+    - URL: https://russian.rt.com/
+
+14. В Крыму предотвращён теракт против высокопоставленного сотрудника МВД
+    - Prominence: news_feed
+    - Timestamp: 09:47
+    - URL: https://russian.rt.com/
+
+15. Гладков: в Белгородской области от атак ВСУ вчера пострадали 150 человек
+    - Prominence: news_feed
+    - Timestamp: 09:37
+    - URL: https://russian.rt.com/
+
+16. ЦБ: российская экономика идёт по сценарию управляемого выхода из перегрева
+    - Prominence: news_feed
+    - Timestamp: 09:37
+    - URL: https://russian.rt.com/
+
+17. Погибшие при ДТП в Ревде девочки были сёстрами
+    - Prominence: news_feed
+    - Timestamp: 09:35
+    - URL: https://russian.rt.com/
+
+MOST READ:
+
+18. Расследование RT: Напуганные массовыми беспорядками французские власти готовятся палить по собственным гражданам из гранатомётов
+    - Prominence: featured
+    - Timestamp: 27 октября, 10:08
+    - URL: https://russian.rt.com/

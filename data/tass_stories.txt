@@ -1,0 +1,78 @@
+TASS - https://tass.ru/
+Collected: 2025-10-28
+
+TOP FEATURED STORIES (TICKER):
+
+1. За езду с выданными в 2025 году номерами без флага России грозит штраф
+   - Prominence: top_story
+   - Category: Общество
+   - Timestamp: 06:31
+   - URL: https://tass.ru/
+
+2. Набиуллина: инфляция опустится к целевому уровню в 4% во II половине 2026 года
+   - Prominence: top_story
+   - Category: Экономика
+   - URL: https://tass.ru/
+
+3. В Крыму предотвратили теракт против высокопоставленного сотрудника МВД
+   - Prominence: top_story
+   - Category: ЧП
+   - Timestamp: 06:45, Обновлено 06:52
+   - URL: https://tass.ru/
+
+4. Над регионами России за ночь сбили 17 украинских БПЛА
+   - Prominence: top_story
+   - Category: Армия
+   - URL: https://tass.ru/
+
+5. Второй импортозамещенный самолет МС-21 поднялся в небо
+   - Prominence: top_story
+   - Category: Экономика
+   - URL: https://tass.ru/
+
+6. Кабмин представит предложения по модернизации маткапитала к декабрю
+   - Prominence: top_story
+   - Category: Общество
+   - URL: https://tass.ru/
+
+MAIN SECTION STORIES:
+
+7. Девять участников "Медведей SS" приговорили к срокам до 28 лет заключения
+   - Prominence: main
+   - Timestamp: 06:22, Обновлено 06:38
+   - URL: https://tass.ru/
+
+8. В Казахстане пока не обсуждали выкуп активов "Лукойла" из-за санкций США
+   - Prominence: main
+   - Timestamp: 06:03, Обновлено 06:50
+   - URL: https://tass.ru/
+
+9. Блэкаут на Сахалине. Последствия нарушения электроснабжения (Статья)
+   - Prominence: featured
+   - Timestamp: 06:25
+   - URL: https://tass.ru/
+
+10. "Хочется сохранить добрую память о себе". Гадкий Гатиевич исполнилось 80 лет
+    - Prominence: main
+    - URL: https://tass.ru/
+
+11. Опубликовано видео полета второго импортозамещенного МС-21
+    - Prominence: main
+    - URL: https://tass.ru/
+
+SPECIAL SECTIONS:
+
+12. Военная операция на Украине (Special Section)
+    - Prominence: featured
+    - URL: https://tass.ru/
+
+13. Взрыв в Копейске (Special Section)
+    - Prominence: featured
+    - URL: https://tass.ru/
+
+FEATURED ARTICLE:
+
+14. Когда снизится инфляция и сколько будут опускать ставку. О чем сказала глава ЦБ (Статья)
+    - Prominence: featured
+    - Timestamp: 06:51
+    - URL: https://tass.ru/

@@ -1,34 +1,470 @@
 {
   "metadata": {
-    "generated_at": "2025-10-28T06:17:16.844706",
+    "generated_at": "2025-10-28T03:12:07.182560",
     "collection_period": "2025-10-28",
     "total_outlets": 6,
     "outlets": [
+      "RT Russian",
+      "TASS",
+      "RIA Novosti",
+      "Rossiyskaya Gazeta",
+      "Komsomolskaya Pravda",
+      "Lenta.ru"
+    ],
+    "vk_sources": [
       {
         "name": "RT Russian",
-        "url": "https://russian.rt.com/"
-      },
-      {
-        "name": "TASS",
-        "url": "https://tass.ru/"
+        "url": "https://vk.com/rt_russian",
+        "followers": "1,581,165"
       },
       {
         "name": "RIA Novosti",
-        "url": "https://ria.ru/"
-      },
-      {
-        "name": "Rossiyskaya Gazeta",
-        "url": "https://rg.ru/"
-      },
-      {
-        "name": "Komsomolskaya Pravda",
-        "url": "https://www.kp.ru/"
-      },
-      {
-        "name": "Lenta.ru",
-        "url": "https://lenta.ru/"
+        "url": "https://vk.com/ria",
+        "followers": "3,350,542"
       }
     ]
   },
-  "stories": []
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Crimea Terror Plot Foiled Against High-Ranking Police Official",
+      "title_ru": "В Крыму предотвратили теракт против высокопоставленного сотрудника МВД",
+      "viral_score": 70.8,
+      "outlets": [
+        "Rossiyskaya Gazeta",
+        "TASS",
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "outlet_count": 4,
+      "topic": "Security",
+      "vk_engagement": "high",
+      "prominence": "top_story",
+      "summary": "Russian security services successfully prevented a terrorist attack targeting a high-ranking Ministry of Internal Affairs official in Crimea. The FSB detained suspects who were allegedly planning the attack, which was reportedly coordinated by Ukrainian intelligence services. The operation demonstrates ongoing security challenges in the region and the effectiveness of Russian counterterrorism efforts.",
+      "summary_ru": "Российские спецслужбы успешно предотвратили теракт против высокопоставленного сотрудника МВД в Крыму. ФСБ задержала подозреваемых, которые предположительно планировали нападение, координируемое украинскими спецслужбами. Операция демонстрирует продолжающиеся вызовы безопасности в регионе и эффективность российских контртеррористических усилий.",
+      "why_trending": "This story is trending due to heightened security concerns in Crimea and the ongoing conflict with Ukraine. The involvement of high-ranking officials and the FSB's successful prevention operation have made this a major news event across multiple Russian media outlets.",
+      "why_trending_ru": "Эта история в тренде из-за повышенных проблем безопасности в Крыму и продолжающегося конфликта с Украиной. Участие высокопоставленных чиновников и успешная превентивная операция ФСБ сделали это крупным новостным событием в нескольких российских СМИ.",
+      "source_urls": [
+        "https://rg.ru/",
+        "https://tass.ru/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-28",
+      "tags": [
+        "Security",
+        "Crimea",
+        "FSB",
+        "Terrorism",
+        "Ukraine"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Female Drone Operator 'Radio Kat' Battles Ukrainian Forces Near Pokrovsk",
+      "title_ru": "«Радистка Кэт»: Оператор Катя отвоевывает у ВСУ небо под Покровском",
+      "viral_score": 66.7,
+      "outlets": [
+        "Komsomolskaya Pravda"
+      ],
+      "outlet_count": 1,
+      "topic": "Ukraine Conflict",
+      "vk_engagement": "medium",
+      "prominence": "top_story",
+      "summary": "A female drone operator known as 'Radio Kat' has become a prominent figure in Russian military operations near Pokrovsk. The operator manages unmanned aerial vehicles to counter Ukrainian forces and dreams of achieving victory not just on the battlefield but in changing hearts and minds. Her story highlights the increasing role of women in Russia's military operations and the technological warfare aspect of the conflict.",
+      "summary_ru": "Оператор БПЛА, известная как 'Радистка Кэт', стала заметной фигурой в российских военных операциях под Покровском. Оператор управляет беспилотными летательными аппаратами для противодействия украинским силам и мечтает о победе не только на поле боя, но и в изменении сердец и умов. Её история подчёркивает растущую роль женщин в военных операциях России и технологический аспект войны.",
+      "why_trending": "This human interest story resonates with audiences by showcasing individual heroism and the modern technological aspects of warfare. The focus on a female operator adds a unique angle that has captured public attention and media coverage.",
+      "why_trending_ru": "Эта история интересует аудиторию, демонстрируя индивидуальный героизм и современные технологические аспекты войны. Акцент на женщине-операторе добавляет уникальный угол, который привлёк внимание общественности и СМИ.",
+      "source_urls": [
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-10-28",
+      "tags": [
+        "Ukraine Conflict",
+        "Military",
+        "Drones",
+        "Pokrovsk",
+        "Women in Military"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "War Correspondent Shows Female BPLA Operator's Work Near Pokrovsk",
+      "title_ru": "Военкор Коц показал работу девушки – оператора БПЛА под Покровском",
+      "viral_score": 66.7,
+      "outlets": [
+        "Komsomolskaya Pravda"
+      ],
+      "outlet_count": 1,
+      "topic": "Ukraine Conflict",
+      "vk_engagement": "medium",
+      "prominence": "top_story",
+      "summary": "Military correspondent Kots documented the operations of a female unmanned aerial vehicle operator working near Pokrovsk in the conflict zone. The report provides insight into the daily operations of drone warfare and the critical role these operators play in modern military operations. The coverage emphasizes the technological sophistication and strategic importance of UAV operations in the ongoing conflict.",
+      "summary_ru": "Военный корреспондент Коц задокументировал операции женщины-оператора беспилотного летательного аппарата, работающей под Покровском в зоне конфликта. Репортаж даёт представление о повседневных операциях дроновой войны и критической роли, которую играют эти операторы в современных военных операциях. Освещение подчёркивает технологическую сложность и стратегическую важность операций БПЛА в продолжающемся конфликте.",
+      "why_trending": "The story is trending because it provides rare frontline footage and insights into modern drone warfare operations. The focus on a female operator adds human interest, while the technical aspects appeal to those following military developments in the conflict.",
+      "why_trending_ru": "История в тренде, потому что предоставляет редкие кадры с линии фронта и понимание современных операций дроновой войны. Акцент на женщине-операторе добавляет человеческий интерес, в то время как технические аспекты привлекают тех, кто следит за военными событиями в конфликте.",
+      "source_urls": [
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-10-28",
+      "tags": [
+        "Ukraine Conflict",
+        "Military Correspondent",
+        "Drones",
+        "Pokrovsk",
+        "Frontline"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Fines Imposed for Driving with 2025 License Plates Without Russian Flag",
+      "title_ru": "За езду с выданными в 2025 году номерами без флага России грозит штраф",
+      "viral_score": 64.2,
+      "outlets": [
+        "TASS",
+        "RT Russian"
+      ],
+      "outlet_count": 2,
+      "topic": "Domestic Policy",
+      "vk_engagement": "medium",
+      "prominence": "top_story",
+      "summary": "Russian authorities have clarified that drivers who received license plates in 2025 without the Russian flag are not required to replace them immediately. However, new regulations mandate that all license plates issued going forward must include the Russian flag symbol. The Ministry of Internal Affairs confirmed that existing plates remain valid, addressing public confusion about the new requirements.",
+      "summary_ru": "Российские власти разъяснили, что водители, получившие номерные знаки в 2025 году без российского флага, не обязаны немедленно их менять. Однако новые правила требуют, чтобы все номерные знаки, выдаваемые в дальнейшем, включали символ российского флага. МВД подтвердило, что существующие номера остаются действительными, устраняя общественную путаницу относительно новых требований.",
+      "why_trending": "This story is trending because it affects millions of Russian drivers and clarifies confusion about new vehicle registration requirements. The topic combines national symbolism with practical everyday concerns, making it widely relevant to the general public.",
+      "why_trending_ru": "Эта история в тренде, потому что затрагивает миллионы российских водителей и разъясняет путаницу относительно новых требований регистрации транспортных средств. Тема сочетает национальную символику с практическими повседневными заботами, делая её широко актуальной для широкой публики.",
+      "source_urls": [
+        "https://tass.ru/",
+        "https://russian.rt.com/"
+      ],
+      "date": "2025-10-28",
+      "tags": [
+        "Domestic Policy",
+        "Traffic Regulations",
+        "License Plates",
+        "Russian Flag"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Central Bank Chief Nabiullina Assesses Russian Economic Situation",
+      "title_ru": "Набиуллина дала оценку ситуации в российской экономике",
+      "viral_score": 64.2,
+      "outlets": [
+        "RIA Novosti",
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "outlet_count": 3,
+      "topic": "Economy",
+      "vk_engagement": "high",
+      "prominence": "top_story",
+      "summary": "Central Bank Governor Elvira Nabiullina provided a comprehensive assessment of Russia's economic situation, indicating that inflation will decrease to the target level of 4% in the second half of 2026. She announced that the cycle of key rate reductions will continue throughout the following year, signaling confidence in the economy's trajectory toward balanced growth despite ongoing inflationary pressures.",
+      "summary_ru": "Председатель Центрального банка Эльвира Набиуллина дала комплексную оценку экономической ситуации в России, указав, что инфляция снизится до целевого уровня в 4% во второй половине 2026 года. Она объявила, что цикл снижения ключевой ставки продолжится в течение следующего года, сигнализируя уверенность в траектории экономики к сбалансированному росту, несмотря на продолжающееся инфляционное давление.",
+      "why_trending": "This story is trending because it directly impacts every Russian citizen's financial situation and future economic prospects. Nabiullina's statements about interest rates and inflation are closely watched by businesses, investors, and ordinary people planning their finances.",
+      "why_trending_ru": "Эта история в тренде, потому что напрямую влияет на финансовое положение каждого российского гражданина и будущие экономические перспективы. Заявления Набиуллиной о процентных ставках и инфляции внимательно отслеживаются бизнесом, инвесторами и обычными людьми, планирующими свои финансы.",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-28",
+      "tags": [
+        "Economy",
+        "Central Bank",
+        "Inflation",
+        "Interest Rates",
+        "Nabiullina"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Former NATO Chief Reveals He Refused Zelensky's 2022 Support Request",
+      "title_ru": "«Он умолял меня». Бывший генсек НАТО рассказал, как отказал Зеленскому в поддержке в 2022 году",
+      "viral_score": 64.2,
+      "outlets": [
+        "Lenta.ru"
+      ],
+      "outlet_count": 1,
+      "topic": "International Relations",
+      "vk_engagement": "medium",
+      "prominence": "top_story",
+      "summary": "A former NATO Secretary General disclosed details about refusing Ukrainian President Zelensky's plea for support in 2022. The revelation provides insight into the internal deliberations and decision-making processes within NATO during the early stages of the conflict. The former official's account sheds light on the alliance's cautious approach and the reasons behind certain strategic decisions that shaped the course of Western support for Ukraine.",
+      "summary_ru": "Бывший генеральный секретарь НАТО раскрыл подробности отказа президенту Украины Зеленскому в поддержке в 2022 году. Откровение даёт представление о внутренних обсуждениях и процессах принятия решений в НАТО на ранних этапах конфликта. Рассказ бывшего чиновника проливает свет на осторожный подход альянса и причины определённых стратегических решений, которые сформировали курс западной поддержки Украины.",
+      "why_trending": "This story is trending because it reveals previously unknown diplomatic details about a critical moment in the Ukraine conflict. The personal account from a former NATO leader adds credibility and provides valuable historical context that helps explain current geopolitical dynamics.",
+      "why_trending_ru": "Эта история в тренде, потому что раскрывает ранее неизвестные дипломатические детали критического момента в украинском конфликте. Личный рассказ бывшего лидера НАТО добавляет достоверность и предоставляет ценный исторический контекст, помогающий объяснить текущую геополитическую динамику.",
+      "source_urls": [
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-28",
+      "tags": [
+        "International Relations",
+        "NATO",
+        "Ukraine",
+        "Zelensky",
+        "Diplomacy"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Personal Account: Attempting to Profit from Gold Purchases",
+      "title_ru": "Как я пытался заработать на покупке золота и сколько это мне принесло",
+      "viral_score": 59.7,
+      "outlets": [
+        "Komsomolskaya Pravda"
+      ],
+      "outlet_count": 1,
+      "topic": "Economy",
+      "vk_engagement": "medium",
+      "prominence": "featured",
+      "summary": "A first-person account details an individual's experience attempting to profit from gold investments in the current economic climate. The story examines the practical realities of gold trading, including costs, market volatility, and actual returns. This personal finance narrative provides valuable insights for ordinary Russians considering alternative investment strategies amid economic uncertainty and inflation concerns.",
+      "summary_ru": "Рассказ от первого лица детализирует опыт человека, пытавшегося получить прибыль от инвестиций в золото в текущем экономическом климате. История исследует практические реалии торговли золотом, включая затраты, волатильность рынка и фактическую доходность. Этот нарратив о личных финансах предоставляет ценные идеи для обычных россиян, рассматривающих альтернативные инвестиционные стратегии на фоне экономической неопределённости и инфляционных опасений.",
+      "why_trending": "This story resonates with readers facing economic uncertainty and searching for ways to protect their savings. The personal, relatable approach makes complex investment topics accessible, while the practical insights help people make informed financial decisions.",
+      "why_trending_ru": "Эта история находит отклик у читателей, сталкивающихся с экономической неопределённостью и ищущих способы защитить свои сбережения. Личный, понятный подход делает сложные инвестиционные темы доступными, в то время как практические идеи помогают людям принимать обоснованные финансовые решения.",
+      "source_urls": [
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-10-28",
+      "tags": [
+        "Economy",
+        "Gold",
+        "Investment",
+        "Personal Finance",
+        "Inflation"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Scientists Warn Planet Has Passed 'Point of No Return' on Climate",
+      "title_ru": "Планета прошла \"точку невозврата\": какие выводы и прогнозы сделали ученые",
+      "viral_score": 59.7,
+      "outlets": [
+        "Komsomolskaya Pravda"
+      ],
+      "outlet_count": 1,
+      "topic": "Environment",
+      "vk_engagement": "medium",
+      "prominence": "featured",
+      "summary": "Scientists have concluded that Earth has crossed critical climate thresholds, declaring that the planet has passed the 'point of no return' in terms of certain environmental changes. The report outlines the conclusions and forecasts made by researchers regarding irreversible climate impacts, rising temperatures, and the long-term consequences for ecosystems and human civilization. The findings emphasize the urgency of adaptation strategies alongside mitigation efforts.",
+      "summary_ru": "Учёные пришли к выводу, что Земля пересекла критические климатические пороги, заявив, что планета прошла 'точку невозврата' в отношении определённых экологических изменений. Отчёт описывает выводы и прогнозы, сделанные исследователями относительно необратимых климатических воздействий, повышения температур и долгосрочных последствий для экосистем и человеческой цивилизации. Выводы подчёркивают срочность стратегий адаптации наряду с усилиями по смягчению.",
+      "why_trending": "This story is trending due to growing global concern about climate change and its immediate impacts. The dramatic framing of a 'point of no return' captures public attention and raises awareness about environmental challenges facing humanity.",
+      "why_trending_ru": "Эта история в тренде из-за растущей глобальной озабоченности изменением климата и его непосредственными последствиями. Драматическое обрамление 'точки невозврата' привлекает внимание общественности и повышает осведомлённость об экологических вызовах, стоящих перед человечеством.",
+      "source_urls": [
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-10-28",
+      "tags": [
+        "Environment",
+        "Climate Change",
+        "Science",
+        "Global Warming"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Village Liberation Without Casualties: Heroic Advance Near Pokrovsk",
+      "title_ru": "Освобождение села без жертв и марш-бросок под носом у противника: героизм наших бойцов помог продвинуться на Покровском направлении",
+      "viral_score": 59.7,
+      "outlets": [
+        "Komsomolskaya Pravda"
+      ],
+      "outlet_count": 1,
+      "topic": "Ukraine Conflict",
+      "vk_engagement": "medium",
+      "prominence": "featured",
+      "summary": "Russian forces successfully liberated a village near Pokrovsk without suffering casualties, executing a tactical march under enemy observation. The operation demonstrates the skill and bravery of Russian soldiers who managed to advance on the Pokrovsk direction through strategic maneuvering and tactical superiority. The story highlights individual acts of heroism that contributed to the military success in this strategically important area.",
+      "summary_ru": "Российские силы успешно освободили село под Покровском без потерь, выполнив тактический марш-бросок под наблюдением противника. Операция демонстрирует мастерство и храбрость российских солдат, которым удалось продвинуться на Покровском направлении благодаря стратегическому маневрированию и тактическому превосходству. История подчёркивает индивидуальные акты героизма, которые способствовали военному успеху в этой стратегически важной области.",
+      "why_trending": "This story is trending because it provides positive military news with an emphasis on minimizing casualties, which resonates with families of service members. The tactical success and heroism narrative appeals to patriotic sentiment and offers reassurance about military operations.",
+      "why_trending_ru": "Эта история в тренде, потому что предоставляет позитивные военные новости с акцентом на минимизацию потерь, что находит отклик у семей военнослужащих. Тактический успех и нарратив героизма апеллируют к патриотическим чувствам и предлагают уверенность в военных операциях.",
+      "source_urls": [
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-10-28",
+      "tags": [
+        "Ukraine Conflict",
+        "Military Operations",
+        "Pokrovsk",
+        "Heroism"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "RT Investigation: France Prepares Grenade Launchers for Riot Control",
+      "title_ru": "Расследование RT: Напуганные массовыми беспорядками французские власти готовятся палить по собственным гражданам из гранатомётов",
+      "viral_score": 57.2,
+      "outlets": [
+        "RT Russian"
+      ],
+      "outlet_count": 1,
+      "topic": "International Relations",
+      "vk_engagement": "medium",
+      "prominence": "featured",
+      "summary": "An RT investigation revealed that French authorities, alarmed by mass riots, are preparing to use 40mm grenade launchers with non-lethal ammunition against their own citizens. The report indicates that French security forces will purchase 5,200 such weapons at significant cost to the state budget. This development reflects the escalating tensions in France and the government's increasingly militarized response to civil unrest.",
+      "summary_ru": "Расследование RT выявило, что французские власти, встревоженные массовыми беспорядками, готовятся использовать 40-мм гранатомёты с небоевыми снарядами против собственных граждан. Отчёт указывает, что французские силы безопасности закупят 5200 таких орудий за значительные средства из государственного бюджета. Это развитие отражает нарастающую напряжённость во Франции и всё более милитаризованный ответ правительства на гражданские волнения.",
+      "why_trending": "This story is trending because it highlights social tensions in a major European country and provides a critical perspective on Western governments' handling of domestic protests. The dramatic nature of the equipment being deployed adds shock value that drives engagement.",
+      "why_trending_ru": "Эта история в тренде, потому что подчёркивает социальную напряжённость в крупной европейской стране и предоставляет критическую перспективу на обращение западных правительств с внутренними протестами. Драматический характер развёртываемого оборудования добавляет шоковую ценность, которая стимулирует вовлечённость.",
+      "source_urls": [
+        "https://russian.rt.com/"
+      ],
+      "date": "2025-10-27",
+      "tags": [
+        "International Relations",
+        "France",
+        "Protests",
+        "Riot Control",
+        "Civil Unrest"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Blackout on Sakhalin: Consequences of Power Supply Disruption",
+      "title_ru": "Блэкаут на Сахалине. Последствия нарушения электроснабжения",
+      "viral_score": 57.2,
+      "outlets": [
+        "TASS",
+        "Rossiyskaya Gazeta",
+        "Lenta.ru"
+      ],
+      "outlet_count": 3,
+      "topic": "Domestic Affairs",
+      "vk_engagement": "high",
+      "prominence": "featured",
+      "summary": "A major power outage affected Sakhalin Island, leaving residents without electricity following a large-scale blackout. Authorities are investigating the causes of the disruption and working to restore power to affected areas. Residents reported seeing a mysterious flash near a thermal power plant before the blackout occurred. The incident has raised questions about infrastructure reliability and emergency preparedness in the region.",
+      "summary_ru": "Крупное отключение электроэнергии затронуло остров Сахалин, оставив жителей без электричества после масштабного блэкаута. Власти расследуют причины нарушения и работают над восстановлением электроснабжения в пострадавших районах. Жители сообщили о наблюдении загадочной вспышки возле тепловой электростанции перед блэкаутом. Инцидент поднял вопросы о надёжности инфраструктуры и готовности к чрезвычайным ситуациям в регионе.",
+      "why_trending": "This story is trending because it affects thousands of residents and raises concerns about infrastructure reliability in remote regions. The mysterious flash adds an element of intrigue, while the practical impact on daily life makes it highly relevant to affected communities.",
+      "why_trending_ru": "Эта история в тренде, потому что затрагивает тысячи жителей и вызывает опасения относительно надёжности инфраструктуры в отдалённых регионах. Загадочная вспышка добавляет элемент интриги, в то время как практическое влияние на повседневную жизнь делает её весьма актуальной для пострадавших сообществ.",
+      "source_urls": [
+        "https://tass.ru/",
+        "https://rg.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-28",
+      "tags": [
+        "Domestic Affairs",
+        "Sakhalin",
+        "Power Outage",
+        "Infrastructure",
+        "Emergency"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Central Bank Analysis: When Inflation Will Decrease and Rate Reduction Plans",
+      "title_ru": "Когда снизится инфляция и сколько будут опускать ставку. О чем сказала глава ЦБ",
+      "viral_score": 57.2,
+      "outlets": [
+        "TASS",
+        "Rossiyskaya Gazeta"
+      ],
+      "outlet_count": 2,
+      "topic": "Economy",
+      "vk_engagement": "high",
+      "prominence": "featured",
+      "summary": "Central Bank Governor Elvira Nabiullina provided detailed insights into Russia's inflation trajectory and interest rate policy. She explained that the cycle of key rate reductions will capture the entire following year, with inflation expected to return to the 4% target in the second half of 2026. The statement offers clarity on monetary policy direction and economic expectations for businesses and consumers planning their financial futures.",
+      "summary_ru": "Председатель Центрального банка Эльвира Набиуллина предоставила подробные сведения о траектории инфляции в России и политике процентных ставок. Она объяснила, что цикл снижения ключевой ставки охватит весь следующий год, при этом инфляция, как ожидается, вернётся к целевому показателю 4% во второй половине 2026 года. Заявление предлагает ясность относительно направления денежно-кредитной политики и экономических ожиданий для бизнеса и потребителей, планирующих своё финансовое будущее.",
+      "why_trending": "This story is trending because it directly impacts borrowing costs, savings rates, and purchasing power for all Russians. Nabiullina's credibility and the Central Bank's influence on the economy make her statements highly newsworthy and closely analyzed by economists and the public.",
+      "why_trending_ru": "Эта история в тренде, потому что напрямую влияет на стоимость заимствований, ставки сбережений и покупательную способность для всех россиян. Авторитет Набиуллиной и влияние Центрального банка на экономику делают её заявления весьма значимыми и тщательно анализируемыми экономистами и общественностью.",
+      "source_urls": [
+        "https://tass.ru/",
+        "https://rg.ru/"
+      ],
+      "date": "2025-10-28",
+      "tags": [
+        "Economy",
+        "Central Bank",
+        "Inflation",
+        "Interest Rates",
+        "Monetary Policy"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "African Passions Over Natural Resources",
+      "title_ru": "Африканские страсти вокруг природных ресурсов",
+      "viral_score": 57.2,
+      "outlets": [
+        "RIA Novosti"
+      ],
+      "outlet_count": 1,
+      "topic": "International Relations",
+      "vk_engagement": "medium",
+      "prominence": "featured",
+      "summary": "An analytical piece examines the intensifying competition and conflicts surrounding natural resource exploitation in Africa. The article explores how global powers are vying for access to African minerals, energy resources, and strategic materials critical for modern technologies. The analysis provides context for understanding geopolitical tensions, economic development challenges, and the complex relationships between African nations and international actors seeking to secure resource access.",
+      "summary_ru": "Аналитическая статья исследует усиливающуюся конкуренцию и конфликты вокруг эксплуатации природных ресурсов в Африке. Статья изучает, как мировые державы борются за доступ к африканским минералам, энергетическим ресурсам и стратегическим материалам, критически важным для современных технологий. Анализ предоставляет контекст для понимания геополитической напряжённости, вызовов экономического развития и сложных отношений между африканскими нациями и международными акторами, стремящимися обеспечить доступ к ресурсам.",
+      "why_trending": "This story is trending due to increasing global competition for critical resources and Africa's growing strategic importance. The topic resonates with readers interested in geopolitics, economic development, and Russia's expanding influence in Africa.",
+      "why_trending_ru": "Эта история в тренде из-за растущей глобальной конкуренции за критические ресурсы и возрастающей стратегической важности Африки. Тема находит отклик у читателей, интересующихся геополитикой, экономическим развитием и расширяющимся влиянием России в Африке.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2025-10-28",
+      "tags": [
+        "International Relations",
+        "Africa",
+        "Natural Resources",
+        "Geopolitics",
+        "Economics"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Russia's MS-21 Aircraft with Domestic Engines Completes Successful Test Flight",
+      "title_ru": "Второй импортозамещенный самолет МС-21 поднялся в небо",
+      "viral_score": 56.5,
+      "outlets": [
+        "TASS",
+        "RIA Novosti",
+        "Rossiyskaya Gazeta"
+      ],
+      "outlet_count": 3,
+      "topic": "Technology & Industry",
+      "vk_engagement": "high",
+      "prominence": "featured",
+      "summary": "The second import-substituted MS-21 aircraft equipped with domestically produced PD-14 engines successfully completed a test flight in Irkutsk. This milestone represents a significant achievement in Russia's aviation industry and import substitution program. The aircraft tested new systems and Russian-made engines, demonstrating the country's capability to produce modern civilian aircraft with domestic components, reducing dependence on foreign technology.",
+      "summary_ru": "Второй импортозамещённый самолёт МС-21, оснащённый отечественными двигателями ПД-14, успешно завершил испытательный полёт в Иркутске. Эта веха представляет значительное достижение в российской авиационной промышленности и программе импортозамещения. Самолёт испытал новые системы и российские двигатели, демонстрируя способность страны производить современные гражданские самолёты с отечественными компонентами, снижая зависимость от иностранных технологий.",
+      "why_trending": "This story is trending because it represents a major technological achievement and demonstrates Russia's industrial capabilities amid international sanctions. The successful test flight of a domestically-produced civilian aircraft is a source of national pride and economic significance.",
+      "why_trending_ru": "Эта история в тренде, потому что представляет крупное технологическое достижение и демонстрирует промышленные возможности России на фоне международных санкций. Успешный испытательный полёт отечественного гражданского самолёта является источником национальной гордости и экономической значимости.",
+      "source_urls": [
+        "https://tass.ru/",
+        "https://ria.ru/",
+        "https://rg.ru/"
+      ],
+      "date": "2025-10-28",
+      "tags": [
+        "Technology & Industry",
+        "Aviation",
+        "MS-21",
+        "Import Substitution",
+        "PD-14"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Russia Tests Nuclear-Powered Burevestnik Cruise Missile, Alarming Trump",
+      "title_ru": "Россия испытала ракету «Буревестник» с ядерной установкой. Она уже встревожила Трампа",
+      "viral_score": 56.0,
+      "outlets": [
+        "Lenta.ru",
+        "Komsomolskaya Pravda"
+      ],
+      "outlet_count": 2,
+      "topic": "Military & Defense",
+      "vk_engagement": "high",
+      "prominence": "featured",
+      "summary": "Russia conducted tests of the Burevestnik cruise missile equipped with a nuclear power plant, a weapon system that has already alarmed former U.S. President Trump. The missile represents a significant advancement in military technology with virtually unlimited range due to its nuclear propulsion system. The development could pose a potential threat to U.S. missile defense systems and has sparked renewed debate about strategic arms control and nuclear weapons development.",
+      "summary_ru": "Россия провела испытания крылатой ракеты «Буревестник», оснащённой ядерной силовой установкой, оружейной системы, которая уже встревожила бывшего президента США Трампа. Ракета представляет значительный прорыв в военной технологии с практически неограниченной дальностью благодаря ядерной двигательной установке. Разработка может представлять потенциальную угрозу для систем противоракетной обороны США и вызвала возобновлённые дебаты о контроле над стратегическими вооружениями и разработке ядерного оружия.",
+      "why_trending": "This story is trending due to its significant implications for global security and the strategic balance between major powers. The nuclear-powered missile represents cutting-edge military technology that has captured international attention and raised concerns about arms race escalation.",
+      "why_trending_ru": "Эта история в тренде из-за её значительных последствий для глобальной безопасности и стратегического баланса между крупными державами. Ракета с ядерной силовой установкой представляет передовую военную технологию, которая привлекла международное внимание и вызвала опасения относительно эскалации гонки вооружений.",
+      "source_urls": [
+        "https://lenta.ru/",
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-10-27",
+      "tags": [
+        "Military & Defense",
+        "Nuclear Weapons",
+        "Burevestnik",
+        "Strategic Arms",
+        "Russia-US Relations"
+      ]
+    }
+  ]
 }

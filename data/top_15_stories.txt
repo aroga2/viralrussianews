@@ -1,0 +1,124 @@
+TOP 15 VIRAL RUSSIA NEWS STORIES
+Generated: 2025-10-28 03:09:38
+================================================================================
+
+1. В Крыму предотвратили теракт против высокопоставленного сотрудника МВД
+   Viral Score: 70.8
+   Topic: Security
+   Outlets (2): Rossiyskaya Gazeta, TASS
+   Prominence: top_story
+   Timestamp: 06:45, Обновлено 06:52
+   Normalized: крыму предотвратили теракт против высокопоставленного сотрудника мвд
+
+2. «Радистка Кэт»: Оператор Катя отвоевывает у ВСУ небо под Покровском и мечтает о победе в головах
+   Viral Score: 66.7
+   Topic: Ukraine Conflict
+   Outlets (1): Komsomolskaya Pravda
+   Prominence: top_story
+   Timestamp: 7 часов назад
+   Normalized: радистка кэт оператор катя отвоевывает всу небо под покровском мечтает победе головах
+
+3. Военкор Коц показал работу девушки – оператора БПЛА под Покровском
+   Viral Score: 66.7
+   Topic: Ukraine Conflict
+   Outlets (1): Komsomolskaya Pravda
+   Prominence: top_story
+   Timestamp: 7 часов назад
+   Normalized: военкор коц показал работу девушки оператора бпла под покровском
+
+4. За езду с выданными в 2025 году номерами без флага России грозит штраф
+   Viral Score: 64.2
+   Topic: Other
+   Outlets (1): TASS
+   Prominence: top_story
+   Timestamp: 06:31
+   Normalized: езду выданными 2025 году номерами без флага россии грозит штраф
+
+5. Набиуллина дала оценку ситуации в российской экономике
+   Viral Score: 64.2
+   Topic: Economy
+   Outlets (1): RIA Novosti
+   Prominence: top_story
+   Timestamp: 10:01
+   Normalized: набиуллина дала оценку ситуации российской экономике
+
+6. «Он умолял меня». Бывший генсек НАТО рассказал, как отказал Зеленскому в поддержке в 2022 году. Почему это произошло?
+   Viral Score: 64.2
+   Topic: Ukraine Conflict
+   Outlets (1): Lenta.ru
+   Prominence: top_story
+   Timestamp: 08:47
+   Normalized: умолял меня бывший генсек нато рассказал как отказал зеленскому поддержке 2022 году почему это произошло
+
+7. Как я пытался заработать на покупке золота и сколько это мне принесло
+   Viral Score: 59.7
+   Topic: International Relations
+   Outlets (1): Komsomolskaya Pravda
+   Prominence: featured
+   Timestamp: 4 часа назад
+   Normalized: как пытался заработать покупке золота сколько это мне принесло
+
+8. Планета прошла "точку невозврата": какие выводы и прогнозы сделали ученые
+   Viral Score: 59.7
+   Topic: Other
+   Outlets (1): Komsomolskaya Pravda
+   Prominence: featured
+   Timestamp: 5 минут назад
+   Normalized: планета прошла точку невозврата какие выводы прогнозы сделали ученые
+
+9. Освобождение села без жертв и марш-бросок под носом у противника: героизм наших бойцов помог продвинуться на Покровском направлении
+   Viral Score: 59.7
+   Topic: Ukraine Conflict
+   Outlets (1): Komsomolskaya Pravda
+   Prominence: featured
+   Timestamp: 2 дня назад
+   Normalized: освобождение села без жертв маршбросок под носом противника героизм наших бойцов помог продвинуться покровском направлении
+
+10. Расследование RT: Напуганные массовыми беспорядками французские власти готовятся палить по собственным гражданам из гранатомётов
+   Viral Score: 57.2
+   Topic: International Relations
+   Outlets (1): RT Russian
+   Prominence: featured
+   Timestamp: 27 октября, 10:08
+   Normalized: расследование напуганные массовыми беспорядками французские власти готовятся палить собственным гражданам гранатомётов
+
+11. Блэкаут на Сахалине. Последствия нарушения электроснабжения (Статья)
+   Viral Score: 57.2
+   Topic: Other
+   Outlets (1): TASS
+   Prominence: featured
+   Timestamp: 06:25
+   Normalized: блэкаут сахалине последствия нарушения электроснабжения статья
+
+12. Когда снизится инфляция и сколько будут опускать ставку. О чем сказала глава ЦБ (Статья)
+   Viral Score: 57.2
+   Topic: Economy
+   Outlets (1): TASS
+   Prominence: featured
+   Timestamp: 06:51
+   Normalized: когда снизится инфляция сколько будут опускать ставку чем сказала глава статья
+
+13. Африканские страсти вокруг природных ресурсов
+   Viral Score: 57.2
+   Topic: International Relations
+   Outlets (1): RIA Novosti
+   Prominence: featured
+   Timestamp: 08:00
+   Normalized: африканские страсти вокруг природных ресурсов
+
+14. Русские выдохлись, но Киев срочно запросил мира
+   Viral Score: 57.2
+   Topic: Other
+   Outlets (1): RIA Novosti
+   Prominence: featured
+   Timestamp: 08:00
+   Normalized: русские выдохлись киев срочно запросил мира
+
+15. Трамп хочет от Си то, что председатель не может ему дать
+   Viral Score: 57.2
+   Topic: International Relations
+   Outlets (1): RIA Novosti
+   Prominence: featured
+   Timestamp: 08:00
+   Normalized: трамп хочет что председатель может ему дать
+
