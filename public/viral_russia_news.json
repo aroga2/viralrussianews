@@ -1,34 +1,482 @@
 {
   "metadata": {
-    "generated_at": "2025-10-30T06:16:22.376308",
-    "collection_period": "2025-10-30",
-    "total_outlets": 6,
-    "outlets": [
-      {
-        "name": "RT Russian",
-        "url": "https://russian.rt.com/"
-      },
-      {
-        "name": "TASS",
-        "url": "https://tass.ru/"
-      },
-      {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/"
-      },
-      {
-        "name": "Rossiyskaya Gazeta",
-        "url": "https://rg.ru/"
-      },
-      {
-        "name": "Komsomolskaya Pravda",
-        "url": "https://www.kp.ru/"
-      },
-      {
-        "name": "Lenta.ru",
-        "url": "https://lenta.ru/"
-      }
-    ]
+    "generated_at": "2025-10-30T07:18:54.045779",
+    "collection_date": "2025-10-30",
+    "total_stories": 15,
+    "sources": [
+      "RT Russian (russian.rt.com)",
+      "TASS (tass.ru)",
+      "RIA Novosti (ria.ru)",
+      "Rossiyskaya Gazeta (rg.ru)",
+      "Komsomolskaya Pravda (kp.ru)",
+      "Lenta.ru (lenta.ru)"
+    ],
+    "methodology": "Stories ranked by viral score based on cross-outlet coverage, homepage prominence, and estimated VK engagement metrics"
   },
-  "stories": []
+  "stories": [
+    {
+      "title": "170 Ukrainian Drones Shot Down Over Russia Overnight",
+      "title_ru": "За ночь над 15 регионами России сбито 170 украинских БПЛА",
+      "outlets": [
+        "RT Russian",
+        "TASS",
+        "RIA Novosti",
+        "Lenta.ru"
+      ],
+      "prominence": "top_story",
+      "topic": "Military/Defense",
+      "vk_engagement": "Very High",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://tass.ru/",
+        "https://ria.ru/",
+        "https://lenta.ru/"
+      ],
+      "summary": "Russian air defense forces successfully intercepted and destroyed 170 Ukrainian unmanned aerial vehicles during overnight operations across 15 regions of Russia. The Ministry of Defense reported that the drones were targeting civilian infrastructure and military facilities. In Voronezh Oblast, several private homes, a car, an agricultural enterprise, and a school gym were damaged. This represents one of the largest single-night interception operations, demonstrating the effectiveness of Russian air defense systems.",
+      "summary_ru": "Силы противовоздушной обороны России успешно перехватили и уничтожили 170 украинских беспилотных летательных аппаратов в ходе ночных операций в 15 регионах России. Министерство обороны сообщило, что дроны были нацелены на гражданскую инфраструктуру и военные объекты. В Воронежской области повреждены несколько частных домов, автомобиль, сельхозпредприятие и спортзал школы. Это одна из крупнейших операций по перехвату за одну ночь, демонстрирующая эффективность российских систем ПВО.",
+      "why_trending": "This story is trending because it represents a major escalation in drone warfare with an unprecedented number of intercepted drones (170). It demonstrates both intensified Ukrainian attempts to strike Russian territory and Russia's air defense capabilities. The story has massive cross-platform coverage across all major outlets.",
+      "why_trending_ru": "Эта история в тренде, потому что она представляет собой значительную эскалацию дронной войны с беспрецедентным количеством перехваченных дронов (170). Она демонстрирует как усиление попыток Украины нанести удары по территории России, так и возможности российской ПВО. История имеет массовое освещение на всех крупных платформах.",
+      "tags": [
+        "Military",
+        "Defense",
+        "Air Defense",
+        "Drones",
+        "Ukraine Conflict",
+        "National Security"
+      ],
+      "viral_score": 100,
+      "outlet_count": 4,
+      "date": "2025-10-30",
+      "rank": 1
+    },
+    {
+      "title": "Trump Orders Immediate Nuclear Weapons Testing",
+      "title_ru": "Трамп приказал срочно испытать ядерное оружие",
+      "outlets": [
+        "RIA Novosti",
+        "TASS",
+        "Lenta.ru"
+      ],
+      "prominence": "featured",
+      "topic": "International/Nuclear",
+      "vk_engagement": "High",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://tass.ru/",
+        "https://lenta.ru/"
+      ],
+      "summary": "US President Donald Trump has ordered the immediate resumption of nuclear weapons testing, marking a significant shift in US nuclear policy. The decision has raised concerns internationally about a potential new nuclear arms race. Trump discussed the situation in Ukraine and trade tariffs with Chinese President Xi Jinping during their meeting. The move has drawn attention to how this will affect US-Russia relations and global nuclear stability.",
+      "summary_ru": "Президент США Дональд Трамп распорядился немедленно начать испытания ядерного оружия, что знаменует значительный сдвиг в ядерной политике США. Решение вызвало международную обеспокоенность по поводу потенциальной новой гонки ядерных вооружений. Трамп обсудил ситуацию на Украине и торговые пошлины с председателем КНР Си Цзиньпином во время их встречи. Этот шаг привлек внимание к тому, как это отразится на отношениях России и США и глобальной ядерной стабильности.",
+      "why_trending": "This story is trending due to its massive implications for global nuclear stability and US-Russia relations. The resumption of nuclear testing after decades of moratorium represents a major geopolitical development that affects international security architecture.",
+      "why_trending_ru": "Эта история в тренде из-за ее масштабных последствий для глобальной ядерной стабильности и российско-американских отношений. Возобновление ядерных испытаний после десятилетий моратория представляет собой крупное геополитическое событие, влияющее на архитектуру международной безопасности.",
+      "tags": [
+        "Nuclear Weapons",
+        "Trump",
+        "US Policy",
+        "International Relations",
+        "Nuclear Testing",
+        "Xi Jinping"
+      ],
+      "viral_score": 70,
+      "outlet_count": 3,
+      "date": "2025-10-30",
+      "rank": 2
+    },
+    {
+      "title": "Russia Has Plan to Achieve Victory in Ukraine Conflict",
+      "title_ru": "У России есть план по достижению победы в конфликте на Украине",
+      "outlets": [
+        "RT Russian",
+        "RIA Novosti",
+        "TASS"
+      ],
+      "prominence": "featured",
+      "topic": "Military/Ukraine",
+      "vk_engagement": "High",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://ria.ru/",
+        "https://tass.ru/"
+      ],
+      "summary": "Russia has a plan to achieve victory in the Ukraine conflict, while Kyiv's allies lack such a plan, according to Western media reports. Bloomberg noted that Ukrainian authorities only have a survival plan. Putin announced the creation of the strongest combat formations in the Kursk and Krasnoarmeysk zones, and mentioned testing of the 'Posledniy' (Last) weapon system.",
+      "summary_ru": "У России есть план по достижению победы в конфликте на Украине, тогда как у союзников Киева такового нет, пишут западные СМИ. Как отметили в Bloomberg, у украинских властей есть только план выживания. Путин заявил о создании сильнейших боевых формирований в Курской и Красноармейской зонах, упомянул об испытаниях оружия «Последний».",
+      "why_trending": "This story is trending because it signals a potential shift in the military balance and strategic outlook of the conflict. Western media acknowledgment of Russia's strategic advantage and Ukraine's lack of a victory plan represents a significant narrative shift.",
+      "why_trending_ru": "Эта история в тренде, потому что она сигнализирует о потенциальном изменении военного баланса и стратегических перспектив конфликта. Признание западными СМИ стратегического преимущества России и отсутствия у Украины плана победы представляет собой значительный сдвиг в нарративе.",
+      "tags": [
+        "Ukraine Conflict",
+        "Military Strategy",
+        "Putin",
+        "Bloomberg",
+        "Victory Plan",
+        "Kursk"
+      ],
+      "viral_score": 70,
+      "outlet_count": 3,
+      "date": "2025-10-30",
+      "rank": 3
+    },
+    {
+      "title": "France Detains Third Suspect in Louvre Robbery",
+      "title_ru": "Во Франции задержали третьего подозреваемого в ограблении Лувра",
+      "outlets": [
+        "RT Russian",
+        "TASS",
+        "Lenta.ru",
+        "RIA Novosti"
+      ],
+      "prominence": "news_feed",
+      "topic": "Crime/International",
+      "vk_engagement": "Medium",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://tass.ru/",
+        "https://lenta.ru/",
+        "https://ria.ru/"
+      ],
+      "summary": "French authorities have detained a third suspect in connection with the recent high-profile robbery at the Louvre Museum in Paris. The investigation is ongoing as police continue to search for other individuals involved in the heist. BFMTV reports that five suspects in total have now been detained in connection with the robbery.",
+      "summary_ru": "Французские власти задержали третьего подозреваемого в связи с недавним громким ограблением в Лувре в Париже. Расследование продолжается, полиция ищет других причастных к ограблению лиц. По данным BFMTV, всего задержано уже пять подозреваемых в связи с ограблением.",
+      "why_trending": "This story is a follow-up to a major international crime story, which always attracts significant media attention. The involvement of a world-famous landmark like the Louvre keeps it in the headlines.",
+      "why_trending_ru": "Эта история является продолжением крупного международного криминального сюжета, который всегда привлекает значительное внимание СМИ. Участие всемирно известной достопримечательности, такой как Лувр, удерживает ее в заголовках.",
+      "tags": [
+        "Crime",
+        "Louvre",
+        "France",
+        "Robbery",
+        "Paris",
+        "Investigation"
+      ],
+      "viral_score": 65,
+      "outlet_count": 4,
+      "date": "2025-10-30",
+      "rank": 4
+    },
+    {
+      "title": "Switzerland Joins Additional Sanctions Against Russia",
+      "title_ru": "Швейцария присоединилась к дополнительным санкциям против России",
+      "outlets": [
+        "TASS",
+        "Lenta.ru",
+        "RIA Novosti"
+      ],
+      "prominence": "featured",
+      "topic": "International/Economy",
+      "vk_engagement": "Medium",
+      "source_urls": [
+        "https://tass.ru/",
+        "https://lenta.ru/",
+        "https://ria.ru/"
+      ],
+      "summary": "Switzerland has joined additional measures from the EU's 18th sanctions package against Russia and Belarus. The decision continues Switzerland's policy of aligning with European sanctions despite its traditional neutrality. The move affects trade and financial relations between Switzerland and Russia.",
+      "summary_ru": "Швейцария присоединилась к дополнительным мерам 18-го пакета санкций ЕС против России и Белоруссии. Решение продолжает политику Швейцарии по присоединению к европейским санкциям, несмотря на ее традиционный нейтралитет. Этот шаг затрагивает торговые и финансовые отношения между Швейцарией и Россией.",
+      "why_trending": "This story highlights the continued international pressure on Russia and the erosion of traditional neutrality positions. Switzerland's participation in sanctions is significant given its historical neutral stance.",
+      "why_trending_ru": "Эта история подчеркивает продолжающееся международное давление на Россию и размывание традиционных позиций нейтралитета. Участие Швейцарии в санкциях значимо с учетом ее исторически нейтральной позиции.",
+      "tags": [
+        "Sanctions",
+        "Switzerland",
+        "EU",
+        "International Relations",
+        "Economy",
+        "Neutrality"
+      ],
+      "viral_score": 65,
+      "outlet_count": 3,
+      "date": "2025-10-30",
+      "rank": 5
+    },
+    {
+      "title": "Russians Warned About Penalties for Shoes Left in Hallways",
+      "title_ru": "Россиян предупредили о наказании за обувь в подъезде",
+      "outlets": [
+        "Lenta.ru",
+        "RT Russian"
+      ],
+      "prominence": "news_feed",
+      "topic": "Society/Law",
+      "vk_engagement": "High",
+      "source_urls": [
+        "https://lenta.ru/",
+        "https://russian.rt.com/"
+      ],
+      "summary": "Russian residents have been warned about potential fines for leaving shoes in apartment building hallways. Deputy Kolunov stated that leaving footwear in common areas can result in penalties. The announcement addresses fire safety concerns and building regulations.",
+      "summary_ru": "Российских жителей предупредили о возможных штрафах за оставление обуви в подъездах многоквартирных домов. Депутат Колунов заявил, что оставление обуви в местах общего пользования может привести к штрафам. Объявление касается вопросов пожарной безопасности и правил содержания зданий.",
+      "why_trending": "This story is trending because it affects everyday life of millions of Russians living in apartment buildings. The threat of fines for a common practice generates significant discussion and concern.",
+      "why_trending_ru": "Эта история в тренде, потому что она затрагивает повседневную жизнь миллионов россиян, живущих в многоквартирных домах. Угроза штрафов за распространенную практику вызывает значительное обсуждение и обеспокоенность.",
+      "tags": [
+        "Society",
+        "Law",
+        "Fines",
+        "Apartment Buildings",
+        "Regulations",
+        "Fire Safety"
+      ],
+      "viral_score": 40,
+      "outlet_count": 2,
+      "date": "2025-10-30",
+      "rank": 6
+    },
+    {
+      "title": "China Confirms Plans to Send Shenzhou-21 with Three Taikonauts on October 31",
+      "title_ru": "Китай утвердил запуск корабля «Шэньчжоу-21» с тремя тайконавтами на 31 октября",
+      "outlets": [
+        "RT Russian",
+        "TASS"
+      ],
+      "prominence": "news_feed",
+      "topic": "Space/Technology",
+      "vk_engagement": "Medium",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://tass.ru/"
+      ],
+      "summary": "China has approved the launch of the Shenzhou-21 spacecraft carrying three taikonauts for October 31. The mission continues China's ambitious space program and demonstrates its growing capabilities in human spaceflight. The crew will dock with China's Tiangong space station.",
+      "summary_ru": "Китай утвердил запуск корабля «Шэньчжоу-21» с тремя тайконавтами на 31 октября. Миссия продолжает амбициозную космическую программу Китая и демонстрирует растущие возможности страны в пилотируемой космонавтике. Экипаж состыкуется с китайской космической станцией «Тяньгун».",
+      "why_trending": "This story is trending as it showcases China's continued advancement in space exploration and its competition with other space powers. The regular crewed missions demonstrate China's established presence in space.",
+      "why_trending_ru": "Эта история в тренде, так как она демонстрирует продолжающееся развитие Китая в освоении космоса и его конкуренцию с другими космическими державами. Регулярные пилотируемые миссии демонстрируют устоявшееся присутствие Китая в космосе.",
+      "tags": [
+        "China",
+        "Space",
+        "Shenzhou",
+        "Taikonauts",
+        "Tiangong",
+        "Space Station"
+      ],
+      "viral_score": 35,
+      "outlet_count": 2,
+      "date": "2025-10-30",
+      "rank": 7
+    },
+    {
+      "title": "Russian Forces Strike Ukrainian Officer Compound",
+      "title_ru": "ВС России нанесли удар по особняку с украинскими офицерами",
+      "outlets": [
+        "Lenta.ru",
+        "RT Russian"
+      ],
+      "prominence": "news_feed",
+      "topic": "Military/Ukraine",
+      "vk_engagement": "Medium",
+      "source_urls": [
+        "https://lenta.ru/",
+        "https://russian.rt.com/"
+      ],
+      "summary": "Russian forces conducted a strike on a building housing Ukrainian military officers. The operation targeted command and control infrastructure as part of ongoing military operations. Details about casualties were not immediately available.",
+      "summary_ru": "Вооруженные силы России нанесли удар по зданию, где размещались украинские военные офицеры. Операция была направлена на инфраструктуру командования и управления в рамках продолжающихся военных действий. Подробности о потерях сразу не сообщались.",
+      "why_trending": "This story is trending as it represents targeted strikes against Ukrainian military command structures, indicating continued precision operations in the conflict.",
+      "why_trending_ru": "Эта история в тренде, так как представляет собой целенаправленные удары по украинским военным командным структурам, указывая на продолжающиеся точечные операции в конфликте.",
+      "tags": [
+        "Military",
+        "Ukraine Conflict",
+        "Strike",
+        "Command Structure",
+        "Operations"
+      ],
+      "viral_score": 35,
+      "outlet_count": 2,
+      "date": "2025-10-30",
+      "rank": 8
+    },
+    {
+      "title": "Russians Named Most Popular Ski Resort in the Country",
+      "title_ru": "Россиянам назвали самый популярный горнолыжный курорт страны",
+      "outlets": [
+        "Lenta.ru",
+        "RT Russian"
+      ],
+      "prominence": "news_feed",
+      "topic": "Tourism/Lifestyle",
+      "vk_engagement": "Medium",
+      "source_urls": [
+        "https://lenta.ru/",
+        "https://russian.rt.com/"
+      ],
+      "summary": "A survey has identified the most popular ski resort in Russia among domestic tourists. The ranking comes as the winter tourism season approaches and Russians plan their holiday destinations. The results reflect changing preferences in domestic tourism.",
+      "summary_ru": "Опрос выявил самый популярный горнолыжный курорт в России среди отечественных туристов. Рейтинг появился по мере приближения зимнего туристического сезона, когда россияне планируют свои праздничные направления. Результаты отражают изменяющиеся предпочтения в внутреннем туризме.",
+      "why_trending": "This story is trending as winter approaches and Russians plan their holiday travel. Domestic tourism has become increasingly important, making such rankings newsworthy.",
+      "why_trending_ru": "Эта история в тренде по мере приближения зимы и планирования россиянами праздничных поездок. Внутренний туризм стал все более важным, что делает такие рейтинги актуальными.",
+      "tags": [
+        "Tourism",
+        "Ski Resorts",
+        "Winter",
+        "Domestic Travel",
+        "Lifestyle"
+      ],
+      "viral_score": 35,
+      "outlet_count": 2,
+      "date": "2025-10-30",
+      "rank": 9
+    },
+    {
+      "title": "Pashinyan Calls on Armenians to Prepare",
+      "title_ru": "Пашинян призвал армян готовиться",
+      "outlets": [
+        "Lenta.ru",
+        "RIA Novosti"
+      ],
+      "prominence": "news_feed",
+      "topic": "International/Caucasus",
+      "vk_engagement": "Medium",
+      "source_urls": [
+        "https://lenta.ru/",
+        "https://ria.ru/"
+      ],
+      "summary": "Armenian Prime Minister Nikol Pashinyan has called on Armenians to prepare, though the specific context of his statement requires further clarification. The statement comes amid ongoing regional tensions in the South Caucasus.",
+      "summary_ru": "Премьер-министр Армении Никол Пашинян призвал армян готовиться, хотя конкретный контекст его заявления требует дополнительных разъяснений. Заявление прозвучало на фоне продолжающейся региональной напряженности на Южном Кавказе.",
+      "why_trending": "This story is trending due to concerns about potential escalation in the South Caucasus region. Pashinyan's statements are closely watched given Armenia's geopolitical position.",
+      "why_trending_ru": "Эта история в тренде из-за обеспокоенности возможной эскалацией в регионе Южного Кавказа. Заявления Пашиняна внимательно отслеживаются с учетом геополитического положения Армении.",
+      "tags": [
+        "Armenia",
+        "Pashinyan",
+        "Caucasus",
+        "Regional Security",
+        "Geopolitics"
+      ],
+      "viral_score": 35,
+      "outlet_count": 2,
+      "date": "2025-10-30",
+      "rank": 10
+    },
+    {
+      "title": "Putin Emphasizes Importance of Enhanced Efforts for Market Stability",
+      "title_ru": "Путин отметил важность усилий работодателей для рынка",
+      "outlets": [
+        "RIA Novosti",
+        "TASS"
+      ],
+      "prominence": "news_feed",
+      "topic": "Economy/Politics",
+      "vk_engagement": "Medium",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://tass.ru/"
+      ],
+      "summary": "President Putin highlighted the importance of employer efforts in maintaining market stability and supporting the Russian economy. The statement comes amid ongoing economic adjustments and labor market dynamics.",
+      "summary_ru": "Президент Путин подчеркнул важность усилий работодателей в поддержании стабильности рынка и поддержке российской экономики. Заявление прозвучало на фоне продолжающихся экономических корректировок и динамики рынка труда.",
+      "why_trending": "This story is trending as it addresses economic concerns and the role of businesses in maintaining stability during challenging times.",
+      "why_trending_ru": "Эта история в тренде, так как она затрагивает экономические проблемы и роль бизнеса в поддержании стабильности в сложные времена.",
+      "tags": [
+        "Economy",
+        "Putin",
+        "Labor Market",
+        "Business",
+        "Market Stability"
+      ],
+      "viral_score": 35,
+      "outlet_count": 2,
+      "date": "2025-10-30",
+      "rank": 11
+    },
+    {
+      "title": "Owner of Bloodied Mercedes Found in Russian Forest",
+      "title_ru": "Владельца окровавленного Mercedes в российском лесу нашли",
+      "outlets": [
+        "Lenta.ru"
+      ],
+      "prominence": "news_feed",
+      "topic": "Crime/Mystery",
+      "vk_engagement": "High",
+      "source_urls": [
+        "https://lenta.ru/"
+      ],
+      "summary": "Authorities have located the owner of a Mercedes vehicle that was found with blood stains in a Russian forest. The discovery had sparked concerns and an investigation into potential foul play. The case attracted significant public attention due to its mysterious circumstances.",
+      "summary_ru": "Власти обнаружили владельца автомобиля Mercedes, который был найден с пятнами крови в российском лесу. Находка вызвала обеспокоенность и расследование возможного преступления. Дело привлекло значительное общественное внимание из-за загадочных обстоятельств.",
+      "why_trending": "This story is trending due to its mysterious and potentially criminal nature. The discovery of a bloodied vehicle in a forest naturally attracts public curiosity and concern.",
+      "why_trending_ru": "Эта история в тренде из-за ее загадочного и потенциально криминального характера. Обнаружение окровавленного автомобиля в лесу естественно привлекает общественное любопытство и обеспокоенность.",
+      "tags": [
+        "Crime",
+        "Mystery",
+        "Investigation",
+        "Mercedes",
+        "Forest"
+      ],
+      "viral_score": 25,
+      "outlet_count": 1,
+      "date": "2025-10-30",
+      "rank": 12
+    },
+    {
+      "title": "Main Theory Revealed in Disappearance of Usoltsevs in Russian Taiga",
+      "title_ru": "Раскрыта главная версия пропажи Усольцевых в российской тайге",
+      "outlets": [
+        "Lenta.ru"
+      ],
+      "prominence": "news_feed",
+      "topic": "Mystery/Investigation",
+      "vk_engagement": "High",
+      "source_urls": [
+        "https://lenta.ru/"
+      ],
+      "summary": "Investigators have revealed the main theory regarding the disappearance of the Usoltsev family in the Russian taiga. The case has attracted significant public attention due to the mysterious circumstances surrounding their disappearance. A strange note and the appearance of Usoltsev online have been explained by investigators.",
+      "summary_ru": "Следователи раскрыли главную версию исчезновения семьи Усольцевых в российской тайге. Дело привлекло значительное общественное внимание из-за загадочных обстоятельств их исчезновения. Странную записку и появление Усольцева в сети объяснили следователи.",
+      "why_trending": "This story is trending due to the mysterious nature of the disappearance and public concern for the missing family. Cases involving disappearances in remote areas always generate significant interest.",
+      "why_trending_ru": "Эта история в тренде из-за загадочного характера исчезновения и общественной обеспокоенности за пропавшую семью. Случаи исчезновения в отдаленных районах всегда вызывают значительный интерес.",
+      "tags": [
+        "Mystery",
+        "Disappearance",
+        "Taiga",
+        "Investigation",
+        "Usoltsev",
+        "Search"
+      ],
+      "viral_score": 25,
+      "outlet_count": 1,
+      "date": "2025-10-30",
+      "rank": 13
+    },
+    {
+      "title": "Ukrainian Forces Leave Threatening Message About Russians at Border",
+      "title_ru": "ВСУ оставили в приграничье предмет с устрашающей надписью о россиянах",
+      "outlets": [
+        "Lenta.ru"
+      ],
+      "prominence": "news_feed",
+      "topic": "Military/Ukraine",
+      "vk_engagement": "Medium",
+      "source_urls": [
+        "https://lenta.ru/"
+      ],
+      "summary": "Ukrainian forces left an object with a threatening inscription about Russians in a border area. The incident is part of the ongoing information and psychological warfare aspects of the conflict.",
+      "summary_ru": "Вооруженные силы Украины оставили в приграничной зоне предмет с угрожающей надписью о россиянах. Инцидент является частью продолжающихся информационных и психологических аспектов войны в конфликте.",
+      "why_trending": "This story is trending as it highlights the psychological warfare dimension of the conflict and provocative actions in border regions.",
+      "why_trending_ru": "Эта история в тренде, так как она подчеркивает измерение психологической войны в конфликте и провокационные действия в приграничных регионах.",
+      "tags": [
+        "Ukraine Conflict",
+        "Border",
+        "Psychological Warfare",
+        "Military",
+        "Provocation"
+      ],
+      "viral_score": 20,
+      "outlet_count": 1,
+      "date": "2025-10-30",
+      "rank": 14
+    },
+    {
+      "title": "Russians Given Advice on When Best to Refuse Bank Card Payment",
+      "title_ru": "Россиянам дали совет, когда лучше отказаться от оплаты банковской картой",
+      "outlets": [
+        "RIA Novosti"
+      ],
+      "prominence": "news_feed",
+      "topic": "Finance/Consumer",
+      "vk_engagement": "Medium",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "summary": "Financial experts have provided Russians with advice on situations where it's better to avoid using bank cards for payment. The guidance aims to help consumers protect themselves from potential fraud and unnecessary fees.",
+      "summary_ru": "Финансовые эксперты дали россиянам советы о ситуациях, когда лучше избегать использования банковских карт для оплаты. Руководство направлено на то, чтобы помочь потребителям защитить себя от потенциального мошенничества и ненужных комиссий.",
+      "why_trending": "This story is trending as it provides practical financial advice relevant to everyday consumer decisions and security concerns.",
+      "why_trending_ru": "Эта история в тренде, так как она предоставляет практические финансовые советы, актуальные для повседневных потребительских решений и вопросов безопасности.",
+      "tags": [
+        "Finance",
+        "Banking",
+        "Consumer Advice",
+        "Security",
+        "Payment Methods"
+      ],
+      "viral_score": 20,
+      "outlet_count": 1,
+      "date": "2025-10-30",
+      "rank": 15
+    }
+  ]
 }
