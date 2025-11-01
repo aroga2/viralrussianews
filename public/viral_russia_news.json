@@ -35,182 +35,332 @@
     {
       "rank": 1,
       "title": "Что изменится в законах с 1 ноября 2025: избавьтесь от лишних симок и не копите долги",
-      "source": "Komsomolskaya Pravda",
-      "source_url": "https://www.kp.ru/",
+      "title_ru": "Что изменится в законах с 1 ноября 2025: избавьтесь от лишних симок и не копите долги",
       "viral_score": 175,
-      "topic": "Domestic Politics",
-      "prominence": "top_story",
-      "published_time": "вчера",
-      "category": "Экономика",
-      "summary": "New laws taking effect in Russia from November 1, 2025, including restrictions on SIM card ownership and debt collection rules"
+      "topic": "domestic_politics",
+      "vk_engagement": "moderate",
+      "date": "November 1, 2025",
+      "outlet_count": 1,
+      "outlets": [
+        "Komsomolskaya Pravda"
+      ],
+      "summary": "Что изменится в законах с 1 ноября 2025: избавьтесь от лишних симок и не копите долги",
+      "summary_ru": "Что изменится в законах с 1 ноября 2025: избавьтесь от лишних симок и не копите долги",
+      "why_trending": "This story is trending due to its top_story placement and relevance to domestic politics.",
+      "why_trending_ru": "Эта новость в тренде из-за её размещения как top_story и актуальности темы.",
+      "tags": [
+        "domestic_politics",
+        "top_story",
+        "экономика"
+      ]
     },
     {
       "rank": 2,
       "title": "Главный школьный вопрос – бить или учить: «Комсомолка» вместе с читателями разбиралась, кто виноват в конфликтах преподавателей и учеников",
-      "source": "Komsomolskaya Pravda",
-      "source_url": "https://www.kp.ru/",
+      "title_ru": "Главный школьный вопрос – бить или учить: «Комсомолка» вместе с читателями разбиралась, кто виноват в конфликтах преподавателей и учеников",
       "viral_score": 170,
-      "topic": "Society",
-      "prominence": "featured",
-      "published_time": "6 часов назад",
-      "category": "Общество",
-      "summary": "Investigation into the causes of conflicts between teachers and students in Russian schools"
+      "topic": "society",
+      "vk_engagement": "moderate",
+      "date": "November 1, 2025",
+      "outlet_count": 1,
+      "outlets": [
+        "Komsomolskaya Pravda"
+      ],
+      "summary": "Главный школьный вопрос – бить или учить: «Комсомолка» вместе с читателями разбиралась, кто виноват в конфликтах преподавателей и учеников",
+      "summary_ru": "Главный школьный вопрос – бить или учить: «Комсомолка» вместе с читателями разбиралась, кто виноват в конфликтах преподавателей и учеников",
+      "why_trending": "This story is trending due to its featured placement and relevance to society.",
+      "why_trending_ru": "Эта новость в тренде из-за её размещения как featured и актуальности темы.",
+      "tags": [
+        "society",
+        "featured",
+        "общество"
+      ]
     },
     {
       "rank": 3,
       "title": "Какую ошибку чаще всего совершают россияне в ОАЭ, и куда обращаться за помощью: Генконсул РФ в Дубае Максим Владимиров ответил на главные вопросы",
-      "source": "Komsomolskaya Pravda",
-      "source_url": "https://www.kp.ru/",
+      "title_ru": "Какую ошибку чаще всего совершают россияне в ОАЭ, и куда обращаться за помощью: Генконсул РФ в Дубае Максим Владимиров ответил на главные вопросы",
       "viral_score": 170,
-      "topic": "Society",
-      "prominence": "featured",
-      "published_time": "4 часа назад",
-      "category": "Эксклюзив KP.RU",
-      "summary": "Exclusive interview with Russian Consul General in Dubai about common mistakes Russians make in UAE"
+      "topic": "society",
+      "vk_engagement": "moderate",
+      "date": "November 1, 2025",
+      "outlet_count": 1,
+      "outlets": [
+        "Komsomolskaya Pravda"
+      ],
+      "summary": "Какую ошибку чаще всего совершают россияне в ОАЭ, и куда обращаться за помощью: Генконсул РФ в Дубае Максим Владимиров ответил на главные вопросы",
+      "summary_ru": "Какую ошибку чаще всего совершают россияне в ОАЭ, и куда обращаться за помощью: Генконсул РФ в Дубае Максим Владимиров ответил на главные вопросы",
+      "why_trending": "This story is trending due to its featured placement and relevance to society.",
+      "why_trending_ru": "Эта новость в тренде из-за её размещения как featured и актуальности темы.",
+      "tags": [
+        "society",
+        "featured",
+        "эксклюзив_kp.ru"
+      ]
     },
     {
       "rank": 4,
       "title": "Трамп развернулся к России и ждет краха Украины: четыре факта, которые об этом говорят",
-      "source": "Komsomolskaya Pravda",
-      "source_url": "https://www.kp.ru/",
+      "title_ru": "Трамп развернулся к России и ждет краха Украины: четыре факта, которые об этом говорят",
       "viral_score": 160,
-      "topic": "Ukraine Conflict",
-      "prominence": "featured",
-      "published_time": "вчера",
-      "category": "В мире",
-      "summary": "Analysis of Trump's changing position on Russia and Ukraine conflict"
+      "topic": "ukraine_conflict",
+      "vk_engagement": "moderate",
+      "date": "November 1, 2025",
+      "outlet_count": 1,
+      "outlets": [
+        "Komsomolskaya Pravda"
+      ],
+      "summary": "Трамп развернулся к России и ждет краха Украины: четыре факта, которые об этом говорят",
+      "summary_ru": "Трамп развернулся к России и ждет краха Украины: четыре факта, которые об этом говорят",
+      "why_trending": "This story is trending due to its featured placement and relevance to ukraine conflict.",
+      "why_trending_ru": "Эта новость в тренде из-за её размещения как featured и актуальности темы.",
+      "tags": [
+        "ukraine_conflict",
+        "featured",
+        "в_мире"
+      ]
     },
     {
       "rank": 5,
       "title": "Боец СВО из США поблагодарил Владимира Путина за гражданство РФ",
-      "source": "Komsomolskaya Pravda",
-      "source_url": "https://www.kp.ru/",
+      "title_ru": "Боец СВО из США поблагодарил Владимира Путина за гражданство РФ",
       "viral_score": 160,
-      "topic": "Ukraine Conflict",
-      "prominence": "news_feed",
-      "published_time": "минуту назад",
-      "category": "Политика",
-      "summary": "American fighter participating in Russia's Special Military Operation receives Russian citizenship"
+      "topic": "ukraine_conflict",
+      "vk_engagement": "moderate",
+      "date": "November 1, 2025",
+      "outlet_count": 1,
+      "outlets": [
+        "Komsomolskaya Pravda"
+      ],
+      "summary": "Боец СВО из США поблагодарил Владимира Путина за гражданство РФ",
+      "summary_ru": "Боец СВО из США поблагодарил Владимира Путина за гражданство РФ",
+      "why_trending": "This story is trending due to its news_feed placement and relevance to ukraine conflict.",
+      "why_trending_ru": "Эта новость в тренде из-за её размещения как news_feed и актуальности темы.",
+      "tags": [
+        "ukraine_conflict",
+        "news_feed",
+        "политика"
+      ]
     },
     {
       "rank": 6,
       "title": "Володин рассказал о законах, вступающих в силу в ноябре",
-      "source": "TASS",
-      "source_url": "https://tass.ru/",
+      "title_ru": "Володин рассказал о законах, вступающих в силу в ноябре",
       "viral_score": 155,
-      "topic": "Domestic Politics",
-      "prominence": "top_story",
-      "published_time": "06:40 Nov 1",
-      "category": "Политика",
-      "summary": "State Duma Chairman Volodin announces new legislation taking effect in November"
+      "topic": "domestic_politics",
+      "vk_engagement": "moderate",
+      "date": "November 1, 2025",
+      "outlet_count": 1,
+      "outlets": [
+        "TASS"
+      ],
+      "summary": "Володин рассказал о законах, вступающих в силу в ноябре",
+      "summary_ru": "Володин рассказал о законах, вступающих в силу в ноябре",
+      "why_trending": "This story is trending due to its top_story placement and relevance to domestic politics.",
+      "why_trending_ru": "Эта новость в тренде из-за её размещения как top_story и актуальности темы.",
+      "tags": [
+        "domestic_politics",
+        "top_story",
+        ""
+      ]
     },
     {
       "rank": 7,
       "title": "Путин поздравил судебных приставов с праздником",
-      "source": "Rossiyskaya Gazeta",
-      "source_url": "https://rg.ru/",
+      "title_ru": "Путин поздравил судебных приставов с праздником",
       "viral_score": 155,
-      "topic": "Domestic Politics",
-      "prominence": "top_story",
-      "published_time": "сегодня",
-      "category": "Политика",
-      "summary": "President Putin sends congratulations to judicial bailiffs on their professional holiday"
+      "topic": "international",
+      "vk_engagement": "moderate",
+      "date": "November 1, 2025",
+      "outlet_count": 1,
+      "outlets": [
+        "Rossiyskaya Gazeta"
+      ],
+      "summary": "Путин поздравил судебных приставов с праздником",
+      "summary_ru": "Путин поздравил судебных приставов с праздником",
+      "why_trending": "This story is trending due to its top_story placement and relevance to international.",
+      "why_trending_ru": "Эта новость в тренде из-за её размещения как top_story и актуальности темы.",
+      "tags": [
+        "international",
+        "top_story",
+        ""
+      ]
     },
     {
       "rank": 8,
       "title": "Россиянам рассказали о праве выйти на пенсию с 50 лет: кому доступна льгота",
-      "source": "Komsomolskaya Pravda",
-      "source_url": "https://www.kp.ru/",
+      "title_ru": "Россиянам рассказали о праве выйти на пенсию с 50 лет: кому доступна льгота",
       "viral_score": 150,
-      "topic": "Society",
-      "prominence": "news_feed",
-      "published_time": "17 минут назад",
-      "category": "Общество",
-      "summary": "Information about early retirement benefits available to certain categories of Russian citizens"
+      "topic": "society",
+      "vk_engagement": "moderate",
+      "date": "November 1, 2025",
+      "outlet_count": 1,
+      "outlets": [
+        "Komsomolskaya Pravda"
+      ],
+      "summary": "Россиянам рассказали о праве выйти на пенсию с 50 лет: кому доступна льгота",
+      "summary_ru": "Россиянам рассказали о праве выйти на пенсию с 50 лет: кому доступна льгота",
+      "why_trending": "This story is trending due to its news_feed placement and relevance to society.",
+      "why_trending_ru": "Эта новость в тренде из-за её размещения как news_feed и актуальности темы.",
+      "tags": [
+        "society",
+        "news_feed",
+        "общество"
+      ]
     },
     {
       "rank": 9,
       "title": "Bild: украденные из Лувра драгоценности хотели продать через даркнет",
-      "source": "Komsomolskaya Pravda",
-      "source_url": "https://www.kp.ru/",
+      "title_ru": "Bild: украденные из Лувра драгоценности хотели продать через даркнет",
       "viral_score": 150,
-      "topic": "International",
-      "prominence": "news_feed",
-      "published_time": "22 минуты назад",
-      "category": "Общество",
-      "summary": "German media reports on attempt to sell stolen Louvre jewelry through darknet"
+      "topic": "society",
+      "vk_engagement": "moderate",
+      "date": "November 1, 2025",
+      "outlet_count": 1,
+      "outlets": [
+        "Komsomolskaya Pravda"
+      ],
+      "summary": "Bild: украденные из Лувра драгоценности хотели продать через даркнет",
+      "summary_ru": "Bild: украденные из Лувра драгоценности хотели продать через даркнет",
+      "why_trending": "This story is trending due to its news_feed placement and relevance to society.",
+      "why_trending_ru": "Эта новость в тренде из-за её размещения как news_feed и актуальности темы.",
+      "tags": [
+        "society",
+        "news_feed",
+        "общество"
+      ]
     },
     {
       "rank": 10,
       "title": "Названо самое длинное слово в русском языке: в нем десятки букв",
-      "source": "Komsomolskaya Pravda",
-      "source_url": "https://www.kp.ru/",
+      "title_ru": "Названо самое длинное слово в русском языке: в нем десятки букв",
       "viral_score": 150,
-      "topic": "Culture",
-      "prominence": "news_feed",
-      "published_time": "31 минуту назад",
-      "category": "Общество",
-      "summary": "Pushkin Institute announces the longest word in the Russian language"
+      "topic": "society",
+      "vk_engagement": "moderate",
+      "date": "November 1, 2025",
+      "outlet_count": 1,
+      "outlets": [
+        "Komsomolskaya Pravda"
+      ],
+      "summary": "Названо самое длинное слово в русском языке: в нем десятки букв",
+      "summary_ru": "Названо самое длинное слово в русском языке: в нем десятки букв",
+      "why_trending": "This story is trending due to its news_feed placement and relevance to society.",
+      "why_trending_ru": "Эта новость в тренде из-за её размещения как news_feed и актуальности темы.",
+      "tags": [
+        "society",
+        "news_feed",
+        "общество"
+      ]
     },
     {
       "rank": 11,
       "title": "Названо самое длинное слово в русском языке",
-      "source": "Lenta.ru",
-      "source_url": "https://lenta.ru/",
+      "title_ru": "Названо самое длинное слово в русском языке",
       "viral_score": 150,
-      "topic": "Culture",
-      "prominence": "top_story",
-      "published_time": "сегодня",
-      "category": "Общество",
-      "summary": "Announcement of the longest word in the Russian language by linguistic experts"
+      "topic": "society",
+      "vk_engagement": "moderate",
+      "date": "November 1, 2025",
+      "outlet_count": 1,
+      "outlets": [
+        "Lenta.ru"
+      ],
+      "summary": "Названо самое длинное слово в русском языке",
+      "summary_ru": "Названо самое длинное слово в русском языке",
+      "why_trending": "This story is trending due to its top_story placement and relevance to society.",
+      "why_trending_ru": "Эта новость в тренде из-за её размещения как top_story и актуальности темы.",
+      "tags": [
+        "society",
+        "top_story",
+        ""
+      ]
     },
     {
       "rank": 12,
       "title": "«Может стать информационной бомбой»: почему Киев не хочет присутствия западных СМИ в котлы в ВСУ",
-      "source": "RT Russian",
-      "source_url": "https://russian.rt.com/",
+      "title_ru": "«Может стать информационной бомбой»: почему Киев не хочет присутствия западных СМИ в котлы в ВСУ",
       "viral_score": 140,
-      "topic": "Ukraine Conflict",
-      "prominence": "featured",
-      "published_time": "31 октября, 23:00",
-      "category": "Конфликт",
-      "summary": "Analysis of why Ukrainian authorities oppose Western journalists visiting encircled Ukrainian forces"
+      "topic": "ukraine_conflict",
+      "vk_engagement": "moderate",
+      "date": "November 1, 2025",
+      "outlet_count": 1,
+      "outlets": [
+        "RT Russian"
+      ],
+      "summary": "«Может стать информационной бомбой»: почему Киев не хочет присутствия западных СМИ в котлы в ВСУ",
+      "summary_ru": "«Может стать информационной бомбой»: почему Киев не хочет присутствия западных СМИ в котлы в ВСУ",
+      "why_trending": "This story is trending due to its featured placement and relevance to ukraine conflict.",
+      "why_trending_ru": "Эта новость в тренде из-за её размещения как featured и актуальности темы.",
+      "tags": [
+        "ukraine_conflict",
+        "featured",
+        ""
+      ]
     },
     {
       "rank": 13,
       "title": "«Зеленский попал в собственную ловушку»: как в Киеве признали безнадёжность положения ВСУ в Красноармейске",
-      "source": "RT Russian",
-      "source_url": "https://russian.rt.com/",
+      "title_ru": "«Зеленский попал в собственную ловушку»: как в Киеве признали безнадёжность положения ВСУ в Красноармейске",
       "viral_score": 140,
-      "topic": "Ukraine Conflict",
-      "prominence": "featured",
-      "published_time": "31 октября, 21:00",
-      "category": "Конфликт",
-      "summary": "Ukrainian officials acknowledge difficult situation of encircled forces in Krasnoarmeysk"
+      "topic": "ukraine_conflict",
+      "vk_engagement": "moderate",
+      "date": "November 1, 2025",
+      "outlet_count": 1,
+      "outlets": [
+        "RT Russian"
+      ],
+      "summary": "«Зеленский попал в собственную ловушку»: как в Киеве признали безнадёжность положения ВСУ в Красноармейске",
+      "summary_ru": "«Зеленский попал в собственную ловушку»: как в Киеве признали безнадёжность положения ВСУ в Красноармейске",
+      "why_trending": "This story is trending due to its featured placement and relevance to ukraine conflict.",
+      "why_trending_ru": "Эта новость в тренде из-за её размещения как featured и актуальности темы.",
+      "tags": [
+        "ukraine_conflict",
+        "featured",
+        ""
+      ]
     },
     {
       "rank": 14,
       "title": "«Хохлы намеренно открыли огонь по своим»: как семинарист стал сапёром на СВО",
-      "source": "RT Russian",
-      "source_url": "https://russian.rt.com/",
+      "title_ru": "«Хохлы намеренно открыли огонь по своим»: как семинарист стал сапёром на СВО",
       "viral_score": 140,
-      "topic": "Ukraine Conflict",
-      "prominence": "featured",
-      "published_time": "31 октября",
-      "category": "СВО",
-      "summary": "Personal story of a former seminary student now serving as military sapper in Special Military Operation"
+      "topic": "ukraine_conflict",
+      "vk_engagement": "moderate",
+      "date": "November 1, 2025",
+      "outlet_count": 1,
+      "outlets": [
+        "RT Russian"
+      ],
+      "summary": "«Хохлы намеренно открыли огонь по своим»: как семинарист стал сапёром на СВО",
+      "summary_ru": "«Хохлы намеренно открыли огонь по своим»: как семинарист стал сапёром на СВО",
+      "why_trending": "This story is trending due to its featured placement and relevance to ukraine conflict.",
+      "why_trending_ru": "Эта новость в тренде из-за её размещения как featured и актуальности темы.",
+      "tags": [
+        "ukraine_conflict",
+        "featured",
+        ""
+      ]
     },
     {
       "rank": 15,
       "title": "Пресечены попытки вырваться из окружения: Минобороны рассказали о ситуации в районах Курянка и Красноармейска",
-      "source": "RT Russian",
-      "source_url": "https://russian.rt.com/",
+      "title_ru": "Пресечены попытки вырваться из окружения: Минобороны рассказали о ситуации в районах Курянка и Красноармейска",
       "viral_score": 140,
-      "topic": "Ukraine Conflict",
-      "prominence": "featured",
-      "published_time": "31 октября",
-      "category": "СВО",
-      "summary": "Russian Ministry of Defense reports on preventing Ukrainian forces from breaking out of encirclement"
+      "topic": "ukraine_conflict",
+      "vk_engagement": "moderate",
+      "date": "November 1, 2025",
+      "outlet_count": 1,
+      "outlets": [
+        "RT Russian"
+      ],
+      "summary": "Пресечены попытки вырваться из окружения: Минобороны рассказали о ситуации в районах Курянка и Красноармейска",
+      "summary_ru": "Пресечены попытки вырваться из окружения: Минобороны рассказали о ситуации в районах Курянка и Красноармейска",
+      "why_trending": "This story is trending due to its featured placement and relevance to ukraine conflict.",
+      "why_trending_ru": "Эта новость в тренде из-за её размещения как featured и актуальности темы.",
+      "tags": [
+        "ukraine_conflict",
+        "featured",
+        ""
+      ]
     }
   ]
 }
