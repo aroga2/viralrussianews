@@ -2,6 +2,10 @@
 import json
 from datetime import datetime
 import os
+from openai import OpenAI
+
+# Initialize OpenAI client
+client = OpenAI()
 
 # Scoring weights
 PROMINENCE_SCORES = {
@@ -134,6 +138,57 @@ def calculate_viral_score(story):
     
     return score
 
+def enhance_story_with_ai(story):
+    """Enhance a single story with AI-generated summaries and translations"""
+    print(f"\nEnhancing story: {story['title'][:60]}...")
+    
+    # 1. Translate title to English
+    response = client.chat.completions.create(
+        model="gpt-4.1-mini",
+        messages=[
+            {"role": "system", "content": "You are a professional translator. Translate the following Russian news headline to English. Provide only the translation."},
+            {"role": "user", "content": story['title']}
+        ]
+    )
+    story['title_en'] = response.choices[0].message.content.strip()
+    story['title_ru'] = story['title'] # Keep original Russian title
+    story['title'] = story['title_en'] # Set main title to English
+    print(f"  EN Title: {story['title_en'][:60]}...")
+    
+    # 2. Generate comprehensive English summary
+    response = client.chat.completions.create(
+        model="gpt-4.1-mini",
+        messages=[
+            {"role": "system", "content": "You are a professional news summarizer. Create a comprehensive 2-3 sentence summary of the news story based on the title. Make it informative and engaging."},
+            {"role": "user", "content": f"Title: {story['title_en']}\nRussian Title: {story['title_ru']}"}
+        ]
+    )
+    story['summary'] = response.choices[0].message.content.strip()
+    print(f"  EN Summary: {story['summary'][:60]}...")
+    
+    # 3. Generate comprehensive Russian summary
+    response = client.chat.completions.create(
+        model="gpt-4.1-mini",
+        messages=[
+            {"role": "system", "content": "Вы профессиональный новостной редактор. Создайте подробное резюме из 2-3 предложений для новостной статьи на основе заголовка."},
+            {"role": "user", "content": f"Заголовок: {story['title_ru']}"}
+        ]
+    )
+    story['summary_ru'] = response.choices[0].message.content.strip()
+    
+    # 4. Generate 'Why Trending' explanation
+    response = client.chat.completions.create(
+        model="gpt-4.1-mini",
+        messages=[
+            {"role": "system", "content": "You are a news analyst. Explain in 1-2 sentences why this story is trending in Russian media, based on its topic and significance."},
+            {"role": "user", "content": f"Title: {story['title_en']}\nTopic: {story['topic']}"}
+        ]
+    )
+    story['why_trending'] = response.choices[0].message.content.strip()
+    story['why_trending_ru'] = f"Эта новость в тренде из-за её актуальности и важности для российской аудитории."
+    
+    return story
+
 def main():
     # Read stories from all sources
     all_stories = []
@@ -161,7 +216,11 @@ def main():
     all_stories.sort(key=lambda x: x['viral_score'], reverse=True)
     
     # Get top 15
-    top_stories = all_stories[:15]
+    top_stories_raw = all_stories[:15]
+    
+    # Enhance top 15 stories with AI
+    print("\n=== ENHANCING TOP 15 STORIES WITH AI ===\n")
+    top_stories = [enhance_story_with_ai(story) for story in top_stories_raw]
     
     # Print results
     print("\n=== TOP 15 VIRAL RUSSIA NEWS ===\n")
@@ -171,6 +230,39 @@ def main():
         print()
     
     # Save to JSON
+        # Prepare final JSON for website
+    final_data = {
+        'generated_at': datetime.now().strftime('%B %d, %Y at %I:%M %p UTC'),
+        'collection_period': datetime.now().strftime('%Y-%m-%d'),
+        'total_outlets': 6,
+        'stories': []
+    }
+    
+    for i, story in enumerate(top_stories, 1):
+        final_data['stories'].append({
+            'rank': i,
+            'title': story['title'],
+            'title_ru': story['title_ru'],
+            'summary': story['summary'],
+            'summary_ru': story['summary_ru'],
+            'why_trending': story['why_trending'],
+            'why_trending_ru': story['why_trending_ru'],
+            'viral_score': story['viral_score'],
+            'topic': story['topic'],
+            'vk_engagement': 'moderate', # Placeholder
+            'date': datetime.now().strftime('%B %d, %Y'),
+            'outlet_count': 1, # Placeholder
+            'outlets': [story['source']],
+            'tags': [story['topic'], story.get('prominence', 'featured'), story.get('category', '')]
+        })
+
+    # Write to final JSON file for the website
+    with open('public/viral_russia_news.json', 'w', encoding='utf-8') as f:
+        json.dump(final_data, f, ensure_ascii=False, indent=2)
+    
+    print("\n✓ Website JSON created at public/viral_russia_news.json")
+
+    # Save raw analysis to data/viral_stories.json
     output_data = {
         'generated_at': datetime.now().isoformat(),
         'total_stories_analyzed': len(all_stories),
@@ -190,7 +282,7 @@ def main():
         })
     
     # Write to JSON file
-    with open('data/viral_stories.json', 'w', encoding='utf-8') as f:
+    with open("data/viral_stories.json", 'w', encoding='utf-8') as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
     
     print("✓ Analysis complete! Results saved to data/viral_stories.json")

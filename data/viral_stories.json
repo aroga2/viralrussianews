@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-11-01T03:14:42.488130",
+  "generated_at": "2025-11-01T05:59:14.732941",
   "total_stories_analyzed": 67,
   "top_stories": [
     {
       "rank": 1,
-      "title": "Что изменится в законах с 1 ноября 2025: избавьтесь от лишних симок и не копите долги",
+      "title": "What will change in the laws from November 1, 2025: get rid of extra SIM cards and don't accumulate debts",
       "source": "Komsomolskaya Pravda",
       "viral_score": 175,
       "topic": "domestic_politics",
@@ -14,7 +14,7 @@
     },
     {
       "rank": 2,
-      "title": "Главный школьный вопрос – бить или учить: «Комсомолка» вместе с читателями разбиралась, кто виноват в конфликтах преподавателей и учеников",
+      "title": "The main school question – to punish or to teach: \"Komsomolka\", together with readers, examined who is to blame for conflicts between teachers and students",
       "source": "Komsomolskaya Pravda",
       "viral_score": 170,
       "topic": "society",
@@ -24,7 +24,7 @@
     },
     {
       "rank": 3,
-      "title": "Какую ошибку чаще всего совершают россияне в ОАЭ, и куда обращаться за помощью: Генконсул РФ в Дубае Максим Владимиров ответил на главные вопросы",
+      "title": "What mistake do Russians most often make in the UAE, and where to seek help: Russian Consul General in Dubai Maxim Vladimirov answered the main questions",
       "source": "Komsomolskaya Pravda",
       "viral_score": 170,
       "topic": "society",
@@ -34,7 +34,7 @@
     },
     {
       "rank": 4,
-      "title": "Трамп развернулся к России и ждет краха Украины: четыре факта, которые об этом говорят",
+      "title": "Trump Has Turned Toward Russia and Awaits Ukraine's Collapse: Four Facts That Suggest This",
       "source": "Komsomolskaya Pravda",
       "viral_score": 160,
       "topic": "ukraine_conflict",
@@ -44,7 +44,7 @@
     },
     {
       "rank": 5,
-      "title": "Боец СВО из США поблагодарил Владимира Путина за гражданство РФ",
+      "title": "SVO fighter from the USA thanked Vladimir Putin for Russian citizenship",
       "source": "Komsomolskaya Pravda",
       "viral_score": 160,
       "topic": "ukraine_conflict",
@@ -54,7 +54,7 @@
     },
     {
       "rank": 6,
-      "title": "Володин рассказал о законах, вступающих в силу в ноябре",
+      "title": "Volodin spoke about laws coming into effect in November",
       "source": "TASS",
       "viral_score": 155,
       "topic": "domestic_politics",
@@ -64,7 +64,7 @@
     },
     {
       "rank": 7,
-      "title": "Путин поздравил судебных приставов с праздником",
+      "title": "Putin congratulated bailiffs on their holiday",
       "source": "Rossiyskaya Gazeta",
       "viral_score": 155,
       "topic": "international",
@@ -74,7 +74,7 @@
     },
     {
       "rank": 8,
-      "title": "Россиянам рассказали о праве выйти на пенсию с 50 лет: кому доступна льгота",
+      "title": "Russians were informed about the right to retire at 50: who is eligible for the benefit",
       "source": "Komsomolskaya Pravda",
       "viral_score": 150,
       "topic": "society",
@@ -84,7 +84,7 @@
     },
     {
       "rank": 9,
-      "title": "Bild: украденные из Лувра драгоценности хотели продать через даркнет",
+      "title": "Bild: Jewelry stolen from the Louvre was intended to be sold on the darknet",
       "source": "Komsomolskaya Pravda",
       "viral_score": 150,
       "topic": "society",
@@ -94,7 +94,7 @@
     },
     {
       "rank": 10,
-      "title": "Названо самое длинное слово в русском языке: в нем десятки букв",
+      "title": "The longest word in the Russian language named: it contains dozens of letters",
       "source": "Komsomolskaya Pravda",
       "viral_score": 150,
       "topic": "society",
@@ -104,7 +104,7 @@
     },
     {
       "rank": 11,
-      "title": "Названо самое длинное слово в русском языке",
+      "title": "The longest word in the Russian language has been named",
       "source": "Lenta.ru",
       "viral_score": 150,
       "topic": "society",
@@ -114,7 +114,7 @@
     },
     {
       "rank": 12,
-      "title": "«Может стать информационной бомбой»: почему Киев не хочет присутствия западных СМИ в котлы в ВСУ",
+      "title": "“Could become an information bomb”: why Kyiv does not want the presence of Western media in the encirclements of the Armed Forces of Ukraine",
       "source": "RT Russian",
       "viral_score": 140,
       "topic": "ukraine_conflict",
@@ -124,7 +124,7 @@
     },
     {
       "rank": 13,
-      "title": "«Зеленский попал в собственную ловушку»: как в Киеве признали безнадёжность положения ВСУ в Красноармейске",
+      "title": "\"Zelensky caught in his own trap\": how Kyiv admitted the hopelessness of the Ukrainian Armed Forces' situation in Krasnoarmeysk",
       "source": "RT Russian",
       "viral_score": 140,
       "topic": "ukraine_conflict",
@@ -134,7 +134,7 @@
     },
     {
       "rank": 14,
-      "title": "«Хохлы намеренно открыли огонь по своим»: как семинарист стал сапёром на СВО",
+      "title": "\"Ukrainians deliberately fired on their own\": how a seminarian became a sapper in the special military operation",
       "source": "RT Russian",
       "viral_score": 140,
       "topic": "ukraine_conflict",
@@ -144,7 +144,7 @@
     },
     {
       "rank": 15,
-      "title": "Пресечены попытки вырваться из окружения: Минобороны рассказали о ситуации в районах Курянка и Красноармейска",
+      "title": "Attempts to break out of the encirclement have been stopped: the Ministry of Defense reported on the situation in the Kuryanka and Krasnoarmeysk areas",
       "source": "RT Russian",
       "viral_score": 140,
       "topic": "ukraine_conflict",
