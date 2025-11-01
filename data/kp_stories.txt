@@ -1,112 +1,69 @@
-KOMSOMOLSKAYA PRAVDA - https://www.kp.ru/
-Collected: 2025-10-28
+Komsomolskaya Pravda - Featured Stories (Nov 1, 2025)
 
-KARTINA DNYA (PICTURE OF THE DAY):
+КАРТИНА ДНЯ (Picture of the Day):
+1. Что изменится в законах с 1 ноября 2025: избавьтесь от лишних симок и не копите долги
+   Category: Экономика
+   Time: вчера (yesterday)
+   Prominence: top_story
 
-1. «Радистка Кэт»: Оператор Катя отвоевывает у ВСУ небо под Покровском и мечтает о победе в головах
-   - Prominence: top_story
-   - Category: Политика
-   - Timestamp: 7 часов назад
-   - URL: https://www.kp.ru/
+НОВОСТИ (Top News):
+2. Трамп развернулся к России и ждет краха Украины: четыре факта, которые об этом говорят
+   Category: В мире
+   Time: вчера
+   Prominence: featured
+   Related: FT: Твердость Лаврова на встрече с Рубио поразила руководство США
 
-2. Военкор Коц показал работу девушки – оператора БПЛА под Покровском
-   - Prominence: top_story
-   - Timestamp: 7 часов назад
-   - URL: https://www.kp.ru/
+3. Главный школьный вопрос – бить или учить: «Комсомолка» вместе с читателями разбиралась, кто виноват в конфликтах преподавателей и учеников
+   Category: Общество
+   Time: 6 часов назад (6 hours ago)
+   Prominence: featured
 
-MAIN FEATURED STORIES:
+4. Какую ошибку чаще всего совершают россияне в ОАЭ, и куда обращаться за помощью: Генконсул РФ в Дубае Максим Владимиров ответил на главные вопросы
+   Category: В мире
+   Tag: Эксклюзив KP.RU
+   Time: 4 часа назад (4 hours ago)
+   Prominence: featured
 
-3. Теперь выбор за Трампом: Россия вышла из соглашения по ликвидации «сделанных» ядер
-   - Prominence: featured
-   - Category: Политика
-   - URL: https://www.kp.ru/
+RECENT NEWS (From scroll):
+5. Боец СВО из США поблагодарил Владимира Путина за гражданство РФ
+   Category: Политика
+   Time: минуту назад (1 minute ago)
+   Prominence: news_feed
 
-4. «Китай Россию не предаст»: спрогнозирован итог встречи Трампа и Си Цзиньпина
-   - Prominence: featured
-   - Category: В мире
-   - URL: https://www.kp.ru/
+6. Россиянам рассказали о праве выйти на пенсию с 50 лет: кому доступна льгота
+   Category: Общество
+   Time: 17 минут назад
+   Prominence: news_feed
 
-5. Как я пытался заработать на покупке золота и сколько это мне принесло
-   - Prominence: featured
-   - Category: Экономика
-   - Timestamp: 4 часа назад
-   - URL: https://www.kp.ru/
+7. Bild: украденные из Лувра драгоценности хотели продать через даркнет
+   Category: Общество
+   Time: 22 минуты назад
+   Prominence: news_feed
 
-6. Планета прошла "точку невозврата": какие выводы и прогнозы сделали ученые
-   - Prominence: featured
-   - Category: Наука
-   - Timestamp: 5 минут назад
-   - URL: https://www.kp.ru/
+8. Названо самое длинное слово в русском языке: в нем десятки букв
+   Category: Общество
+   Time: 31 минуту назад
+   Prominence: news_feed
 
-7. Трамп сорвался из-за «Буревестника» и начал упрекать Россию в нарушении договора
-   - Prominence: featured
-   - Category: Политика
-   - URL: https://www.kp.ru/
+9. Трамп ловко отошел в сторону от Украины: раскошелиться на сотни миллиардов долларов придется Европе
+   Category: Политика
+   Prominence: news_feed
 
-RECENT NEWS (NOVOSTI24):
+10. Гришин: США получат сотни миллиардов долларов от Европы благодаря Украине
+    Prominence: news_feed
 
-8. Набиуллина рассказала о разморозке половины активов российских инвесторов
-   - Prominence: news_feed
-   - Category: Экономика
-   - Timestamp: 2 минуты назад
-   - URL: https://www.kp.ru/
+OTHER FEATURED:
+- Голосуй за лучшего участкового России: победителя ждет внедорожник «УАЗ» Патриот
+  Category: Общество
+  Time: вчера
+  Prominence: main
 
-9. ФСБ предотвратила в Крыму теракт в отношении высокопоставленного сотрудника МВД
-   - Prominence: news_feed
-   - Category: Происшествия
-   - Timestamp: 11 минут назад
-   - URL: https://www.kp.ru/
+- Вряд ли такое понравится свободолюбивой Армении: В ЕС можно, а за союз с Россией — на нары?
+  Category: Политика
+  Time: вчера
+  Prominence: main
 
-10. Розничные продажи пива в России упали почти на 17% с начала 2025 года
-    - Prominence: news_feed
-    - Category: Общество
-    - Timestamp: 14 минут назад
-    - URL: https://www.kp.ru/
-
-11. «Грокипедия» раскрыла исторические предпосылки начала СВО: о каких преступлениях ВСУ рассказывает сервис Маска
-    - Prominence: news_feed
-    - Category: Политика
-    - Timestamp: 31 минуту назад
-    - URL: https://www.kp.ru/
-
-12. «Такова реальность»: В ЦБ раскрыли сценарий движения экономики России
-    - Prominence: news_feed
-    - Category: Экономика
-    - Timestamp: час назад
-    - URL: https://www.kp.ru/
-
-13. Банк России дал прогноз по инфляции: что будет в 2026 году
-    - Prominence: news_feed
-    - Category: Экономика
-    - Timestamp: час назад
-    - URL: https://www.kp.ru/
-
-14. Что будет с ключевой ставкой в следующем году: в Банке России выступили с заявлением
-    - Prominence: news_feed
-    - Category: Экономика
-    - Timestamp: час назад
-    - URL: https://www.kp.ru/
-
-15. В Алма-Ате предотвратили теракт, который планировали пять иностранцев
-    - Prominence: news_feed
-    - Category: В мире
-    - Timestamp: час назад
-    - URL: https://www.kp.ru/
-
-16. Танковый парк ВСУ на грани истощения: на Украине признали критический уровень боеспособности
-    - Prominence: news_feed
-    - Category: Политика
-    - Timestamp: час назад
-    - URL: https://www.kp.ru/
-
-17. Politico: ЕС усиливает давление на страны, не желающие финансировать Украину
-    - Prominence: news_feed
-    - Category: В мире
-    - Timestamp: час назад
-    - URL: https://www.kp.ru/
-
-18. Освобождение села без жертв и марш-бросок под носом у противника: героизм наших бойцов помог продвинуться на Покровском направлении
-    - Prominence: featured
-    - Category: Политика
-    - Timestamp: 2 дня назад
-    - URL: https://www.kp.ru/
+- Отложили на месяц: новые правила утильсбора вступят в силу 1 декабря
+  Category: Авто
+  Time: вчера
+  Prominence: main

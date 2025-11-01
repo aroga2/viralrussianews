@@ -1,0 +1,156 @@
+{
+  "generated_at": "2025-11-01T03:14:42.488130",
+  "total_stories_analyzed": 67,
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Что изменится в законах с 1 ноября 2025: избавьтесь от лишних симок и не копите долги",
+      "source": "Komsomolskaya Pravda",
+      "viral_score": 175,
+      "topic": "domestic_politics",
+      "prominence": "top_story",
+      "time": "вчера (yesterday)",
+      "category": "Экономика"
+    },
+    {
+      "rank": 2,
+      "title": "Главный школьный вопрос – бить или учить: «Комсомолка» вместе с читателями разбиралась, кто виноват в конфликтах преподавателей и учеников",
+      "source": "Komsomolskaya Pravda",
+      "viral_score": 170,
+      "topic": "society",
+      "prominence": "featured",
+      "time": "6 часов назад (6 hours ago)",
+      "category": "Общество"
+    },
+    {
+      "rank": 3,
+      "title": "Какую ошибку чаще всего совершают россияне в ОАЭ, и куда обращаться за помощью: Генконсул РФ в Дубае Максим Владимиров ответил на главные вопросы",
+      "source": "Komsomolskaya Pravda",
+      "viral_score": 170,
+      "topic": "society",
+      "prominence": "featured",
+      "time": "4 часа назад (4 hours ago)",
+      "category": "Эксклюзив KP.RU"
+    },
+    {
+      "rank": 4,
+      "title": "Трамп развернулся к России и ждет краха Украины: четыре факта, которые об этом говорят",
+      "source": "Komsomolskaya Pravda",
+      "viral_score": 160,
+      "topic": "ukraine_conflict",
+      "prominence": "featured",
+      "time": "вчера",
+      "category": "В мире"
+    },
+    {
+      "rank": 5,
+      "title": "Боец СВО из США поблагодарил Владимира Путина за гражданство РФ",
+      "source": "Komsomolskaya Pravda",
+      "viral_score": 160,
+      "topic": "ukraine_conflict",
+      "prominence": "news_feed",
+      "time": "минуту назад (1 minute ago)",
+      "category": "Политика"
+    },
+    {
+      "rank": 6,
+      "title": "Володин рассказал о законах, вступающих в силу в ноябре",
+      "source": "TASS",
+      "viral_score": 155,
+      "topic": "domestic_politics",
+      "prominence": "top_story",
+      "time": "06:40 Nov 1",
+      "category": ""
+    },
+    {
+      "rank": 7,
+      "title": "Путин поздравил судебных приставов с праздником",
+      "source": "Rossiyskaya Gazeta",
+      "viral_score": 155,
+      "topic": "international",
+      "prominence": "top_story",
+      "time": "",
+      "category": ""
+    },
+    {
+      "rank": 8,
+      "title": "Россиянам рассказали о праве выйти на пенсию с 50 лет: кому доступна льгота",
+      "source": "Komsomolskaya Pravda",
+      "viral_score": 150,
+      "topic": "society",
+      "prominence": "news_feed",
+      "time": "17 минут назад",
+      "category": "Общество"
+    },
+    {
+      "rank": 9,
+      "title": "Bild: украденные из Лувра драгоценности хотели продать через даркнет",
+      "source": "Komsomolskaya Pravda",
+      "viral_score": 150,
+      "topic": "society",
+      "prominence": "news_feed",
+      "time": "22 минуты назад",
+      "category": "Общество"
+    },
+    {
+      "rank": 10,
+      "title": "Названо самое длинное слово в русском языке: в нем десятки букв",
+      "source": "Komsomolskaya Pravda",
+      "viral_score": 150,
+      "topic": "society",
+      "prominence": "news_feed",
+      "time": "31 минуту назад",
+      "category": "Общество"
+    },
+    {
+      "rank": 11,
+      "title": "Названо самое длинное слово в русском языке",
+      "source": "Lenta.ru",
+      "viral_score": 150,
+      "topic": "society",
+      "prominence": "top_story",
+      "time": "",
+      "category": ""
+    },
+    {
+      "rank": 12,
+      "title": "«Может стать информационной бомбой»: почему Киев не хочет присутствия западных СМИ в котлы в ВСУ",
+      "source": "RT Russian",
+      "viral_score": 140,
+      "topic": "ukraine_conflict",
+      "prominence": "featured",
+      "time": "31 октября, 23:00",
+      "category": ""
+    },
+    {
+      "rank": 13,
+      "title": "«Зеленский попал в собственную ловушку»: как в Киеве признали безнадёжность положения ВСУ в Красноармейске",
+      "source": "RT Russian",
+      "viral_score": 140,
+      "topic": "ukraine_conflict",
+      "prominence": "featured",
+      "time": "31 октября, 21:00",
+      "category": ""
+    },
+    {
+      "rank": 14,
+      "title": "«Хохлы намеренно открыли огонь по своим»: как семинарист стал сапёром на СВО",
+      "source": "RT Russian",
+      "viral_score": 140,
+      "topic": "ukraine_conflict",
+      "prominence": "featured",
+      "time": "",
+      "category": ""
+    },
+    {
+      "rank": 15,
+      "title": "Пресечены попытки вырваться из окружения: Минобороны рассказали о ситуации в районах Курянка и Красноармейска",
+      "source": "RT Russian",
+      "viral_score": 140,
+      "topic": "ukraine_conflict",
+      "prominence": "featured",
+      "time": "",
+      "category": ""
+    }
+  ]
+}

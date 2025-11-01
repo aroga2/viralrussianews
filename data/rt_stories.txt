@@ -1,100 +1,50 @@
-RT RUSSIAN - https://russian.rt.com/
-Collected: 2025-10-28
+RT Russian - Featured Stories (Nov 1, 2025)
 
-TOP FEATURED STORIES:
+TOP STORY:
+Title: Перерасчёт пенсий, взыскание долгов без суда и блокировка лишних сим-карт: как изменится жизнь россиян в ноябре
+Time: 08:00 Nov 1
+URL: https://russian.rt.com/russia/article/pereraschet-pensiy-noyabr
+Prominence: top_story
 
-1. В Госдуме предложили ввести в российских школах шведский стол
-   - Prominence: featured
-   - Timestamp: 01:34
-   - URL: https://russian.rt.com/
-   
-2. В Госдуме предложили выплачивать россиянам 13-ю пенсию к новогодним праздникам
-   - Prominence: featured
-   - Timestamp: 03:54
-   - URL: https://russian.rt.com/
+SPECIAL OPERATION SECTION (Featured):
+1. «Может стать информационной бомбой»: почему Киев не хочет присутствия западных СМИ в котлы в ВСУ
+   Time: 31 октября, 23:00
+   Prominence: featured
 
-SPECIAL OPERATION SECTION (UKRAINE):
+2. «Зеленский попал в собственную ловушку»: как в Киеве признали безнадёжность положения ВСУ в Красноармейске
+   Time: 31 октября, 21:00
+   Prominence: featured
 
-3. «Пресечены попытки вырваться из кольца»: МО сообщило о разгроме группировок противника
-   - Prominence: top_story
-   - Section: Спецоперация на Украине
-   - URL: https://russian.rt.com/
+3. «Хохлы намеренно открыли огонь по своим»: как семинарист стал сапёром на СВО
+   Prominence: featured
 
-4. «Продвинулись в глубину обороны противника»: ВС РФ освободили Новониколаевку, Привольное и Егоровку
-   - Prominence: main
-   - Section: Спецоперация на Украине
-   - URL: https://russian.rt.com/
+4. Пресечены попытки вырваться из окружения: Минобороны рассказали о ситуации в районах Курянка и Красноармейска
+   Prominence: featured
 
-5. «Тактический успех»: в ВС РФ сообщили о окружении группировки ВСУ в районе Красноармейска и Кулянска
-   - Prominence: main
-   - Section: Спецоперация на Украине
-   - URL: https://russian.rt.com/
+5. С прекращением огня на пять-шесть часов: как Москва может обеспечить проезд иностранных СМИ в зоны окружения ВСУ
+   Prominence: featured
 
-6. Ракетными войсками и артиллерией: ВС РФ нанесли удары по объектам энергетики и ВПК в составе вооружённых ВСУ
-   - Prominence: main
-   - Section: Спецоперация на Украине
-   - URL: https://russian.rt.com/
+NEWS FEED (Recent):
+- Суд Москвы арестовал топ-менеджера банка «Гарант-Инвест» за ущерб в 7 млрд руб
+  Time: 10:05 Nov 1
+  Prominence: news_feed
 
-7. «Снабжение у врага полностью оборудовали, как наши военные открывали путь к освобождению Дроновки»
-   - Prominence: main
-   - Section: Спецоперация на Украине
-   - URL: https://russian.rt.com/
+- Володин рассказал о вступающих в силу новых законах
+  Time: 09:53 Nov 1
+  Prominence: news_feed
 
-8. В ответ на атаки Киева: ВС России нанесли групповой удар по объектам ВПК и энергетики Украины
-   - Prominence: main
-   - Section: Спецоперация на Украине
-   - URL: https://russian.rt.com/
+- Суд арестовал напавшего с мачете на бывшую жену и её сожителя в Челябинске
+  Time: 09:45 Nov 1
+  Prominence: news_feed
 
-NEWS FEED (RECENT):
+- Миляев: в Туле из-за обломков БПЛА перекрыли все улицы
+  Time: 09:31 Nov 1
+  Prominence: news_feed
 
-9. В суд Москвы поступило дело иноагента акунина
-   - Prominence: news_feed
-   - Timestamp: 10:01
-   - URL: https://russian.rt.com/
+- Силы ПВО за ночь сбили над регионами России 98 украинских беспилотников
+  Time: 07:21 Nov 1
+  Prominence: news_feed
 
-10. Розничные продажи пива в России в 2025 г сократились на 16,9%
-    - Prominence: news_feed
-    - Timestamp: 09:58
-    - URL: https://russian.rt.com/
-
-11. ЦБ: половина активов российских инвесторов была разморожена
-    - Prominence: news_feed
-    - Timestamp: 09:55
-    - URL: https://russian.rt.com/
-
-12. Планировавший совершить теракт в Крыму хотел подорвать авто и скрыться в Европе
-    - Prominence: news_feed
-    - Timestamp: 09:52
-    - URL: https://russian.rt.com/
-
-13. Politico: в ЕС считают выдачу Киеву кредита за активов России делом времени
-    - Prominence: news_feed
-    - Timestamp: 09:49
-    - URL: https://russian.rt.com/
-
-14. В Крыму предотвращён теракт против высокопоставленного сотрудника МВД
-    - Prominence: news_feed
-    - Timestamp: 09:47
-    - URL: https://russian.rt.com/
-
-15. Гладков: в Белгородской области от атак ВСУ вчера пострадали 150 человек
-    - Prominence: news_feed
-    - Timestamp: 09:37
-    - URL: https://russian.rt.com/
-
-16. ЦБ: российская экономика идёт по сценарию управляемого выхода из перегрева
-    - Prominence: news_feed
-    - Timestamp: 09:37
-    - URL: https://russian.rt.com/
-
-17. Погибшие при ДТП в Ревде девочки были сёстрами
-    - Prominence: news_feed
-    - Timestamp: 09:35
-    - URL: https://russian.rt.com/
-
-MOST READ:
-
-18. Расследование RT: Напуганные массовыми беспорядками французские власти готовятся палить по собственным гражданам из гранатомётов
-    - Prominence: featured
-    - Timestamp: 27 октября, 10:08
-    - URL: https://russian.rt.com/
+- Президент США Дональд Трамп по итогам переговоров с лидером КНР Си Цзиньпином назвал встречу отличной
+  Time: 30 октября, 17:22
+  Prominence: main

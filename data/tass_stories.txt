@@ -1,78 +1,63 @@
-TASS - https://tass.ru/
-Collected: 2025-10-28
+TASS - Featured Stories (Nov 1, 2025)
 
-TOP FEATURED STORIES (TICKER):
+TOP STORIES (Главное):
+1. Володин рассказал о законах, вступающих в силу в ноябре
+   Time: 06:40 Nov 1
+   Prominence: top_story
 
-1. За езду с выданными в 2025 году номерами без флага России грозит штраф
-   - Prominence: top_story
-   - Category: Общество
-   - Timestamp: 06:31
-   - URL: https://tass.ru/
+2. Правила уплаты акциза на жидкую сталь могут изменить
+   Time: 06:00 Nov 1 (Updated 06:08)
+   Prominence: featured
 
-2. Набиуллина: инфляция опустится к целевому уровню в 4% во II половине 2026 года
-   - Prominence: top_story
-   - Category: Экономика
-   - URL: https://tass.ru/
+3. Число жертв аварии с трамваем в Туле увеличилось до пяти
+   Time: 06:06 Nov 1 (Updated 06:26)
+   Prominence: featured
 
-3. В Крыму предотвратили теракт против высокопоставленного сотрудника МВД
-   - Prominence: top_story
-   - Category: ЧП
-   - Timestamp: 06:45, Обновлено 06:52
-   - URL: https://tass.ru/
+4. Уничтожено 98 БПЛА. Последствия атаки на российские регионы (Статья)
+   Time: 06:18 Nov 1
+   Prominence: featured
 
-4. Над регионами России за ночь сбили 17 украинских БПЛА
-   - Prominence: top_story
-   - Category: Армия
-   - URL: https://tass.ru/
+5. Суд арестовал членов правления банка "Гарант-инвест"
+   Time: 05:02 Nov 1 (Updated 05:06)
+   Prominence: featured
 
-5. Второй импортозамещенный самолет МС-21 поднялся в небо
-   - Prominence: top_story
-   - Category: Экономика
-   - URL: https://tass.ru/
+6. В ДНР заявили, что ВС РФ разбили под Красноармейском часть группы спецназа ВСУ
+   Time: 03:56 Nov 1
+   Prominence: featured
 
-6. Кабмин представит предложения по модернизации маткапитала к декабрю
-   - Prominence: top_story
-   - Category: Общество
-   - URL: https://tass.ru/
+7. МИД РФ: утвержденная на саммите АТЭС декларация отвечает интересам России
+   Time: 03:22 Nov 1 (Updated 03:51)
+   Prominence: featured
 
-MAIN SECTION STORIES:
+8. ТАСС: ВС РФ ударили по Яворовскому полигону на Украине
+   Time: 03:01 Nov 1
+   Prominence: featured
 
-7. Девять участников "Медведей SS" приговорили к срокам до 28 лет заключения
-   - Prominence: main
-   - Timestamp: 06:22, Обновлено 06:38
-   - URL: https://tass.ru/
+9. "Ведомости": банки будут получать премии за возврат денег жертвам мошенников
+   Time: 02:14 Nov 1
+   Prominence: featured
 
-8. В Казахстане пока не обсуждали выкуп активов "Лукойла" из-за санкций США
-   - Prominence: main
-   - Timestamp: 06:03, Обновлено 06:50
-   - URL: https://tass.ru/
+TICKER (Running Headlines):
+- В России изучают возможность освобождения от уплаты акциза на сталь для проектов
+  Category: Экономика
+  Prominence: news_feed
 
-9. Блэкаут на Сахалине. Последствия нарушения электроснабжения (Статья)
-   - Prominence: featured
-   - Timestamp: 06:25
-   - URL: https://tass.ru/
+- Над регионами России за ночь сбили 98 украинских БПЛА
+  Category: Армия
+  Prominence: news_feed
 
-10. "Хочется сохранить добрую память о себе". Гадкий Гатиевич исполнилось 80 лет
-    - Prominence: main
-    - URL: https://tass.ru/
+- ВС РФ ударили по Яворовскому полигону на Украине
+  Category: Армия
+  Prominence: news_feed
 
-11. Опубликовано видео полета второго импортозамещенного МС-21
-    - Prominence: main
-    - URL: https://tass.ru/
+- ВС РФ освободили более 280 населенных пунктов с начала года
+  Category: Армия
+  Prominence: news_feed
 
-SPECIAL SECTIONS:
+- Эксперт Киселев: ВСУ усиливают группировку в Красноармейске "сбродом"
+  Category: Армия
+  Prominence: news_feed
 
-12. Военная операция на Украине (Special Section)
-    - Prominence: featured
-    - URL: https://tass.ru/
-
-13. Взрыв в Копейске (Special Section)
-    - Prominence: featured
-    - URL: https://tass.ru/
-
-FEATURED ARTICLE:
-
-14. Когда снизится инфляция и сколько будут опускать ставку. О чем сказала глава ЦБ (Статья)
-    - Prominence: featured
-    - Timestamp: 06:51
-    - URL: https://tass.ru/
+- Россиянам рассказали о праве многодетных матерей на досрочную пенсию
+  Category: Общество
+  Prominence: news_feed
