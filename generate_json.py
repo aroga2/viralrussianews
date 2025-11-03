@@ -1,138 +1,106 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
+"""
+Generate enhanced JSON file with complete metadata for web deployment
+"""
 import json
-from datetime import datetime, timezone, timedelta
+from datetime import datetime
+from pathlib import Path
 
-# Read analysis results
-with open('temp_analysis_results.json', 'r', encoding='utf-8') as f:
-    stories = json.load(f)
+def get_source_url(source_name):
+    """Get the homepage URL for each source"""
+    urls = {
+        'RT Russian': 'https://russian.rt.com/',
+        'TASS': 'https://tass.ru/',
+        'RIA Novosti': 'https://ria.ru/',
+        'Rossiyskaya Gazeta': 'https://rg.ru/',
+        'Komsomolskaya Pravda': 'https://www.kp.ru/',
+        'Lenta.ru': 'https://lenta.ru/',
+    }
+    return urls.get(source_name, '')
 
-# Generate enhanced JSON with complete data
-current_time = datetime.now(timezone.utc)
-output = {
-    "metadata": {
-        "collection_date": current_time.isoformat(),
-        "collection_date_display": current_time.strftime("%Y-%m-%d %H:%M UTC"),
-        "generated_at": current_time.isoformat(),
-        "collection_period": "daily_update",
-        "total_stories": 15,
-        "total_outlets": 6,
-        "outlets": [
-            {"name": "RT Russian", "url": "https://russian.rt.com/", "vk": "https://vk.com/rt_russian", "followers": "1.5M"},
-            {"name": "TASS", "url": "https://tass.ru/"},
-            {"name": "RIA Novosti", "url": "https://ria.ru/", "vk": "https://vk.com/ria", "followers": "3.3M"},
-            {"name": "Rossiyskaya Gazeta", "url": "https://rg.ru/"},
-            {"name": "Komsomolskaya Pravda", "url": "https://www.kp.ru/"},
-            {"name": "Lenta.ru", "url": "https://lenta.ru/"}
-        ],
-        "scoring_methodology": {
-            "outlet_coverage": "0-40 points (8 points per outlet)",
-            "prominence": "0-30 points (top_story=30, featured=20, main=10)",
-            "recency": "0-30 points (based on hours since publication)",
-            "max_score": 100
-        }
-    },
-    "stories": []
-}
-
-# Enhance each story with complete data including all fields expected by HTML
-for story in stories[:15]:
-    # Calculate publication date based on recency_hours
-    pub_time = current_time - timedelta(hours=story['recency_hours'])
-    date_str = pub_time.strftime("%b %d, %H:%M UTC")
+def get_category(title):
+    """Determine category based on title keywords"""
+    title_lower = title.lower()
     
-    # Generate VK engagement text
-    if story['recency_hours'] <= 2:
-        vk_engagement = "High engagement"
-    elif story['recency_hours'] <= 6:
-        vk_engagement = "Active discussion"
+    if any(kw in title_lower for kw in ['трамп', 'сша', 'нато', 'европ', 'запад', 'нигери']):
+        return 'International'
+    elif any(kw in title_lower for kw in ['украин', 'всу', 'сво', 'зеленский', 'купянск', 'покровск', 'красноармейск']):
+        return 'Ukraine Conflict'
+    elif any(kw in title_lower for kw in ['путин', 'россия', 'рф', 'мвф', 'премия']):
+        return 'Russia'
+    elif any(kw in title_lower for kw in ['оружи', 'военн', 'армия', 'тэс', 'удар', 'экраноплан', 'tomahawk']):
+        return 'Military & Defense'
     else:
-        vk_engagement = "Moderate activity"
+        return 'General News'
+
+def format_time_for_display(time_str):
+    """Format time string for better display"""
+    if not time_str:
+        return 'Recent'
     
-    # Generate why_trending based on viral score and coverage
-    why_trending_parts = []
-    if story['outlet_count'] >= 4:
-        why_trending_parts.append(f"Covered by {story['outlet_count']} major outlets")
-    if story['prominence'] == 'top_story':
-        why_trending_parts.append("Featured as top story")
-    elif story['prominence'] == 'featured':
-        why_trending_parts.append("Prominently featured")
-    if story['recency_hours'] <= 3:
-        why_trending_parts.append("Breaking news")
+    # If it's already a formatted time, return as is
+    if any(x in time_str for x in ['назад', 'ago', 'вчера', 'yesterday', 'ноября', 'Nov']):
+        return time_str
     
-    why_trending = ". ".join(why_trending_parts) + "."
+    # If it's HH:MM format, add "today"
+    if ':' in time_str and len(time_str) <= 5:
+        return f"Today, {time_str}"
     
-    # Russian version
-    why_trending_ru_parts = []
-    if story['outlet_count'] >= 4:
-        why_trending_ru_parts.append(f"Освещается {story['outlet_count']} крупными СМИ")
-    if story['prominence'] == 'top_story':
-        why_trending_ru_parts.append("Главная новость")
-    elif story['prominence'] == 'featured':
-        why_trending_ru_parts.append("Важная новость")
-    if story['recency_hours'] <= 3:
-        why_trending_ru_parts.append("Срочная новость")
+    return time_str
+
+def main():
+    data_dir = Path('/home/ubuntu/viral-russia-news/data')
+    input_file = data_dir / 'analyzed_stories.json'
+    output_file = Path('/home/ubuntu/viral-russia-news/public/viral_russia_news.json')
     
-    why_trending_ru = ". ".join(why_trending_ru_parts) + "."
+    # Read analyzed stories
+    with open(input_file, 'r', encoding='utf-8') as f:
+        stories = json.load(f)
     
-    # Generate tags based on topic
-    tags = [story['topic'].lower()]
-    if 'Military' in story['topic'] or 'Security' in story['topic']:
-        tags.append('defense')
-    if 'International' in story['topic']:
-        tags.append('world')
-    if 'Politics' in story['topic']:
-        tags.append('politics')
-    
-    enhanced_story = {
-        "rank": story['rank'],
-        "title": story['title'],
-        "title_ru": story['title_ru'],
-        "topic": story['topic'],
-        "viral_score": story['viral_score'],
-        "outlet_count": story['outlet_count'],
-        "outlets": story['outlets'],
-        "prominence": story['prominence'],
-        "recency_hours": story['recency_hours'],
-        "date": date_str,
-        "vk_engagement": vk_engagement,
-        "summary": story.get('excerpt', f"This story was covered by {story['outlet_count']} major Russian media outlets and achieved a viral score of {story['viral_score']}/100."),
-        "summary_ru": story.get('excerpt_ru', f"Эта новость освещалась {story['outlet_count']} крупными российскими СМИ и получила вирусный рейтинг {story['viral_score']}/100."),
-        "why_trending": why_trending,
-        "why_trending_ru": why_trending_ru,
-        "tags": tags
+    # Generate enhanced JSON
+    enhanced_data = {
+        'meta': {
+            'generated_at': datetime.utcnow().isoformat() + 'Z',
+            'collection_date': datetime.utcnow().strftime('%Y-%m-%d'),
+            'total_stories': len(stories),
+            'sources_count': len(set(s['source'] for s in stories)),
+            'version': '2.0'
+        },
+        'stories': []
     }
     
-    # Add source URLs based on outlets
-    source_urls = []
-    if 'RT Russian' in story['outlets']:
-        source_urls.append({"outlet": "RT Russian", "url": "https://russian.rt.com/"})
-    if 'TASS' in story['outlets']:
-        source_urls.append({"outlet": "TASS", "url": "https://tass.ru/"})
-    if 'RIA Novosti' in story['outlets']:
-        source_urls.append({"outlet": "RIA Novosti", "url": "https://ria.ru/"})
-    if 'Rossiyskaya Gazeta' in story['outlets']:
-        source_urls.append({"outlet": "Rossiyskaya Gazeta", "url": "https://rg.ru/"})
-    if 'Komsomolskaya Pravda' in story['outlets']:
-        source_urls.append({"outlet": "Komsomolskaya Pravda", "url": "https://www.kp.ru/"})
-    if 'Lenta.ru' in story['outlets']:
-        source_urls.append({"outlet": "Lenta.ru", "url": "https://lenta.ru/"})
+    for i, story in enumerate(stories, 1):
+        enhanced_story = {
+            'id': i,
+            'title': story['title'],
+            'source': story['source'],
+            'source_url': get_source_url(story['source']),
+            'time': format_time_for_display(story.get('time', '')),
+            'category': get_category(story['title']),
+            'viral_score': story['viral_score'],
+            'prominence': story.get('prominence', 'main'),
+            'rank': i
+        }
+        enhanced_data['stories'].append(enhanced_story)
     
-    enhanced_story['source_urls'] = source_urls
-    output['stories'].append(enhanced_story)
+    # Save enhanced JSON
+    output_file.parent.mkdir(parents=True, exist_ok=True)
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(enhanced_data, f, ensure_ascii=False, indent=2)
+    
+    print(f"Enhanced JSON generated: {output_file}")
+    print(f"\nMetadata:")
+    print(f"  Generated at: {enhanced_data['meta']['generated_at']}")
+    print(f"  Total stories: {enhanced_data['meta']['total_stories']}")
+    print(f"  Sources: {enhanced_data['meta']['sources_count']}")
+    
+    print(f"\nCategory breakdown:")
+    categories = {}
+    for story in enhanced_data['stories']:
+        cat = story['category']
+        categories[cat] = categories.get(cat, 0) + 1
+    for cat, count in sorted(categories.items(), key=lambda x: x[1], reverse=True):
+        print(f"  {cat}: {count}")
 
-# Save to BOTH filenames for compatibility
-# 1. New filename (news-data.json)
-with open('public/news-data.json', 'w', encoding='utf-8') as f:
-    json.dump(output, f, ensure_ascii=False, indent=2)
-
-# 2. Legacy filename (viral_russia_news.json) - for backward compatibility
-with open('public/viral_russia_news.json', 'w', encoding='utf-8') as f:
-    json.dump(output, f, ensure_ascii=False, indent=2)
-
-print("Enhanced JSON generated successfully!")
-print(f"Total stories: {len(output['stories'])}")
-print(f"Collection date: {output['metadata']['collection_date_display']}")
-print(f"Files updated: news-data.json, viral_russia_news.json")
-print(f"All required fields included: date, vk_engagement, why_trending, tags, excerpts")
+if __name__ == '__main__':
+    main()
