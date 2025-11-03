@@ -360,19 +360,43 @@
                             <div class="rank-badge">${story.rank}</div>
                             <div class="story-content">
                                 <div class="story-title">${story.title}</div>
+                                <div class="story-title-ru" style="font-size: 0.9rem; color: #718096; margin-top: 5px;">${story.title_ru}</div>
                                 <div class="story-meta">
                                     <span class="score-badge">📊 Score: ${story.viral_score}/100</span>
-                                    <span class="topic-badge">${story.category}</span>
-                                    <span class="date-badge">📅 ${story.time}</span>
-                                    <span class="outlet-badge">📰 ${story.source}</span>
+                                    <span class="topic-badge">${story.topic.replace(/_/g, ' ')}</span>
+                                    <span class="engagement-badge">📱 VK: ${story.vk_engagement.replace(/_/g, ' ')}</span>
+                                    <span class="date-badge">📅 ${story.date}</span>
+                                    <span class="outlet-count">📰 ${story.outlet_count} outlet${story.outlet_count > 1 ? 's' : ''}</span>
                                 </div>
                             </div>
                         </div>
                         
-                        <div class="story-outlets">
-                            <strong style="color: #718096; font-size: 0.9rem; margin-right: 10px;">Source:</strong>
-                            <a href="${story.source_url}" target="_blank" class="story-outlet-badge">${story.source}</a>
+                        <div class="story-summary">${story.summary}</div>
+                        
+                        ${story.summary_ru ? `<div class="story-summary-ru">${story.summary_ru}</div>` : ''}
+                        
+                        <div class="why-trending">
+                            <div class="why-trending-title">⭐ Why Trending:</div>
+                            ${story.why_trending}
                         </div>
+                        
+                        ${story.why_trending_ru ? `
+                        <div class="why-trending">
+                            <div class="why-trending-title">⭐ Почему в тренде:</div>
+                            ${story.why_trending_ru}
+                        </div>
+                        ` : ''}
+                        
+                        <div class="story-outlets">
+                            <strong style="color: #718096; font-size: 0.9rem; margin-right: 10px;">Sources:</strong>
+                            ${story.outlets.map(outlet => `<span class="story-outlet-badge">${outlet}</span>`).join('')}
+                        </div>
+                        
+                        ${story.tags ? `
+                        <div class="story-tags">
+                            ${story.tags.map(tag => `<span class="tag">#${tag}</span>`).join('')}
+                        </div>
+                        ` : ''}
                     </div>
                 `).join('');
                 
