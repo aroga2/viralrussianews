@@ -35,14 +35,18 @@ For each story, provide:
 1. English title (concise, news-style)
 2. 2-3 sentence English summary explaining the story
 3. 1-2 sentence explanation of why it's trending
+4. Russian summary (2-3 sentences)
+5. Russian "why trending" explanation (1-2 sentences)
 
-Format as JSON array:
-[
-  {{
+Return JSON with a 'stories' array:
+{{
+  "stories": [{{
     "id": 1,
     "title_en": "...",
     "summary_en": "...",
-    "why_trending_en": "..."
+    "why_trending_en": "...",
+    "summary_ru": "...",
+    "why_trending_ru": "..."
   }},
   ...
 ]"""
@@ -60,8 +64,8 @@ Format as JSON array:
         )
         
         result = json.loads(response.choices[0].message.content)
-        # LLM returns translations in 'news' array
-        translations = result.get('news', result.get('translations', []))
+        # LLM returns translations in 'stories', 'news', or 'translations' array
+        translations = result.get('stories', result.get('news', result.get('translations', [])))
         print(f"✓ Received translations for {len(translations)} stories")
         return translations
     except Exception as e:
@@ -107,9 +111,9 @@ def main():
             "viral_score": story["viral_score"],
             "prominence": story.get("prominence", "main"),
             "summary": translation["summary_en"],
-            "summary_ru": "",
+            "summary_ru": translation.get("summary_ru", ""),
             "why_trending": translation["why_trending_en"],
-            "why_trending_ru": "",
+            "why_trending_ru": translation.get("why_trending_ru", ""),
             "tags": generate_tags(story["title"], story.get("category", "")),
             "outlets": [story["source"]],
             "outlet_count": 1,
