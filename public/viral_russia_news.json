@@ -1,176 +1,185 @@
 {
-  "meta": {
-    "generated_at": "2025-11-03T09:25:52.713519Z",
-    "collection_date": "2025-11-03",
-    "total_stories": 15,
-    "sources_count": 5,
-    "version": "2.0"
+  "metadata": {
+    "generated_at": "2025-11-03T09:28:18.517747",
+    "collection_period": "2025-11-03",
+    "total_outlets": 6,
+    "outlets": [
+      {
+        "name": "RT Russian",
+        "url": "https://russian.rt.com/"
+      },
+      {
+        "name": "TASS",
+        "url": "https://tass.ru/"
+      },
+      {
+        "name": "RIA Novosti",
+        "url": "https://ria.ru/"
+      },
+      {
+        "name": "Rossiyskaya Gazeta",
+        "url": "https://rg.ru/"
+      },
+      {
+        "name": "Komsomolskaya Pravda",
+        "url": "https://www.kp.ru/"
+      },
+      {
+        "name": "Lenta.ru",
+        "url": "https://lenta.ru/"
+      }
+    ]
   },
   "stories": [
     {
-      "id": 1,
+      "rank": 1,
       "title": "Трамп поставил точку в вопросе о передаче Украине ракет Tomahawk. Какое решение принял президент США?",
       "source": "Lenta.ru",
       "source_url": "https://lenta.ru/",
       "time": "Today, 06:28",
       "category": "International",
       "viral_score": 92,
-      "prominence": "top_story",
-      "rank": 1
+      "prominence": "top_story"
     },
     {
-      "id": 2,
+      "rank": 2,
       "title": "Минобороны рассказало о заблокированных в Купянске боевиках ВСУ",
       "source": "RIA Novosti",
       "source_url": "https://ria.ru/",
       "time": "Today, 09:42",
       "category": "Ukraine Conflict",
       "viral_score": 89,
-      "prominence": "top_story",
-      "rank": 2
+      "prominence": "top_story"
     },
     {
-      "id": 3,
+      "rank": 3,
       "title": "Трамп назвал Путина сильным лидером, с которым нельзя играть",
       "source": "RIA Novosti",
       "source_url": "https://ria.ru/",
       "time": "Today, 04:01",
       "category": "International",
       "viral_score": 84,
-      "prominence": "featured",
-      "rank": 3
+      "prominence": "featured"
     },
     {
-      "id": 4,
+      "rank": 4,
       "title": "«Это уже не побег, а спецоперация». Украинский блогер, спасаясь от мобилизации, покинул страну и снял свой маршрут на видео",
       "source": "Lenta.ru",
       "source_url": "https://lenta.ru/",
       "time": "10:54, 2 ноября",
       "category": "Ukraine Conflict",
       "viral_score": 82,
-      "prominence": "featured",
-      "rank": 4
+      "prominence": "featured"
     },
     {
-      "id": 5,
+      "rank": 5,
       "title": "«Орлёнок» и «Каспийские монстры»: как СССР создавал лучшие в мире боевые экранопланы",
       "source": "RT Russian",
       "source_url": "https://russian.rt.com/",
       "time": "Today, 09:00",
       "category": "Military & Defense",
       "viral_score": 80,
-      "prominence": "top_story",
-      "rank": 5
+      "prominence": "top_story"
     },
     {
-      "id": 6,
+      "rank": 6,
       "title": "Окруженные в районе Купянска украинские военные продолжают сдаваться в плен",
       "source": "TASS",
       "source_url": "https://tass.ru/",
       "time": "Today, 06:26",
       "category": "Ukraine Conflict",
       "viral_score": 79,
-      "prominence": "featured",
-      "rank": 6
+      "prominence": "featured"
     },
     {
-      "id": 7,
+      "rank": 7,
       "title": "Украина может лишиться поддержки МВФ, пишет Politico",
       "source": "RIA Novosti",
       "source_url": "https://ria.ru/",
       "time": "Today, 09:57",
       "category": "Ukraine Conflict",
       "viral_score": 79,
-      "prominence": "featured",
-      "rank": 7
+      "prominence": "featured"
     },
     {
-      "id": 8,
+      "rank": 8,
       "title": "Армия России уничтожила одну из крупнейших ТЭС на Украине. Что известно о ночных ударах ВС РФ?",
       "source": "Lenta.ru",
       "source_url": "https://lenta.ru/",
       "time": "Today, 03:57",
       "category": "Ukraine Conflict",
       "viral_score": 77,
-      "prominence": "featured",
-      "rank": 8
+      "prominence": "featured"
     },
     {
-      "id": 9,
+      "rank": 9,
       "title": "Трамп пригрозил вторжением в Нигерию. Там угнетают христиан, а еще там очень много нефти",
       "source": "Lenta.ru",
       "source_url": "https://lenta.ru/",
       "time": "07:38, 2 ноября",
       "category": "International",
       "viral_score": 77,
-      "prominence": "featured",
-      "rank": 9
+      "prominence": "featured"
     },
     {
-      "id": 10,
+      "rank": 10,
       "title": "«Памятник идиотизму». Что говорят в России и на Украине о провальной высадке украинского спецназа в Красноармейске",
       "source": "Lenta.ru",
       "source_url": "https://lenta.ru/",
       "time": "20:13, 1 ноября",
       "category": "Ukraine Conflict",
       "viral_score": 77,
-      "prominence": "featured",
-      "rank": 10
+      "prominence": "featured"
     },
     {
-      "id": 11,
+      "rank": 11,
       "title": "«Важно максимальное приближение»: как НАТО наращивает свою военную активность у границ России",
       "source": "RT Russian",
       "source_url": "https://russian.rt.com/",
       "time": "Today, 07:00",
       "category": "International",
       "viral_score": 75,
-      "prominence": "main",
-      "rank": 11
+      "prominence": "main"
     },
     {
-      "id": 12,
+      "rank": 12,
       "title": "Путин присудил премию за вклад в укрепление единства нации",
       "source": "TASS",
       "source_url": "https://tass.ru/",
       "time": "Recent",
       "category": "Russia",
       "viral_score": 74,
-      "prominence": "top_story",
-      "rank": 12
+      "prominence": "top_story"
     },
     {
-      "id": 13,
+      "rank": 13,
       "title": "Трамп считает, что конфликт на Украине может быть урегулирован за пару месяцев",
       "source": "TASS",
       "source_url": "https://tass.ru/",
       "time": "02:19, Updated: 03:03",
       "category": "International",
       "viral_score": 74,
-      "prominence": "main",
-      "rank": 13
+      "prominence": "main"
     },
     {
-      "id": 14,
+      "rank": 14,
       "title": "Почему Зеленский гонит ВСУ на убой в котлы под Покровском: Одна подлая цель",
       "source": "Komsomolskaya Pravda",
       "source_url": "https://www.kp.ru/",
       "time": "вчера",
       "category": "Ukraine Conflict",
       "viral_score": 73,
-      "prominence": "top_story",
-      "rank": 14
+      "prominence": "top_story"
     },
     {
-      "id": 15,
+      "rank": 15,
       "title": "«Противник выбит из опорного пункта»: ВС РФ завершают зачистку от ВСУ в Гнатовке и Роге в районе Красноармейска",
       "source": "RT Russian",
       "source_url": "https://russian.rt.com/",
       "time": "Recent",
       "category": "International",
       "viral_score": 70,
-      "prominence": "featured",
-      "rank": 15
+      "prominence": "featured"
     }
   ]
 }

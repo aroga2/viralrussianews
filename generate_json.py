@@ -6,17 +6,16 @@ import json
 from datetime import datetime
 from pathlib import Path
 
-def get_source_url(source_name):
-    """Get the homepage URL for each source"""
-    urls = {
-        'RT Russian': 'https://russian.rt.com/',
-        'TASS': 'https://tass.ru/',
-        'RIA Novosti': 'https://ria.ru/',
-        'Rossiyskaya Gazeta': 'https://rg.ru/',
-        'Komsomolskaya Pravda': 'https://www.kp.ru/',
-        'Lenta.ru': 'https://lenta.ru/',
-    }
-    return urls.get(source_name, '')
+def get_source_info():
+    """Get source information with URLs"""
+    return [
+        {"name": "RT Russian", "url": "https://russian.rt.com/"},
+        {"name": "TASS", "url": "https://tass.ru/"},
+        {"name": "RIA Novosti", "url": "https://ria.ru/"},
+        {"name": "Rossiyskaya Gazeta", "url": "https://rg.ru/"},
+        {"name": "Komsomolskaya Pravda", "url": "https://www.kp.ru/"},
+        {"name": "Lenta.ru", "url": "https://lenta.ru/"},
+    ]
 
 def get_category(title):
     """Determine category based on title keywords"""
@@ -48,6 +47,14 @@ def format_time_for_display(time_str):
     
     return time_str
 
+def get_source_url(source_name):
+    """Get the homepage URL for each source"""
+    sources = get_source_info()
+    for source in sources:
+        if source['name'] == source_name:
+            return source['url']
+    return ''
+
 def main():
     data_dir = Path('/home/ubuntu/viral-russia-news/data')
     input_file = data_dir / 'analyzed_stories.json'
@@ -57,29 +64,27 @@ def main():
     with open(input_file, 'r', encoding='utf-8') as f:
         stories = json.load(f)
     
-    # Generate enhanced JSON
+    # Generate enhanced JSON with the correct structure
     enhanced_data = {
-        'meta': {
-            'generated_at': datetime.utcnow().isoformat() + 'Z',
-            'collection_date': datetime.utcnow().strftime('%Y-%m-%d'),
-            'total_stories': len(stories),
-            'sources_count': len(set(s['source'] for s in stories)),
-            'version': '2.0'
+        'metadata': {
+            'generated_at': datetime.utcnow().isoformat(),
+            'collection_period': datetime.utcnow().strftime('%Y-%m-%d'),
+            'total_outlets': 6,
+            'outlets': get_source_info()
         },
         'stories': []
     }
     
     for i, story in enumerate(stories, 1):
         enhanced_story = {
-            'id': i,
+            'rank': i,
             'title': story['title'],
             'source': story['source'],
             'source_url': get_source_url(story['source']),
             'time': format_time_for_display(story.get('time', '')),
             'category': get_category(story['title']),
             'viral_score': story['viral_score'],
-            'prominence': story.get('prominence', 'main'),
-            'rank': i
+            'prominence': story.get('prominence', 'main')
         }
         enhanced_data['stories'].append(enhanced_story)
     
@@ -90,9 +95,9 @@ def main():
     
     print(f"Enhanced JSON generated: {output_file}")
     print(f"\nMetadata:")
-    print(f"  Generated at: {enhanced_data['meta']['generated_at']}")
-    print(f"  Total stories: {enhanced_data['meta']['total_stories']}")
-    print(f"  Sources: {enhanced_data['meta']['sources_count']}")
+    print(f"  Generated at: {enhanced_data['metadata']['generated_at']}")
+    print(f"  Total stories: {len(enhanced_data['stories'])}")
+    print(f"  Total outlets: {enhanced_data['metadata']['total_outlets']}")
     
     print(f"\nCategory breakdown:")
     categories = {}
