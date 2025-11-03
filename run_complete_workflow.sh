@@ -52,7 +52,7 @@ fi
 # Step 3: Generate JSON
 log ""
 log "[3/5] Generating JSON file for web deployment..."
-if python3 generate_json.py >> "$LOG_FILE" 2>&1; then
+if python3 generate_enhanced_json_fast.py >> "$LOG_FILE" 2>&1; then
     log "  ✓ JSON generated and validated"
 else
     error_exit "JSON generation failed"
