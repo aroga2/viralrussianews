@@ -109,3 +109,57 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+def validate_json_structure(data):
+    """Validate that JSON matches expected structure for index.html"""
+    errors = []
+    
+    # Check top-level structure
+    if 'metadata' not in data:
+        errors.append("Missing 'metadata' key")
+    if 'stories' not in data:
+        errors.append("Missing 'stories' key")
+    
+    # Check metadata structure
+    if 'metadata' in data:
+        meta = data['metadata']
+        required_meta_fields = ['generated_at', 'collection_period', 'total_outlets', 'outlets']
+        for field in required_meta_fields:
+            if field not in meta:
+                errors.append(f"Missing metadata.{field}")
+        
+        if 'outlets' in meta and not isinstance(meta['outlets'], list):
+            errors.append("metadata.outlets must be a list")
+    
+    # Check stories structure
+    if 'stories' in data and len(data['stories']) > 0:
+        story = data['stories'][0]
+        required_story_fields = ['rank', 'title', 'source', 'source_url', 'time', 'category', 'viral_score', 'prominence']
+        for field in required_story_fields:
+            if field not in story:
+                errors.append(f"Missing story.{field} in first story")
+    
+    return errors
+
+# Add validation call to main()
+def main_with_validation():
+    """Main function with validation"""
+    main()  # Call original main
+    
+    # Validate the generated file
+    output_file = Path('/home/ubuntu/viral-russia-news/public/viral_russia_news.json')
+    with open(output_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    
+    errors = validate_json_structure(data)
+    if errors:
+        print("\n⚠️  VALIDATION ERRORS:")
+        for error in errors:
+            print(f"  - {error}")
+        sys.exit(1)
+    else:
+        print("\n✓ JSON structure validation passed")
+
+if __name__ == '__main__':
+    import sys
+    main_with_validation()
