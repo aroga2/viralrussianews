@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2025-11-03T21:38:04.586309",
-    "collection_period": "2025-11-03",
+    "generated_at": "2025-11-04T08:50:44.255577",
+    "collection_period": "2025-11-04",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,7 +33,7 @@
   "stories": [
     {
       "rank": 1,
-      "title": "Trump Ends Debate on Sending Tomahawk Missiles to Ukraine",
+      "title": "Trump Ends Debate on Supplying Tomahawk Missiles to Ukraine",
       "title_ru": "Трамп поставил точку в вопросе о передаче Украине ракет Tomahawk. Какое решение принял президент США?",
       "source": "Lenta.ru",
       "source_url": "https://lenta.ru/",
@@ -41,10 +41,10 @@
       "category": "General News",
       "viral_score": 92,
       "prominence": "top_story",
-      "summary": "Former US President Donald Trump has made a definitive statement regarding the transfer of Tomahawk missiles to Ukraine, clarifying his position on the matter. He decided against sending these long-range missiles to Ukraine amid ongoing conflict concerns.",
+      "summary": "Former US President Donald Trump has made a definitive statement regarding the transfer of Tomahawk missiles to Ukraine, clarifying his position on the issue. He decided against providing these long-range missiles to Ukraine amid ongoing conflict concerns.",
       "summary_ru": "Бывший президент США Дональд Трамп окончательно высказался по вопросу передачи Украине ракет Tomahawk, заявив, что не поддерживает их поставку. Это решение связано с текущей ситуацией в конфликте на Украине.",
-      "why_trending": "The decision impacts US military aid to Ukraine and influences international dynamics in the Russia-Ukraine conflict.",
-      "why_trending_ru": "Решение влияет на военную помощь США Украине и международные отношения в контексте конфликта с Россией.",
+      "why_trending": "The decision impacts international military aid dynamics and US foreign policy towards the Ukraine conflict, drawing global attention.",
+      "why_trending_ru": "Решение влияет на международную военную помощь и политику США в отношении конфликта на Украине, вызывая широкий резонанс.",
       "tags": [
         "trump"
       ],
@@ -52,13 +52,13 @@
         "Lenta.ru"
       ],
       "outlet_count": 1,
-      "date": "2025-11-03",
+      "date": "2025-11-04",
       "topic": "general_news",
       "vk_engagement": "moderate"
     },
     {
       "rank": 2,
-      "title": "Russian Defense Ministry Reports Ukrainian Militants Blocked in Kupyansk",
+      "title": "Russian Defense Ministry Reports Encircled Ukrainian Militants in Kupyansk",
       "title_ru": "Минобороны рассказало о заблокированных в Купянске боевиках ВСУ",
       "source": "RIA Novosti",
       "source_url": "https://ria.ru/",
@@ -66,16 +66,16 @@
       "category": "General News",
       "viral_score": 89,
       "prominence": "top_story",
-      "summary": "The Russian Ministry of Defense announced that Ukrainian armed militants are encircled and blocked in the Kupyansk area. This development signifies a strategic advantage for Russian forces in the ongoing conflict.",
-      "summary_ru": "Минобороны России сообщило о блокировании боевиков ВСУ в районе Купянска, что свидетельствует о тактическом преимуществе российских войск.",
-      "why_trending": "Encirclement of enemy forces is a significant military event affecting the course of the war in eastern Ukraine.",
-      "why_trending_ru": "Окружение противника — важное событие, влияющее на ход боевых действий на востоке Украины.",
+      "summary": "The Russian Ministry of Defense announced that Ukrainian armed forces militants are blocked in the Kupyansk area. The report highlights ongoing military operations and encirclement tactics used by Russian forces.",
+      "summary_ru": "Минобороны России сообщило о блокировании боевиков ВСУ в районе Купянска. В докладе отмечены текущие военные операции и тактика окружения со стороны российских войск.",
+      "why_trending": "The situation in Kupyansk is a key front in the Ukraine conflict, and updates on encircled forces are closely monitored.",
+      "why_trending_ru": "Ситуация в Купянске является важным фронтом конфликта на Украине, и новости об окруженных силах вызывают большой интерес.",
       "tags": [],
       "outlets": [
         "RIA Novosti"
       ],
       "outlet_count": 1,
-      "date": "2025-11-03",
+      "date": "2025-11-04",
       "topic": "general_news",
       "vk_engagement": "moderate"
     },
@@ -89,10 +89,10 @@
       "category": "General News",
       "viral_score": 84,
       "prominence": "featured",
-      "summary": "Donald Trump described Vladimir Putin as a strong leader with whom one should not play games. His remarks highlight the ongoing perception of Putin's influence on the global stage.",
-      "summary_ru": "Дональд Трамп охарактеризовал Владимира Путина как сильного лидера, с которым нельзя играть. Эти слова подчеркивают восприятие Путина на мировой арене.",
-      "why_trending": "Statements from former US presidents on Putin attract attention due to their geopolitical implications.",
-      "why_trending_ru": "Высказывания экс-президентов США о Путине вызывают интерес из-за геополитических последствий.",
+      "summary": "Donald Trump described Vladimir Putin as a strong leader with whom one should not play games. His remarks reflect his views on international leadership and geopolitical power dynamics.",
+      "summary_ru": "Дональд Трамп охарактеризовал Владимира Путина как сильного лидера, с которым нельзя играть. Эти высказывания отражают его взгляды на международное лидерство и геополитическую ситуацию.",
+      "why_trending": "Trump's comments on Putin attract attention due to their implications for US-Russia relations and ongoing global tensions.",
+      "why_trending_ru": "Комментарии Трампа о Путине вызывают интерес из-за их влияния на отношения США и России и глобальную напряженность.",
       "tags": [
         "trump",
         "putin"
@@ -101,7 +101,7 @@
         "RIA Novosti"
       ],
       "outlet_count": 1,
-      "date": "2025-11-03",
+      "date": "2025-11-04",
       "topic": "general_news",
       "vk_engagement": "moderate"
     },
@@ -115,22 +115,22 @@
       "category": "General News",
       "viral_score": 82,
       "prominence": "featured",
-      "summary": "An Ukrainian blogger, evading military mobilization, left the country and recorded his escape route on video. He described the journey as more of a special operation than a simple escape.",
-      "summary_ru": "Украинский блогер, спасаясь от мобилизации, покинул страну и снял свой маршрут на видео, назвав это не побегом, а спецоперацией.",
-      "why_trending": "The story sheds light on civilian reactions to mobilization and the human aspect of the conflict.",
-      "why_trending_ru": "История отражает реакцию граждан на мобилизацию и человеческий аспект конфликта.",
+      "summary": "An Ukrainian blogger, evading military mobilization, left the country and recorded his escape route on video. He described the journey as more than a simple flight, calling it a special operation.",
+      "summary_ru": "Украинский блогер, спасаясь от мобилизации, покинул страну и снял свой маршрут на видео. Он назвал это не просто побегом, а спецоперацией.",
+      "why_trending": "The story highlights civilian responses to Ukraine's mobilization efforts and the human aspect of the ongoing conflict.",
+      "why_trending_ru": "История отражает реакцию граждан на мобилизацию в Украине и показывает человеческую сторону конфликта.",
       "tags": [],
       "outlets": [
         "Lenta.ru"
       ],
       "outlet_count": 1,
-      "date": "2025-11-03",
+      "date": "2025-11-04",
       "topic": "general_news",
       "vk_engagement": "moderate"
     },
     {
       "rank": 5,
-      "title": "How the USSR Created the World's Best Combat Ekranoplans",
+      "title": "Soviet Union Created World’s Best Combat Ekranoplanes: 'Orlyonok' and 'Caspian Monsters'",
       "title_ru": "«Орлёнок» и «Каспийские монстры»: как СССР создавал лучшие в мире боевые экранопланы",
       "source": "RT Russian",
       "source_url": "https://russian.rt.com/",
@@ -138,16 +138,16 @@
       "category": "General News",
       "viral_score": 80,
       "prominence": "top_story",
-      "summary": "An article explores the Soviet Union's development of advanced combat ekranoplans, including models like 'Orlyonok' and 'Caspian Monsters.' These unique ground-effect vehicles were considered among the best in the world.",
-      "summary_ru": "Материал рассказывает о том, как СССР создавал лучшие в мире боевые экранопланы, такие как «Орлёнок» и «Каспийские монстры».",
-      "why_trending": "Interest in Soviet military technology and historical innovations remains high amid current military discussions.",
-      "why_trending_ru": "Интерес к советским военным технологиям и историческим инновациям сохраняется на фоне современных военных обсуждений.",
+      "summary": "An overview of how the USSR developed some of the world's most advanced combat ekranoplanes, including the 'Orlyonok' and 'Caspian Monsters.' These ground-effect vehicles combined features of ships and aircraft for military use.",
+      "summary_ru": "Обзор того, как СССР создавал лучшие в мире боевые экранопланы, такие как «Орлёнок» и «Каспийские монстры». Эти аппараты сочетали характеристики кораблей и самолетов.",
+      "why_trending": "Interest in Soviet military technology and unique aviation history fuels attention to this retrospective story.",
+      "why_trending_ru": "Интерес к советской военной технике и уникальной авиационной истории вызывает внимание к этой ретроспективе.",
       "tags": [],
       "outlets": [
         "RT Russian"
       ],
       "outlet_count": 1,
-      "date": "2025-11-03",
+      "date": "2025-11-04",
       "topic": "general_news",
       "vk_engagement": "moderate"
     },
@@ -161,22 +161,22 @@
       "category": "General News",
       "viral_score": 79,
       "prominence": "featured",
-      "summary": "Ukrainian military personnel surrounded in the Kupyansk region are reportedly continuing to surrender to Russian forces. This ongoing surrender indicates deteriorating conditions for Ukrainian troops in the area.",
-      "summary_ru": "Украинские военные, окружённые в районе Купянска, продолжают сдачу в плен российским войскам, что свидетельствует о сложной ситуации для ВСУ.",
-      "why_trending": "The surrender of encircled troops marks a critical point in the conflict's eastern front.",
-      "why_trending_ru": "Сдача окружённых войск — важный этап в развитии конфликта на восточном фронте.",
+      "summary": "Ukrainian military personnel surrounded in the Kupyansk area are reportedly continuing to surrender to Russian forces. This development indicates ongoing pressure and advances in the region.",
+      "summary_ru": "Украинские военные, окружённые в районе Купянска, продолжают сдаваться в плен российским войскам. Это свидетельствует о продолжающемся давлении на позиции ВСУ.",
+      "why_trending": "The surrender of troops in a contested area signals shifts in control and momentum in the Ukraine conflict.",
+      "why_trending_ru": "Капитуляция войск в спорном районе указывает на изменения в контроле и динамике конфликта на Украине.",
       "tags": [],
       "outlets": [
         "TASS"
       ],
       "outlet_count": 1,
-      "date": "2025-11-03",
+      "date": "2025-11-04",
       "topic": "general_news",
       "vk_engagement": "moderate"
     },
     {
       "rank": 7,
-      "title": "Ukraine May Lose IMF Support, Reports Politico",
+      "title": "Ukraine Risks Losing IMF Support, Reports Politico",
       "title_ru": "Украина может лишиться поддержки МВФ, пишет Politico",
       "source": "RIA Novosti",
       "source_url": "https://ria.ru/",
@@ -184,22 +184,22 @@
       "category": "General News",
       "viral_score": 79,
       "prominence": "featured",
-      "summary": "According to Politico, Ukraine risks losing financial support from the International Monetary Fund amid ongoing economic and political challenges. This potential loss could impact Ukraine's economic stability.",
-      "summary_ru": "По данным Politico, Украина может лишиться поддержки Международного валютного фонда из-за экономических и политических трудностей.",
-      "why_trending": "IMF support is crucial for Ukraine's economy during wartime, making this report significant.",
-      "why_trending_ru": "Поддержка МВФ важна для экономики Украины в условиях войны, поэтому эта новость имеет большое значение.",
+      "summary": "According to Politico, Ukraine may face the loss of financial support from the International Monetary Fund amid economic and political challenges. This could impact Ukraine's economic stability during the conflict.",
+      "summary_ru": "По данным Politico, Украина может лишиться поддержки Международного валютного фонда из-за экономических и политических проблем. Это может повлиять на экономическую стабильность страны.",
+      "why_trending": "Potential withdrawal of IMF aid is critical for Ukraine’s economy and war effort, drawing international concern.",
+      "why_trending_ru": "Возможное прекращение помощи МВФ критично для экономики и военных усилий Украины, вызывая международное беспокойство.",
       "tags": [],
       "outlets": [
         "RIA Novosti"
       ],
       "outlet_count": 1,
-      "date": "2025-11-03",
+      "date": "2025-11-04",
       "topic": "general_news",
       "vk_engagement": "moderate"
     },
     {
       "rank": 8,
-      "title": "Russian Army Destroys One of Ukraine's Largest Thermal Power Plants",
+      "title": "Russian Army Destroys One of Ukraine’s Largest Thermal Power Plants",
       "title_ru": "Армия России уничтожила одну из крупнейших ТЭС на Украине. Что известно о ночных ударах ВС РФ?",
       "source": "Lenta.ru",
       "source_url": "https://lenta.ru/",
@@ -207,16 +207,16 @@
       "category": "General News",
       "viral_score": 77,
       "prominence": "featured",
-      "summary": "Russian forces reportedly destroyed a major thermal power station in Ukraine during nighttime strikes. The attacks targeted critical infrastructure, impacting Ukraine's energy capabilities.",
-      "summary_ru": "Российская армия уничтожила одну из крупнейших ТЭС на Украине в ходе ночных ударов, что повлияло на энергетическую инфраструктуру страны.",
-      "why_trending": "Strikes on energy infrastructure affect civilian life and military logistics, drawing wide attention.",
-      "why_trending_ru": "Удары по энергетическим объектам влияют на жизнь граждан и военную логистику, вызывая большой резонанс.",
+      "summary": "Russian forces reportedly destroyed one of Ukraine’s largest thermal power stations during nighttime strikes. The attacks targeted critical infrastructure, impacting Ukraine’s energy capabilities.",
+      "summary_ru": "Российская армия уничтожила одну из крупнейших тепловых электростанций Украины в ходе ночных ударов. Атаки затронули важную инфраструктуру страны.",
+      "why_trending": "Strikes on key energy infrastructure affect civilian life and military logistics, making this a significant development.",
+      "why_trending_ru": "Удары по ключевой энергетической инфраструктуре влияют на жизнь граждан и военную логистику, что делает событие значимым.",
       "tags": [],
       "outlets": [
         "Lenta.ru"
       ],
       "outlet_count": 1,
-      "date": "2025-11-03",
+      "date": "2025-11-04",
       "topic": "general_news",
       "vk_engagement": "moderate"
     },
@@ -230,10 +230,10 @@
       "category": "General News",
       "viral_score": 77,
       "prominence": "featured",
-      "summary": "Donald Trump threatened a possible invasion of Nigeria, citing oppression of Christians and the country's vast oil reserves as reasons. His statement has sparked international discussion about US foreign policy intentions.",
-      "summary_ru": "Дональд Трамп пригрозил вторжением в Нигерию, ссылаясь на угнетение христиан и большие запасы нефти в стране.",
-      "why_trending": "Such a threat from a former US president is unusual and raises questions about geopolitical strategies.",
-      "why_trending_ru": "Подобные угрозы от экс-президента США вызывают обсуждения и вопросы о геополитических планах.",
+      "summary": "Donald Trump threatened a possible invasion of Nigeria, citing oppression of Christians and the country's vast oil resources as reasons. His statement stirred controversy and international attention.",
+      "summary_ru": "Дональд Трамп пригрозил вторжением в Нигерию, ссылаясь на угнетение христиан и большие запасы нефти в стране. Его заявление вызвало споры и внимание мировой общественности.",
+      "why_trending": "Such a provocative statement from a former US president raises geopolitical and humanitarian concerns worldwide.",
+      "why_trending_ru": "Провокационное заявление бывшего президента США вызывает геополитические и гуманитарные вопросы по всему миру.",
       "tags": [
         "trump"
       ],
@@ -241,13 +241,13 @@
         "Lenta.ru"
       ],
       "outlet_count": 1,
-      "date": "2025-11-03",
+      "date": "2025-11-04",
       "topic": "general_news",
       "vk_engagement": "moderate"
     },
     {
       "rank": 10,
-      "title": "Failed Ukrainian Special Forces Landing in Krasnoarmeysk Called 'Monument to Idiocy'",
+      "title": "'Monument to Idiocy': Russian and Ukrainian Reactions to Failed Ukrainian Special Forces Landing in Krasnoarmeysk",
       "title_ru": "«Памятник идиотизму». Что говорят в России и на Украине о провальной высадке украинского спецназа в Красноармейске",
       "source": "Lenta.ru",
       "source_url": "https://lenta.ru/",
@@ -255,22 +255,22 @@
       "category": "General News",
       "viral_score": 77,
       "prominence": "featured",
-      "summary": "Russian and Ukrainian sources criticize a failed Ukrainian special forces landing operation in Krasnoarmeysk, calling it a 'monument to idiocy.' The operation reportedly ended in significant losses for Ukraine.",
-      "summary_ru": "В России и на Украине критикуют провальную высадку украинского спецназа в Красноармейске, назвав её «памятником идиотизму».",
-      "why_trending": "The failure highlights challenges faced by Ukrainian forces and is widely discussed in media on both sides.",
-      "why_trending_ru": "Провал операции демонстрирует трудности украинских войск и активно обсуждается в СМИ обеих стран.",
+      "summary": "The failed landing operation by Ukrainian special forces in Krasnoarmeysk has been widely criticized in both Russia and Ukraine, with some calling it a 'monument to idiocy.' The operation reportedly ended in heavy losses.",
+      "summary_ru": "Провальная высадка украинского спецназа в Красноармейске получила резкую критику в России и Украине, её назвали «памятником идиотизму». Операция завершилась большими потерями.",
+      "why_trending": "The operation’s failure and harsh criticism highlight ongoing tactical challenges and morale issues in the conflict.",
+      "why_trending_ru": "Провал операции и жёсткая критика отражают текущие тактические трудности и проблемы с моральным духом в конфликте.",
       "tags": [],
       "outlets": [
         "Lenta.ru"
       ],
       "outlet_count": 1,
-      "date": "2025-11-03",
+      "date": "2025-11-04",
       "topic": "general_news",
       "vk_engagement": "moderate"
     },
     {
       "rank": 11,
-      "title": "NATO Increases Military Activity Near Russian Borders",
+      "title": "NATO Intensifies Military Activity Near Russian Borders",
       "title_ru": "«Важно максимальное приближение»: как НАТО наращивает свою военную активность у границ России",
       "source": "RT Russian",
       "source_url": "https://russian.rt.com/",
@@ -278,16 +278,16 @@
       "category": "General News",
       "viral_score": 75,
       "prominence": "main",
-      "summary": "NATO is reportedly intensifying its military presence and activities near Russia's borders, aiming for maximum proximity. This escalation raises tensions and concerns over regional security.",
-      "summary_ru": "НАТО наращивает военную активность у границ России, стремясь к максимальному приближению своих сил.",
-      "why_trending": "NATO's actions directly affect Russia-West relations and the security environment in Eastern Europe.",
-      "why_trending_ru": "Действия НАТО влияют на отношения России с Западом и безопасность в Восточной Европе.",
+      "summary": "NATO is increasing its military presence and activities close to Russia’s borders, aiming for maximum strategic proximity. This buildup reflects escalating tensions and preparedness in the region.",
+      "summary_ru": "НАТО наращивает военную активность у границ России, стремясь к максимальному приближению. Это отражает обострение напряженности в регионе.",
+      "why_trending": "Growing NATO activity near Russia is a key factor in regional security and international relations, attracting global focus.",
+      "why_trending_ru": "Рост активности НАТО у границ России является важным фактором региональной безопасности и международных отношений.",
       "tags": [],
       "outlets": [
         "RT Russian"
       ],
       "outlet_count": 1,
-      "date": "2025-11-03",
+      "date": "2025-11-04",
       "topic": "general_news",
       "vk_engagement": "moderate"
     },
@@ -301,10 +301,10 @@
       "category": "General News",
       "viral_score": 74,
       "prominence": "top_story",
-      "summary": "President Vladimir Putin has awarded a prize recognizing significant contributions to strengthening national unity in Russia. The award highlights efforts to promote cohesion amid ongoing challenges.",
-      "summary_ru": "Владимир Путин присудил премию за вклад в укрепление единства нации, отмечая важность сплочённости общества.",
-      "why_trending": "National unity remains a key theme in Russian domestic policy and public discourse.",
-      "why_trending_ru": "Тема национального единства является приоритетной в российской внутренней политике и общественном дискурсе.",
+      "summary": "Russian President Vladimir Putin has awarded a prize recognizing significant contributions to strengthening national unity. The award highlights efforts supporting cohesion amid current challenges.",
+      "summary_ru": "Президент России Владимир Путин присудил премию за вклад в укрепление единства нации. Награда отмечает усилия по поддержанию сплоченности в сложный период.",
+      "why_trending": "Such awards underscore the government’s focus on internal solidarity during times of conflict and political pressure.",
+      "why_trending_ru": "Награды подчеркивают внимание властей к внутренней солидарности в условиях конфликта и политического давления.",
       "tags": [
         "putin"
       ],
@@ -312,13 +312,13 @@
         "TASS"
       ],
       "outlet_count": 1,
-      "date": "2025-11-03",
+      "date": "2025-11-04",
       "topic": "general_news",
       "vk_engagement": "moderate"
     },
     {
       "rank": 13,
-      "title": "Trump Believes Ukraine Conflict Could Be Resolved in Months",
+      "title": "Trump Believes Ukraine Conflict Could Be Resolved in a Few Months",
       "title_ru": "Трамп считает, что конфликт на Украине может быть урегулирован за пару месяцев",
       "source": "TASS",
       "source_url": "https://tass.ru/",
@@ -326,10 +326,10 @@
       "category": "General News",
       "viral_score": 74,
       "prominence": "main",
-      "summary": "Donald Trump expressed optimism that the conflict in Ukraine could be settled within a few months. His statement suggests a belief in a relatively quick diplomatic or military resolution.",
-      "summary_ru": "Дональд Трамп считает, что конфликт на Украине может быть урегулирован за пару месяцев.",
-      "why_trending": "Trump's views on the conflict attract attention due to his influence and past presidency.",
-      "why_trending_ru": "Мнения Трампа о конфликте вызывают интерес из-за его влияния и статуса бывшего президента.",
+      "summary": "Donald Trump expressed his opinion that the conflict in Ukraine might be settled within a couple of months. He suggested that diplomatic or strategic moves could lead to a swift resolution.",
+      "summary_ru": "Дональд Трамп считает, что конфликт на Украине может быть урегулирован за пару месяцев. Он предположил, что дипломатические или стратегические шаги могут привести к быстрому решению.",
+      "why_trending": "Trump’s optimistic timeline contrasts with ongoing hostilities, sparking debate about conflict prospects.",
+      "why_trending_ru": "Оптимистичный прогноз Трампа контрастирует с продолжающимися боевыми действиями и вызывает дискуссии о перспективах конфликта.",
       "tags": [
         "trump"
       ],
@@ -337,13 +337,13 @@
         "TASS"
       ],
       "outlet_count": 1,
-      "date": "2025-11-03",
+      "date": "2025-11-04",
       "topic": "general_news",
       "vk_engagement": "moderate"
     },
     {
       "rank": 14,
-      "title": "Why Zelensky Sends Ukrainian Forces to Certain Death Near Pokrovsk",
+      "title": "Why Zelensky Sends Ukrainian Forces to Death Traps Near Pokrovsk: One Sinister Goal",
       "title_ru": "Почему Зеленский гонит ВСУ на убой в котлы под Покровском: Одна подлая цель",
       "source": "Komsomolskaya Pravda",
       "source_url": "https://www.kp.ru/",
@@ -351,22 +351,22 @@
       "category": "General News",
       "viral_score": 73,
       "prominence": "top_story",
-      "summary": "An analysis claims that Ukrainian President Zelensky is sending troops into deadly encirclements near Pokrovsk for a single, sinister purpose. The article suggests strategic or political motives behind these decisions.",
-      "summary_ru": "Аналитика утверждает, что Зеленский направляет ВСУ на верную гибель в котлы под Покровском с одной подлой целью.",
-      "why_trending": "The story fuels debate about Ukrainian military strategy and leadership decisions.",
-      "why_trending_ru": "Материал вызывает обсуждения о военной стратегии и решениях украинского руководства.",
+      "summary": "An analysis claims that Ukrainian President Zelensky is sending troops into encirclement zones near Pokrovsk with a hidden, malicious objective. The article suggests deliberate sacrifice of forces for strategic aims.",
+      "summary_ru": "Аналитика утверждает, что Зеленский направляет ВСУ в котлы под Покровском с одной подлой целью, жертвуя войсками ради стратегических задач.",
+      "why_trending": "The story feeds into narratives about military strategy and leadership decisions amid heavy fighting.",
+      "why_trending_ru": "Материал поддерживает дискуссии о военной стратегии и решениях руководства в условиях интенсивных боёв.",
       "tags": [],
       "outlets": [
         "Komsomolskaya Pravda"
       ],
       "outlet_count": 1,
-      "date": "2025-11-03",
+      "date": "2025-11-04",
       "topic": "general_news",
       "vk_engagement": "moderate"
     },
     {
       "rank": 15,
-      "title": "Russian Forces Complete Clearing of Ukrainian Troops in Gnatovka and Rog in Krasnoarmeysk Area",
+      "title": "Russian Forces Complete Clearing Ukrainian Troops from Gnatovka and Rog in Krasnoarmeysk Area",
       "title_ru": "«Противник выбит из опорного пункта»: ВС РФ завершают зачистку от ВСУ в Гнатовке и Роге в районе Красноармейска",
       "source": "RT Russian",
       "source_url": "https://russian.rt.com/",
@@ -374,16 +374,16 @@
       "category": "General News",
       "viral_score": 70,
       "prominence": "featured",
-      "summary": "Russian military reports that enemy forces have been expelled from key strongholds in Gnatovka and Rog near Krasnoarmeysk. The operation marks progress in securing the region from Ukrainian troops.",
-      "summary_ru": "ВС РФ завершили зачистку от ВСУ опорных пунктов в Гнатовке и Роге в районе Красноармейска.",
-      "why_trending": "Territorial gains and clearing operations are closely followed as indicators of conflict progress.",
-      "why_trending_ru": "Зачистка территорий и продвижение войск являются важными индикаторами развития конфликта.",
+      "summary": "Russian military reports that they have expelled Ukrainian forces from key strongholds in Gnatovka and Rog near Krasnoarmeysk. This marks progress in their ongoing operations in the region.",
+      "summary_ru": "Российские войска заявили о завершении зачистки от ВСУ опорных пунктов в Гнатовке и Роге в районе Красноармейска. Это свидетельствует о продвижении операций.",
+      "why_trending": "Territorial gains in contested areas are closely watched as indicators of conflict momentum.",
+      "why_trending_ru": "Захват территорий в спорных районах является важным показателем динамики конфликта.",
       "tags": [],
       "outlets": [
         "RT Russian"
       ],
       "outlet_count": 1,
-      "date": "2025-11-03",
+      "date": "2025-11-04",
       "topic": "general_news",
       "vk_engagement": "moderate"
     }
