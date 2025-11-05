@@ -1,30 +1,47 @@
 {
-  "generated_at": "2025-11-05T02:11:58.327036",
-  "date": "2025-11-05",
-  "total_stories": 15,
-  "sources": [
-    "RT",
-    "TASS",
-    "RIA Novosti",
-    "Rossiyskaya Gazeta",
-    "Komsomolskaya Pravda",
-    "Lenta.ru"
-  ],
+  "metadata": {
+    "generated_at": "2025-11-05T03:47:03.307057",
+    "collection_period": "2025-11-05",
+    "total_outlets": 6,
+    "outlets": [
+      {
+        "name": "RT Russian",
+        "url": "https://russian.rt.com/"
+      },
+      {
+        "name": "TASS",
+        "url": "https://tass.ru/"
+      },
+      {
+        "name": "RIA Novosti",
+        "url": "https://ria.ru/"
+      },
+      {
+        "name": "Rossiyskaya Gazeta",
+        "url": "https://rg.ru/"
+      },
+      {
+        "name": "Komsomolskaya Pravda",
+        "url": "https://www.kp.ru/"
+      },
+      {
+        "name": "Lenta.ru",
+        "url": "https://lenta.ru/"
+      }
+    ]
+  },
   "stories": [
     {
-      "id": 1,
+      "rank": 1,
       "title": "Путин назначил Королева врио губернатора Тверской области",
-      "summary": "Путин назначил Королева врио губернатора Тверской области",
-      "url": "https://ria.ru/putin-naznachil-koroleva-vrio-gubernatora-tverskoy-oblasti.html",
+      "title_ru": "Путин назначил Королева врио губернатора Тверской области",
+      "viral_score": 84,
       "outlet": "RIA Novosti",
       "outlet_url": "https://ria.ru/",
       "published_date": "2025-11-05",
-      "viral_score": 84.5,
       "category": "",
-      "tags": [
-        "Политика",
-        "Международные отношения"
-      ],
+      "tags": [],
+      "prominence": "top_story",
       "scores_breakdown": {
         "prominence": 40.0,
         "cross_outlet": 22.5,
@@ -33,19 +50,16 @@
       }
     },
     {
-      "id": 2,
+      "rank": 2,
       "title": "Путин назначил Королева врио губернатора Тверской области",
-      "summary": "Путин назначил Королева врио губернатора Тверской области",
-      "url": "https://tass.ru/putin-naznachil-koroleva-vrio-gubernatora-tverskoy-oblasti",
+      "title_ru": "Путин назначил Королева врио губернатора Тверской области",
+      "viral_score": 74,
       "outlet": "TASS",
       "outlet_url": "https://tass.ru/",
       "published_date": "2025-11-05",
-      "viral_score": 74.5,
       "category": "",
-      "tags": [
-        "Политика",
-        "Международные отношения"
-      ],
+      "tags": [],
+      "prominence": "top_story",
       "scores_breakdown": {
         "prominence": 40.0,
         "cross_outlet": 22.5,
@@ -54,18 +68,16 @@
       }
     },
     {
-      "id": 3,
+      "rank": 3,
       "title": "«У ВСУ все свелось к одному - зайти, сесть и умереть»: Что на самом деле творится в Покровске",
-      "summary": "«У ВСУ все свелось к одному - зайти, сесть и умереть»: Что на самом деле творится в Покровске",
-      "url": "https://www.kp.ru/daily/u-vsu-vse-svelos-k-odnomu-zayti-sest-i-umeret-chto-na-samom-.html",
+      "title_ru": "«У ВСУ все свелось к одному - зайти, сесть и умереть»: Что на самом деле творится в Покровске",
+      "viral_score": 68,
       "outlet": "Komsomolskaya Pravda",
       "outlet_url": "https://www.kp.ru/",
       "published_date": "2025-11-05",
-      "viral_score": 68.5,
       "category": "",
-      "tags": [
-        "СВО"
-      ],
+      "tags": [],
+      "prominence": "top_story",
       "scores_breakdown": {
         "prominence": 40.0,
         "cross_outlet": 7.5,
@@ -74,18 +86,16 @@
       }
     },
     {
-      "id": 4,
+      "rank": 4,
       "title": "За ночь над Россией сбили 40 украинских дронов",
-      "summary": "За ночь над Россией сбили 40 украинских дронов",
-      "url": "https://rg.ru/za-noch-nad-rossiey-sbili-40-ukrainskih-dronov.html",
+      "title_ru": "За ночь над Россией сбили 40 украинских дронов",
+      "viral_score": 67,
       "outlet": "Rossiyskaya Gazeta",
       "outlet_url": "https://rg.ru/",
       "published_date": "2025-11-05",
-      "viral_score": 67.0,
       "category": "",
-      "tags": [
-        "СВО"
-      ],
+      "tags": [],
+      "prominence": "top_story",
       "scores_breakdown": {
         "prominence": 40.0,
         "cross_outlet": 15.0,
@@ -94,19 +104,16 @@
       }
     },
     {
-      "id": 5,
+      "rank": 5,
       "title": "Владимир Путин назначил Виталия Королева врио губернатора Тверской области",
-      "summary": "Владимир Путин назначил Виталия Королева врио губернатора Тверской области",
-      "url": "https://rg.ru/vladimir-putin-naznachil-vitaliya-koroleva-vrio-gubernatora-.html",
+      "title_ru": "Владимир Путин назначил Виталия Королева врио губернатора Тверской области",
+      "viral_score": 66,
       "outlet": "Rossiyskaya Gazeta",
       "outlet_url": "https://rg.ru/",
       "published_date": "2025-11-05",
-      "viral_score": 66.5,
       "category": "",
-      "tags": [
-        "Политика",
-        "Международные отношения"
-      ],
+      "tags": [],
+      "prominence": "featured",
       "scores_breakdown": {
         "prominence": 32.0,
         "cross_outlet": 22.5,
@@ -115,18 +122,16 @@
       }
     },
     {
-      "id": 6,
+      "rank": 6,
       "title": "«Системный кризис управления»: почему текущий шатдаун может стать самым длинным в истории США",
-      "summary": "«Системный кризис управления»: почему текущий шатдаун может стать самым длинным в истории США",
-      "url": "https://russian.rt.com/news/sistemnyy-krizis-upravleniya-pochemu-tekuschiy-shatdaun-mozh/",
+      "title_ru": "«Системный кризис управления»: почему текущий шатдаун может стать самым длинным в истории США",
+      "viral_score": 63,
       "outlet": "RT",
       "outlet_url": "https://russian.rt.com/",
       "published_date": "2025-11-05",
-      "viral_score": 63.5,
       "category": "",
-      "tags": [
-        "Международные отношения"
-      ],
+      "tags": [],
+      "prominence": "top_story",
       "scores_breakdown": {
         "prominence": 40.0,
         "cross_outlet": 7.5,
@@ -135,19 +140,16 @@
       }
     },
     {
-      "id": 7,
+      "rank": 7,
       "title": "Военные разведчики проводят дерзкие рейды в тылу врага, рассказал президент",
-      "summary": "Военные разведчики проводят дерзкие рейды в тылу врага, рассказал президент",
-      "url": "https://ria.ru/voennye-razvedchiki-provodyat-derzkie-reydy-v-tylu-vraga-ras.html",
+      "title_ru": "Военные разведчики проводят дерзкие рейды в тылу врага, рассказал президент",
+      "viral_score": 61,
       "outlet": "RIA Novosti",
       "outlet_url": "https://ria.ru/",
       "published_date": "2025-11-05",
-      "viral_score": 61.5,
       "category": "",
-      "tags": [
-        "Политика",
-        "СВО"
-      ],
+      "tags": [],
+      "prominence": "featured",
       "scores_breakdown": {
         "prominence": 32.0,
         "cross_outlet": 7.5,
@@ -156,18 +158,16 @@
       }
     },
     {
-      "id": 8,
+      "rank": 8,
       "title": "Мадуро утвердил план вооруженного сопротивления США",
-      "summary": "Мадуро утвердил план вооруженного сопротивления США",
-      "url": "https://ria.ru/maduro-utverdil-plan-vooruzhennogo-soprotivleniya-ssha.html",
+      "title_ru": "Мадуро утвердил план вооруженного сопротивления США",
+      "viral_score": 61,
       "outlet": "RIA Novosti",
       "outlet_url": "https://ria.ru/",
       "published_date": "2025-11-05",
-      "viral_score": 61.5,
       "category": "",
-      "tags": [
-        "Международные отношения"
-      ],
+      "tags": [],
+      "prominence": "featured",
       "scores_breakdown": {
         "prominence": 32.0,
         "cross_outlet": 7.5,
@@ -176,18 +176,16 @@
       }
     },
     {
-      "id": 9,
+      "rank": 9,
       "title": "Китай приостановит действие дополнительной пошлины в 24% на товары из США",
-      "summary": "Китай приостановит действие дополнительной пошлины в 24% на товары из США",
-      "url": "https://ria.ru/kitay-priostanovit-deystvie-dopolnitelnoy-poshliny-v-24-na-t.html",
+      "title_ru": "Китай приостановит действие дополнительной пошлины в 24% на товары из США",
+      "viral_score": 61,
       "outlet": "RIA Novosti",
       "outlet_url": "https://ria.ru/",
       "published_date": "2025-11-05",
-      "viral_score": 61.5,
       "category": "",
-      "tags": [
-        "Международные отношения"
-      ],
+      "tags": [],
+      "prominence": "featured",
       "scores_breakdown": {
         "prominence": 32.0,
         "cross_outlet": 7.5,
@@ -196,18 +194,16 @@
       }
     },
     {
-      "id": 10,
+      "rank": 10,
       "title": "Налог нужно заплатить до 1 декабря: Какие «долги» нужно успеть отдать государству и как они вычисляются",
-      "summary": "Налог нужно заплатить до 1 декабря: Какие «долги» нужно успеть отдать государству и как они вычисляются",
-      "url": "https://www.kp.ru/daily/nalog-nuzhno-zaplatit-do-1-dekabrya-kakie-dolgi-nuzhno-uspet.html",
+      "title_ru": "Налог нужно заплатить до 1 декабря: Какие «долги» нужно успеть отдать государству и как они вычисляются",
+      "viral_score": 60,
       "outlet": "Komsomolskaya Pravda",
       "outlet_url": "https://www.kp.ru/",
       "published_date": "2025-11-05",
-      "viral_score": 60.5,
       "category": "ЭКОНОМИКА",
-      "tags": [
-        "Экономика"
-      ],
+      "tags": [],
+      "prominence": "featured",
       "scores_breakdown": {
         "prominence": 32.0,
         "cross_outlet": 7.5,
@@ -216,18 +212,16 @@
       }
     },
     {
-      "id": 11,
+      "rank": 11,
       "title": "Электромобилям есть альтернатива: ставить ли на машину газ, разбираем плюсы и минусы",
-      "summary": "Электромобилям есть альтернатива: ставить ли на машину газ, разбираем плюсы и минусы",
-      "url": "https://www.kp.ru/daily/elektromobilyam-est-alternativa-stavit-li-na-mashinu-gaz-raz.html",
+      "title_ru": "Электромобилям есть альтернатива: ставить ли на машину газ, разбираем плюсы и минусы",
+      "viral_score": 60,
       "outlet": "Komsomolskaya Pravda",
       "outlet_url": "https://www.kp.ru/",
       "published_date": "2025-11-05",
-      "viral_score": 60.5,
       "category": "АВТО",
-      "tags": [
-        "Новости"
-      ],
+      "tags": [],
+      "prominence": "featured",
       "scores_breakdown": {
         "prominence": 32.0,
         "cross_outlet": 7.5,
@@ -236,18 +230,16 @@
       }
     },
     {
-      "id": 12,
+      "rank": 12,
       "title": "ФСБ задержала за госизмену москвича, работавшего на спецслужбу страны НАТО",
-      "summary": "ФСБ задержала за госизмену москвича, работавшего на спецслужбу страны НАТО",
-      "url": "https://tass.ru/fsb-zaderzhala-za-gosizmenu-moskvicha-rabotavshego-na-spetss",
+      "title_ru": "ФСБ задержала за госизмену москвича, работавшего на спецслужбу страны НАТО",
+      "viral_score": 59,
       "outlet": "TASS",
       "outlet_url": "https://tass.ru/",
       "published_date": "2025-11-05",
-      "viral_score": 59.5,
       "category": "",
-      "tags": [
-        "Международные отношения"
-      ],
+      "tags": [],
+      "prominence": "top_story",
       "scores_breakdown": {
         "prominence": 40.0,
         "cross_outlet": 7.5,
@@ -256,18 +248,16 @@
       }
     },
     {
-      "id": 13,
+      "rank": 13,
       "title": "Путин: Россия никому не угрожает и развивает ядерный потенциал",
-      "summary": "Путин: Россия никому не угрожает и развивает ядерный потенциал",
-      "url": "https://rg.ru/putin-rossiya-nikomu-ne-ugrozhaet-i-razvivaet-yadernyy-poten.html",
+      "title_ru": "Путин: Россия никому не угрожает и развивает ядерный потенциал",
+      "viral_score": 59,
       "outlet": "Rossiyskaya Gazeta",
       "outlet_url": "https://rg.ru/",
       "published_date": "2025-11-05",
-      "viral_score": 59.5,
       "category": "",
-      "tags": [
-        "Политика"
-      ],
+      "tags": [],
+      "prominence": "top_story",
       "scores_breakdown": {
         "prominence": 40.0,
         "cross_outlet": 7.5,
@@ -276,19 +266,16 @@
       }
     },
     {
-      "id": 14,
+      "rank": 14,
       "title": "«Пусть в НАТО посмотрят на \"Буревестник\"». Путин высказался о новейших российских вооружениях",
-      "summary": "«Пусть в НАТО посмотрят на \"Буревестник\"». Путин высказался о новейших российских вооружениях",
-      "url": "https://lenta.ru/news/pust-v-nato-posmotryat-na-burevestnik-putin-vyskazalsya-o-no/",
+      "title_ru": "«Пусть в НАТО посмотрят на \"Буревестник\"». Путин высказался о новейших российских вооружениях",
+      "viral_score": 59,
       "outlet": "Lenta.ru",
       "outlet_url": "https://lenta.ru/",
       "published_date": "2025-11-05",
-      "viral_score": 59.5,
       "category": "",
-      "tags": [
-        "Политика",
-        "Международные отношения"
-      ],
+      "tags": [],
+      "prominence": "featured_main",
       "scores_breakdown": {
         "prominence": 40.0,
         "cross_outlet": 7.5,
@@ -297,18 +284,16 @@
       }
     },
     {
-      "id": 15,
+      "rank": 15,
       "title": "В России учредили два новых праздника. О чем подписанные Путиным указы?",
-      "summary": "В России учредили два новых праздника. О чем подписанные Путиным указы?",
-      "url": "https://lenta.ru/news/v-rossii-uchredili-dva-novyh-prazdnika-o-chem-podpisannye-pu/",
+      "title_ru": "В России учредили два новых праздника. О чем подписанные Путиным указы?",
+      "viral_score": 59,
       "outlet": "Lenta.ru",
       "outlet_url": "https://lenta.ru/",
       "published_date": "2025-11-05",
-      "viral_score": 59.5,
       "category": "",
-      "tags": [
-        "Политика"
-      ],
+      "tags": [],
+      "prominence": "featured_main",
       "scores_breakdown": {
         "prominence": 40.0,
         "cross_outlet": 7.5,
