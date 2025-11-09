@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-09T06:14:52.604050",
+    "generated_at": "2025-11-09T02:14:50.462402",
     "collection_period": "2025-11-09",
     "total_outlets": 6,
     "outlets": [
@@ -30,5 +30,477 @@
       }
     ]
   },
-  "stories": []
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Russia launches massive strike on Ukrainian power plants",
+      "title_ru": "Россия нанесла массированный удар по украинским ТЭС",
+      "viral_score": 92,
+      "outlets": [
+        "RT",
+        "RIA",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 4,
+      "topic": "Military",
+      "vk_engagement": "very_high",
+      "prominence": "top_story",
+      "summary": "Russian forces conducted a large-scale precision strike targeting Ukrainian defense industry facilities and energy infrastructure that supports military operations. The Ministry of Defense confirmed the operation successfully hit multiple thermal power stations across Ukraine, significantly impacting the country's power generation capacity. This represents one of the most extensive coordinated attacks on Ukraine's energy grid since the beginning of the conflict.",
+      "summary_ru": "Российские вооруженные силы нанесли масштабный удар высокоточным оружием по объектам украинского военно-промышленного комплекса и энергетической инфраструктуре, обеспечивающей их работу. Министерство обороны подтвердило, что операция успешно поразила несколько теплоэлектростанций по всей Украине, значительно снизив генерирующие мощности страны. Это один из самых масштабных скоординированных ударов по энергосистеме Украины с начала конфликта.",
+      "why_trending": "This story is trending because it represents a major escalation in Russia's military strategy, targeting critical infrastructure. Multiple major outlets featured it prominently, and it generated very high engagement on VK due to its strategic significance and immediate impact on the conflict.",
+      "why_trending_ru": "Эта новость в тренде, поскольку представляет собой значительную эскалацию военной стратегии России, направленную на критическую инфраструктуру. Несколько крупных изданий разместили её на главных страницах, и она вызвала очень высокую активность в VK из-за стратегического значения и немедленного влияния на конфликт.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://ria.ru/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-11-09",
+      "tags": [
+        "military",
+        "energy",
+        "ukraine",
+        "infrastructure",
+        "strike"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Russian air defense shot down 44 Ukrainian drones overnight",
+      "title_ru": "Над регионами России за ночь сбили 44 украинских беспилотника",
+      "viral_score": 90,
+      "outlets": [
+        "RT",
+        "TASS",
+        "RIA",
+        "RG",
+        "KP"
+      ],
+      "outlet_count": 5,
+      "topic": "Military",
+      "vk_engagement": "high",
+      "prominence": "featured",
+      "summary": "Russian air defense forces successfully intercepted and destroyed 44 Ukrainian unmanned aerial vehicles overnight across multiple regions of the Russian Federation. The Ministry of Defense reported that all drones were neutralized before reaching their intended targets, with no casualties or significant damage reported. This incident highlights the ongoing aerial threat and the effectiveness of Russia's air defense systems.",
+      "summary_ru": "Силы противовоздушной обороны России успешно перехватили и уничтожили 44 украинских беспилотника в течение ночи над несколькими регионами Российской Федерации. Министерство обороны сообщило, что все дроны были нейтрализованы до достижения намеченных целей, жертв и значительного ущерба не зафиксировано. Этот инцидент подчеркивает продолжающуюся воздушную угрозу и эффективность систем ПВО России.",
+      "why_trending": "Featured across five major outlets, this story trends due to the significant number of drones intercepted and its relevance to Russian domestic security. High VK engagement reflects public interest in air defense capabilities and regional safety concerns.",
+      "why_trending_ru": "Представленная в пяти крупных изданиях, эта новость в тренде из-за значительного количества перехваченных дронов и её актуальности для внутренней безопасности России. Высокая активность в VK отражает общественный интерес к возможностям ПВО и вопросам региональной безопасности.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://tass.ru/",
+        "https://ria.ru/",
+        "https://rg.ru/",
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-11-09",
+      "tags": [
+        "military",
+        "air-defense",
+        "drones",
+        "security",
+        "ukraine"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Stoltenberg reveals how NATO refused Zelensky's request in 2022",
+      "title_ru": "Столтенберг рассказал, как в 2022 году отказал Зеленскому",
+      "viral_score": 82,
+      "outlets": [
+        "RIA",
+        "TASS",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 4,
+      "topic": "Politics",
+      "vk_engagement": "high",
+      "prominence": "featured",
+      "summary": "Former NATO Secretary General Jens Stoltenberg revealed details about a 2022 conversation with Ukrainian President Zelensky, in which he refused a specific request for NATO assistance. Stoltenberg's disclosure provides insight into the alliance's decision-making process during critical moments of the conflict. The revelation has sparked discussions about NATO's support limits and strategic considerations regarding direct involvement.",
+      "summary_ru": "Бывший генеральный секретарь НАТО Йенс Столтенберг раскрыл подробности разговора 2022 года с президентом Украины Зеленским, в котором отказал в конкретной просьбе о помощи НАТО. Откровения Столтенберга дают представление о процессе принятия решений альянсом в критические моменты конфликта. Это заявление вызвало дискуссии о пределах поддержки НАТО и стратегических соображениях относительно прямого участия.",
+      "why_trending": "This story trends because it reveals previously undisclosed diplomatic exchanges at the highest level. Four major outlets covered it, generating high VK engagement due to public interest in NATO's role and decision-making regarding the Ukraine conflict.",
+      "why_trending_ru": "Эта новость в тренде, потому что раскрывает ранее не разглашавшиеся дипломатические переговоры на высшем уровне. Четыре крупных издания осветили её, вызвав высокую активность в VK из-за общественного интереса к роли НАТО и принятию решений относительно украинского конфликта.",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://tass.ru/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-11-09",
+      "tags": [
+        "politics",
+        "nato",
+        "diplomacy",
+        "ukraine",
+        "zelensky"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Belgorod energy infrastructure damaged after Ukrainian attack",
+      "title_ru": "В Белгороде повреждены системы энергоснабжения после атаки ВСУ",
+      "viral_score": 82,
+      "outlets": [
+        "RIA",
+        "TASS",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 4,
+      "topic": "Military",
+      "vk_engagement": "high",
+      "prominence": "featured",
+      "summary": "Energy and heating infrastructure in Belgorod suffered serious damage following an attack by Ukrainian Armed Forces. Local authorities reported disruptions to power supply and heating systems, affecting residential areas. Emergency services are working to restore services while assessing the full extent of the damage. This incident underscores the vulnerability of border region infrastructure to cross-border attacks.",
+      "summary_ru": "Системы энергоснабжения и теплоснабжения в Белгороде получили серьезные повреждения в результате атаки ВСУ. Местные власти сообщили о нарушениях в электроснабжении и отоплении, затронувших жилые районы. Аварийные службы работают над восстановлением услуг, оценивая полный масштаб ущерба. Этот инцидент подчеркивает уязвимость инфраструктуры приграничных регионов к трансграничным атакам.",
+      "why_trending": "Covered by four major outlets, this story trends due to its impact on civilian infrastructure and daily life in a border region. High VK engagement reflects concern about attacks on Russian territory and their effects on ordinary citizens.",
+      "why_trending_ru": "Освещенная четырьмя крупными изданиями, эта новость в тренде из-за воздействия на гражданскую инфраструктуру и повседневную жизнь в приграничном регионе. Высокая активность в VK отражает обеспокоенность атаками на российскую территорию и их влиянием на обычных граждан.",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://tass.ru/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-11-09",
+      "tags": [
+        "military",
+        "infrastructure",
+        "belgorod",
+        "energy",
+        "attack"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "People's Artist of Russia Vladimir Simonov dies",
+      "title_ru": "Умер народный артист России Владимир Симонов",
+      "viral_score": 80,
+      "outlets": [
+        "RT",
+        "RIA",
+        "RG",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 5,
+      "topic": "Culture",
+      "vk_engagement": "moderate",
+      "prominence": "main",
+      "summary": "People's Artist of Russia Vladimir Simonov, known for his roles in popular television series including 'Kamenskaya' and 'Children of Arbat,' has passed away. The acclaimed actor appeared in over 150 films throughout his distinguished career spanning several decades. Colleagues and fans are mourning the loss of one of Russia's most beloved actors, with memorial services being held in Moscow.",
+      "summary_ru": "Народный артист России Владимир Симонов, известный по ролям в популярных телесериалах «Каменская» и «Дети Арбата», скончался. Признанный актер снялся в более чем 150 фильмах за свою выдающуюся карьеру, длившуюся несколько десятилетий. Коллеги и поклонники скорбят о потере одного из самых любимых российских актеров, в Москве проходят церемонии прощания.",
+      "why_trending": "This story trends across five major outlets due to Simonov's prominent status in Russian culture and his extensive filmography. Moderate VK engagement reflects widespread recognition and respect for the late actor among the Russian public.",
+      "why_trending_ru": "Эта новость в тренде в пяти крупных изданиях из-за выдающегося статуса Симонова в российской культуре и его обширной фильмографии. Умеренная активность в VK отражает широкое признание и уважение к покойному актеру среди российской публики.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://ria.ru/",
+        "https://rg.ru/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-11-09",
+      "tags": [
+        "culture",
+        "obituary",
+        "actor",
+        "television",
+        "cinema"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Geologist found alive after avalanche in Kamchatka",
+      "title_ru": "На Камчатке нашли живым попавшего под лавину геолога",
+      "viral_score": 74,
+      "outlets": [
+        "RG",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 3,
+      "topic": "Society",
+      "vk_engagement": "high",
+      "prominence": "featured",
+      "summary": "Rescue teams successfully located and extracted a geologist who survived being trapped under an avalanche in Kamchatka. The man was found alive after an intensive search operation in challenging mountain conditions. He is being transported to a regional hospital for medical evaluation and treatment. This rescue highlights the dangers faced by professionals working in remote mountainous regions and the effectiveness of emergency response teams.",
+      "summary_ru": "Спасательные команды успешно обнаружили и извлекли геолога, который выжил, оказавшись под лавиной на Камчатке. Мужчина был найден живым после интенсивной поисковой операции в сложных горных условиях. Его транспортируют в краевую больницу для медицинского обследования и лечения. Это спасение подчеркивает опасности, с которыми сталкиваются специалисты, работающие в отдаленных горных районах, и эффективность аварийно-спасательных служб.",
+      "why_trending": "Featured in three major outlets, this dramatic rescue story generates high VK engagement due to its human interest angle and the remarkable survival against odds. The public closely follows such rescue operations, especially when they have positive outcomes.",
+      "why_trending_ru": "Представленная в трех крупных изданиях, эта драматическая история спасения вызывает высокую активность в VK благодаря человеческому интересу и удивительному выживанию вопреки всему. Общественность внимательно следит за такими спасательными операциями, особенно когда они имеют положительный исход.",
+      "source_urls": [
+        "https://rg.ru/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-11-09",
+      "tags": [
+        "society",
+        "rescue",
+        "kamchatka",
+        "avalanche",
+        "survival"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Scientists capture first signal from 'alien spacecraft'",
+      "title_ru": "Ученые поймали первый сигнал с «инопланетного корабля»",
+      "viral_score": 69,
+      "outlets": [
+        "RG",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 3,
+      "topic": "Science",
+      "vk_engagement": "high",
+      "prominence": "main",
+      "summary": "Scientists have detected the first signal from a mysterious object designated as 3I/ATLAS, which some researchers refer to as a potential 'alien spacecraft.' The object, heading toward Earth, has transmitted its initial communication, sparking intense scientific interest and speculation. Researchers are analyzing the signal to determine its origin and nature, though most experts believe it to be a natural interstellar object rather than artificial.",
+      "summary_ru": "Ученые зафиксировали первый сигнал от загадочного объекта, обозначенного как 3I/ATLAS, который некоторые исследователи называют потенциальным «инопланетным кораблем». Объект, направляющийся к Земле, передал свое первое сообщение, вызвав интенсивный научный интерес и спекуляции. Исследователи анализируют сигнал, чтобы определить его происхождение и природу, хотя большинство экспертов считают его естественным межзвездным объектом, а не искусственным.",
+      "why_trending": "This science story trends across three outlets due to public fascination with space exploration and the possibility of extraterrestrial contact. High VK engagement reflects widespread curiosity about unexplained astronomical phenomena and their potential implications.",
+      "why_trending_ru": "Эта научная новость в тренде в трех изданиях из-за общественного увлечения космическими исследованиями и возможностью внеземного контакта. Высокая активность в VK отражает широкое любопытство к необъяснимым астрономическим явлениям и их потенциальным последствиям.",
+      "source_urls": [
+        "https://rg.ru/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-11-09",
+      "tags": [
+        "science",
+        "space",
+        "astronomy",
+        "alien",
+        "discovery"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Ukraine received $52 billion from the West in a year",
+      "title_ru": "Украина получила от Запада за год $52 млрд",
+      "viral_score": 66,
+      "outlets": [
+        "TASS",
+        "KP"
+      ],
+      "outlet_count": 2,
+      "topic": "Economy",
+      "vk_engagement": "moderate",
+      "prominence": "top_story",
+      "summary": "",
+      "summary_ru": "",
+      "why_trending": "",
+      "why_trending_ru": "",
+      "source_urls": [],
+      "date": "2025-11-09",
+      "tags": []
+    },
+    {
+      "rank": 9,
+      "title": "Russian forces advance in Zaporizhzhia and Dnipro directions",
+      "title_ru": "Российские войска продвигаются на Запорожье и Днепр",
+      "viral_score": 66,
+      "outlets": [
+        "RT",
+        "RG"
+      ],
+      "outlet_count": 2,
+      "topic": "Military",
+      "vk_engagement": "high",
+      "prominence": "featured",
+      "summary": "Russian military forces are advancing in the Zaporizhzhia and Dnipro directions, according to reports from frontline correspondents. The offensive operations have resulted in the capture of strategic positions and settlements in the region. Military analysts note this represents a significant push in southern Ukraine, with potential implications for the broader strategic situation in the conflict zone.",
+      "summary_ru": "Российские вооруженные силы продвигаются в направлении Запорожья и Днепра, согласно сообщениям фронтовых корреспондентов. Наступательные операции привели к захвату стратегических позиций и населенных пунктов в регионе. Военные аналитики отмечают, что это представляет собой значительное наступление на юге Украины с потенциальными последствиями для более широкой стратегической ситуации в зоне конфликта.",
+      "why_trending": "Featured prominently in two outlets, this military story trends due to its strategic significance and high VK engagement from audiences following frontline developments. The advance represents a notable shift in the operational situation.",
+      "why_trending_ru": "Заметно представленная в двух изданиях, эта военная новость в тренде из-за стратегического значения и высокой активности в VK среди аудитории, следящей за событиями на фронте. Продвижение представляет собой заметный сдвиг в оперативной обстановке.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://rg.ru/"
+      ],
+      "date": "2025-11-09",
+      "tags": [
+        "military",
+        "zaporizhzhia",
+        "dnipro",
+        "offensive",
+        "ukraine"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Trump has bigger problems than nuclear tests and Tomahawk missiles for Kiev",
+      "title_ru": "У Трампа есть проблемы важнее, чем ядерные испытания и Tomahawk для Киева",
+      "viral_score": 66,
+      "outlets": [
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 2,
+      "topic": "Politics",
+      "vk_engagement": "moderate",
+      "prominence": "top_story",
+      "summary": "Political analysts suggest that President-elect Trump faces more pressing domestic and international challenges than decisions about nuclear testing and Tomahawk missile supplies to Ukraine. The article examines Trump's competing priorities, including economic issues, relations with Orban's Hungary, and other strategic concerns that may take precedence over Ukraine-related military decisions in his upcoming administration.",
+      "summary_ru": "Политические аналитики полагают, что избранный президент Трамп сталкивается с более насущными внутренними и международными вызовами, чем решения о ядерных испытаниях и поставках ракет Tomahawk Украине. Статья рассматривает конкурирующие приоритеты Трампа, включая экономические вопросы, отношения с Венгрией Орбана и другие стратегические проблемы, которые могут иметь приоритет над военными решениями, связанными с Украиной, в его предстоящей администрации.",
+      "why_trending": "This political analysis trends as a top story in two outlets due to speculation about Trump's foreign policy priorities. Moderate VK engagement reflects interest in how the new US administration might affect the Ukraine situation.",
+      "why_trending_ru": "Этот политический анализ в тренде как главная история в двух изданиях из-за спекуляций о приоритетах внешней политики Трампа. Умеренная активность в VK отражает интерес к тому, как новая американская администрация может повлиять на украинскую ситуацию.",
+      "source_urls": [
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-11-09",
+      "tags": [
+        "politics",
+        "trump",
+        "usa",
+        "ukraine",
+        "foreign-policy"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Russian Interior Ministry identifies seven common scam themes",
+      "title_ru": "В МВД выявили семь распространенных тем обращения мошенников",
+      "viral_score": 64,
+      "outlets": [
+        "TASS",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 3,
+      "topic": "Society",
+      "vk_engagement": "moderate",
+      "prominence": "main",
+      "summary": "The Russian Interior Ministry has identified seven common themes that scammers use when contacting potential victims. These include fake job offers, investment schemes, and impersonation of government officials. The ministry is warning citizens to be vigilant and has provided guidance on recognizing and avoiding these fraudulent approaches, which have become increasingly sophisticated in recent years.",
+      "summary_ru": "Министерство внутренних дел России выявило семь распространенных тем, которые мошенники используют при обращении к потенциальным жертвам. Среди них поддельные предложения работы, инвестиционные схемы и выдача себя за государственных чиновников. Министерство предупреждает граждан о необходимости бдительности и предоставило рекомендации по распознаванию и избежанию этих мошеннических подходов, которые стали все более изощренными в последние годы.",
+      "why_trending": "This consumer protection story trends across three outlets due to the widespread impact of fraud on ordinary citizens. Moderate VK engagement reflects public concern about scams and interest in learning how to protect themselves.",
+      "why_trending_ru": "Эта история о защите потребителей в тренде в трех изданиях из-за широкого воздействия мошенничества на обычных граждан. Умеренная активность в VK отражает общественную обеспокоенность мошенничеством и интерес к тому, как защитить себя.",
+      "source_urls": [
+        "https://tass.ru/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-11-09",
+      "tags": [
+        "society",
+        "scams",
+        "fraud",
+        "consumer-protection",
+        "security"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Two people killed in accident on Crimean Bridge",
+      "title_ru": "На Крымском мосту в ДТП погибли два человека",
+      "viral_score": 61,
+      "outlets": [
+        "RG",
+        "KP"
+      ],
+      "outlet_count": 2,
+      "topic": "Incidents",
+      "vk_engagement": "moderate",
+      "prominence": "featured",
+      "summary": "Two people were killed in a traffic accident on the Crimean Bridge, with authorities releasing photos of the incident. The accident involved multiple vehicles and resulted in temporary traffic disruptions on this strategic infrastructure link. Emergency services responded quickly to the scene, and an investigation into the causes of the accident is underway.",
+      "summary_ru": "Два человека погибли в дорожно-транспортном происшествии на Крымском мосту, власти опубликовали фотографии инцидента. В аварии участвовало несколько транспортных средств, что привело к временным нарушениям движения на этом стратегическом инфраструктурном объекте. Аварийные службы быстро прибыли на место, проводится расследование причин аварии.",
+      "why_trending": "Featured in two outlets, this incident trends due to the Crimean Bridge's symbolic and strategic importance. Moderate VK engagement reflects public interest in safety on this critical infrastructure and sympathy for the victims.",
+      "why_trending_ru": "Представленный в двух изданиях, этот инцидент в тренде из-за символического и стратегического значения Крымского моста. Умеренная активность в VK отражает общественный интерес к безопасности на этом критическом объекте инфраструктуры и сочувствие жертвам.",
+      "source_urls": [
+        "https://rg.ru/",
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-11-09",
+      "tags": [
+        "incidents",
+        "crimean-bridge",
+        "accident",
+        "traffic",
+        "casualties"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Gas explosion in residential building in Tula region",
+      "title_ru": "Взрыв газа произошел в жилом доме в Куркино Тульской области",
+      "viral_score": 61,
+      "outlets": [
+        "RG",
+        "Lenta"
+      ],
+      "outlet_count": 2,
+      "topic": "Incidents",
+      "vk_engagement": "moderate",
+      "prominence": "featured",
+      "summary": "A gas explosion occurred in a residential building in the Kurkino settlement of Tula Oblast, causing significant structural damage. Emergency services, including the Ministry of Emergency Situations, are conducting rescue operations at the site. Several people were injured, and rescue teams continue to search for potential victims trapped in the rubble. Authorities are investigating the cause of the explosion.",
+      "summary_ru": "Взрыв газа произошел в жилом доме в поселке Куркино Тульской области, причинив значительные структурные повреждения. Аварийные службы, включая МЧС, проводят спасательные операции на месте. Несколько человек получили ранения, спасательные команды продолжают поиск возможных жертв, оказавшихся под завалами. Власти расследуют причину взрыва.",
+      "why_trending": "This emergency story trends in two outlets due to the severity of the incident and ongoing rescue operations. Moderate VK engagement reflects public concern for the victims and interest in emergency response efforts.",
+      "why_trending_ru": "Эта чрезвычайная новость в тренде в двух изданиях из-за серьезности инцидента и продолжающихся спасательных операций. Умеренная активность в VK отражает общественную обеспокоенность за жертв и интерес к усилиям по ликвидации последствий.",
+      "source_urls": [
+        "https://rg.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-11-09",
+      "tags": [
+        "incidents",
+        "gas-explosion",
+        "tula",
+        "rescue",
+        "emergency"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Desertion rate in Ukrainian Armed Forces reaches record levels",
+      "title_ru": "Уровень дезертирства в ВСУ достиг рекордных показателей",
+      "viral_score": 61,
+      "outlets": [
+        "RIA",
+        "KP"
+      ],
+      "outlet_count": 2,
+      "topic": "Military",
+      "vk_engagement": "high",
+      "prominence": "main",
+      "summary": "According to reports citing German media outlet Welt, the desertion rate within the Ukrainian Armed Forces has reached record levels. Over 176,000 personnel have reportedly fled since the beginning of the year, indicating significant morale and retention challenges. This development raises questions about the sustainability of Ukraine's military operations and the effectiveness of mobilization efforts.",
+      "summary_ru": "По сообщениям со ссылкой на немецкое издание Welt, уровень дезертирства в Вооруженных силах Украины достиг рекордных показателей. С начала года, по сообщениям, более 176 тысяч военнослужащих дезертировали, что указывает на значительные проблемы с моральным духом и удержанием личного состава. Это развитие событий поднимает вопросы об устойчивости военных операций Украины и эффективности мобилизационных усилий.",
+      "why_trending": "This military story trends in two outlets with high VK engagement due to its implications for the conflict's trajectory. The record desertion numbers attract attention as an indicator of Ukrainian military challenges.",
+      "why_trending_ru": "Эта военная новость в тренде в двух изданиях с высокой активностью в VK из-за последствий для траектории конфликта. Рекордные цифры дезертирства привлекают внимание как показатель проблем украинских вооруженных сил.",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-11-09",
+      "tags": [
+        "military",
+        "ukraine",
+        "desertion",
+        "armed-forces",
+        "morale"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Ferry with Russians denied permission to disembark in Sochi",
+      "title_ru": "Парому с россиянами не разрешили высадить людей в Сочи",
+      "viral_score": 56,
+      "outlets": [
+        "RIA",
+        "KP"
+      ],
+      "outlet_count": 2,
+      "topic": "Society",
+      "vk_engagement": "moderate",
+      "prominence": "main",
+      "summary": "A ferry carrying Russian citizens was denied permission to disembark passengers in Sochi and is being redirected to another country. The Seabridge ferry encountered regulatory or administrative issues that prevented it from docking at the planned destination. Passengers are being transported to an alternative port, raising concerns about travel logistics and the reasons behind the denial of entry.",
+      "summary_ru": "Парому с российскими гражданами не разрешили высадить пассажиров в Сочи, и его перенаправляют в другую страну. Паром Seabridge столкнулся с регуляторными или административными проблемами, которые помешали ему пришвартоваться в запланированном пункте назначения. Пассажиров транспортируют в альтернативный порт, что вызывает обеспокоенность по поводу логистики путешествий и причин отказа во въезде.",
+      "why_trending": "This unusual travel story trends in two outlets due to its impact on ordinary citizens and questions about maritime regulations. Moderate VK engagement reflects public interest in the welfare of the passengers and the circumstances behind the decision.",
+      "why_trending_ru": "Эта необычная история о путешествии в тренде в двух изданиях из-за воздействия на обычных граждан и вопросов о морских правилах. Умеренная активность в VK отражает общественный интерес к благополучию пассажиров и обстоятельствам, стоящим за этим решением.",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-11-09",
+      "tags": [
+        "society",
+        "travel",
+        "ferry",
+        "sochi",
+        "transportation"
+      ]
+    }
+  ]
 }
