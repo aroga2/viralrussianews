@@ -1,0 +1,436 @@
+{
+  "metadata": {
+    "generated_at": "2025-11-10T02:09:53.189840",
+    "generation_date": "2025-11-10",
+    "generation_time": "02:09:53 UTC",
+    "total_stories_analyzed": 71,
+    "top_stories_count": 15,
+    "outlets_monitored": [
+      "RT",
+      "TASS",
+      "RIA",
+      "RG",
+      "KP",
+      "Lenta"
+    ],
+    "outlet_count": 6,
+    "version": "1.0"
+  },
+  "stories": [
+    {
+      "id": 1,
+      "title": "Москвича задержали за сбор данных о российских военных для Украины",
+      "summary": "Москвича задержали за сбор данных о российских военных для Украины",
+      "category": "Спецоперация",
+      "viral_score": 22.5,
+      "coverage_count": 4,
+      "outlets": [
+        "RT",
+        "RG",
+        "TASS",
+        "Lenta"
+      ],
+      "outlet_count": 4,
+      "prominence": "TOP_STORY",
+      "date": "06:45, Обновлено 06:49",
+      "timestamp": "2025-11-10T02:09:53.189527",
+      "sources": [
+        {
+          "outlet": "RT",
+          "url": "https://russian.rt.com/"
+        },
+        {
+          "outlet": "RG",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        },
+        {
+          "outlet": "Lenta",
+          "url": "https://lenta.ru/"
+        }
+      ],
+      "tags": [
+        "Украина",
+        "Армия"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Пушилин: ВСУ безуспешно пытались деблокировать Димитров через Родинское",
+      "summary": "Пушилин: ВСУ безуспешно пытались деблокировать Димитров через Родинское",
+      "category": "Спецоперация",
+      "viral_score": 16.0,
+      "coverage_count": 3,
+      "outlets": [
+        "RG",
+        "TASS",
+        "Lenta"
+      ],
+      "outlet_count": 3,
+      "prominence": "FEATURED",
+      "date": "06:28, Обновлено 06:37",
+      "timestamp": "2025-11-10T02:09:53.189558",
+      "sources": [
+        {
+          "outlet": "RG",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        },
+        {
+          "outlet": "Lenta",
+          "url": "https://lenta.ru/"
+        }
+      ],
+      "tags": [
+        "Украина"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Силы ПВО за ночь сбили 71 украинский БПЛА над регионами РФ и Черным морем",
+      "summary": "Силы ПВО за ночь сбили 71 украинский БПЛА над регионами РФ и Черным морем",
+      "category": "Спецоперация",
+      "viral_score": 16.0,
+      "coverage_count": 3,
+      "outlets": [
+        "RG",
+        "KP",
+        "TASS"
+      ],
+      "outlet_count": 3,
+      "prominence": "FEATURED",
+      "date": "10 ноября 2025",
+      "timestamp": "2025-11-10T02:09:53.189573",
+      "sources": [
+        {
+          "outlet": "RG",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "KP",
+          "url": "https://www.kp.ru/"
+        },
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        }
+      ],
+      "tags": [
+        "Украина",
+        "БПЛА"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "В Черном море уничтожили четыре безэкипажных катера",
+      "summary": "В Черном море уничтожили четыре безэкипажных катера",
+      "category": "Политика",
+      "viral_score": 16.0,
+      "coverage_count": 3,
+      "outlets": [
+        "RIA",
+        "KP",
+        "TASS"
+      ],
+      "outlet_count": 3,
+      "prominence": "FEATURED",
+      "date": "09:05",
+      "timestamp": "2025-11-10T02:09:53.189586",
+      "sources": [
+        {
+          "outlet": "RIA",
+          "url": "https://ria.ru/"
+        },
+        {
+          "outlet": "KP",
+          "url": "https://www.kp.ru/"
+        },
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": 5,
+      "title": "Возможный участник атаки БПЛА на Иркутскую область брал кредиты в России. Сколько он должен?",
+      "summary": "Возможный участник атаки БПЛА на Иркутскую область брал кредиты в России. Сколько он должен?",
+      "category": "Спецоперация",
+      "viral_score": 15.5,
+      "coverage_count": 2,
+      "outlets": [
+        "Lenta",
+        "RIA"
+      ],
+      "outlet_count": 2,
+      "prominence": "TOP_STORY",
+      "date": "09:36",
+      "timestamp": "2025-11-10T02:09:53.189595",
+      "sources": [
+        {
+          "outlet": "Lenta",
+          "url": "https://lenta.ru/"
+        },
+        {
+          "outlet": "RIA",
+          "url": "https://ria.ru/"
+        }
+      ],
+      "tags": [
+        "БПЛА"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "ВС РФ освободили территорию хлебокомбината в Купянске",
+      "summary": "ВС РФ освободили территорию хлебокомбината в Купянске",
+      "category": "Спецоперация",
+      "viral_score": 12.5,
+      "coverage_count": 2,
+      "outlets": [
+        "RT",
+        "TASS"
+      ],
+      "outlet_count": 2,
+      "prominence": "FEATURED",
+      "date": "06:00, Обновлено 06:02",
+      "timestamp": "2025-11-10T02:09:53.189603",
+      "sources": [
+        {
+          "outlet": "RT",
+          "url": "https://russian.rt.com/"
+        },
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": 7,
+      "title": "Заявление \"Центрэнерго\" об остановке работы ТЭС вызвало истерику в офисе Зеленского, пишут СМИ",
+      "summary": "Заявление \"Центрэнерго\" об остановке работы ТЭС вызвало истерику в офисе Зеленского, пишут СМИ",
+      "category": "Политика",
+      "viral_score": 12.5,
+      "coverage_count": 2,
+      "outlets": [
+        "RIA",
+        "KP"
+      ],
+      "outlet_count": 2,
+      "prominence": "FEATURED",
+      "date": "09:49",
+      "timestamp": "2025-11-10T02:09:53.189614",
+      "sources": [
+        {
+          "outlet": "RIA",
+          "url": "https://ria.ru/"
+        },
+        {
+          "outlet": "KP",
+          "url": "https://www.kp.ru/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": 8,
+      "title": "В Японии начался скандал после слов министра Кикавады о Курилах",
+      "summary": "В Японии начался скандал после слов министра Кикавады о Курилах",
+      "category": "В мире",
+      "viral_score": 12.5,
+      "coverage_count": 2,
+      "outlets": [
+        "RG",
+        "Lenta"
+      ],
+      "outlet_count": 2,
+      "prominence": "FEATURED",
+      "date": "10 ноября 2025",
+      "timestamp": "2025-11-10T02:09:53.189633",
+      "sources": [
+        {
+          "outlet": "RG",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "Lenta",
+          "url": "https://lenta.ru/"
+        }
+      ],
+      "tags": [
+        "Япония"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "«В условиях ожесточённого сопротивления противника»: ВС РФ освободили Рыбное в Запорожской области",
+      "summary": "«В условиях ожесточённого сопротивления противника»: ВС РФ освободили Рыбное в Запорожской области",
+      "category": "Спецоперация",
+      "viral_score": 12.0,
+      "coverage_count": 1,
+      "outlets": [
+        "RT"
+      ],
+      "outlet_count": 1,
+      "prominence": "TOP_STORY",
+      "date": "9 ноября, 23:00",
+      "timestamp": "2025-11-10T02:09:53.189781",
+      "sources": [
+        {
+          "outlet": "RT",
+          "url": "https://russian.rt.com/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": 10,
+      "title": "ВС России освободили территорию комбината в восточной части Купянска",
+      "summary": "ВС России освободили территорию комбината в восточной части Купянска",
+      "category": "Спецоперация",
+      "viral_score": 12.0,
+      "coverage_count": 1,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "prominence": "TOP_STORY",
+      "date": "09:03",
+      "timestamp": "2025-11-10T02:09:53.189791",
+      "sources": [
+        {
+          "outlet": "RIA",
+          "url": "https://ria.ru/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": 11,
+      "title": "За ВСУ меньше 10% Красноармейска, а горловина котла практически уже закрыта: Что происходит в главной битве этой осени",
+      "summary": "За ВСУ меньше 10% Красноармейска, а горловина котла практически уже закрыта: Что происходит в главной битве этой осени",
+      "category": "Спецоперация",
+      "viral_score": 12.0,
+      "coverage_count": 1,
+      "outlets": [
+        "KP"
+      ],
+      "outlet_count": 1,
+      "prominence": "TOP_STORY",
+      "date": "вчера",
+      "timestamp": "2025-11-10T02:09:53.189799",
+      "sources": [
+        {
+          "outlet": "KP",
+          "url": "https://www.kp.ru/"
+        }
+      ],
+      "tags": [
+        "Украина"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "«Это было бы полным безумием»: почему Еврокомиссия не смогла убедить Бельгию изъять российские активы",
+      "summary": "«Это было бы полным безумием»: почему Еврокомиссия не смогла убедить Бельгию изъять российские активы",
+      "category": "Экономика",
+      "viral_score": 9.0,
+      "coverage_count": 1,
+      "outlets": [
+        "RT"
+      ],
+      "outlet_count": 1,
+      "prominence": "FEATURED",
+      "date": "9 ноября, 17:00",
+      "timestamp": "2025-11-10T02:09:53.189809",
+      "sources": [
+        {
+          "outlet": "RT",
+          "url": "https://russian.rt.com/"
+        }
+      ],
+      "tags": [
+        "Европа"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "«Изменит почти всё»: какие пять технологий повысят возможности российских дронов",
+      "summary": "«Изменит почти всё»: какие пять технологий повысят возможности российских дронов",
+      "category": "Спецоперация",
+      "viral_score": 9.0,
+      "coverage_count": 1,
+      "outlets": [
+        "RT"
+      ],
+      "outlet_count": 1,
+      "prominence": "FEATURED",
+      "date": "9 ноября, 10:15",
+      "timestamp": "2025-11-10T02:09:53.189817",
+      "sources": [
+        {
+          "outlet": "RT",
+          "url": "https://russian.rt.com/"
+        }
+      ],
+      "tags": [
+        "БПЛА"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "WSJ: расследование диверсий на \"Северных потоках\" может лишить Киев поддержки",
+      "summary": "WSJ: расследование диверсий на \"Северных потоках\" может лишить Киев поддержки",
+      "category": "Политика",
+      "viral_score": 9.0,
+      "coverage_count": 1,
+      "outlets": [
+        "TASS"
+      ],
+      "outlet_count": 1,
+      "prominence": "FEATURED",
+      "date": "05:45",
+      "timestamp": "2025-11-10T02:09:53.189827",
+      "sources": [
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": 15,
+      "title": "Сенат США одобрил пакет законопроектов для завершения шатдауна",
+      "summary": "Сенат США одобрил пакет законопроектов для завершения шатдауна",
+      "category": "В мире",
+      "viral_score": 9.0,
+      "coverage_count": 1,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "prominence": "FEATURED",
+      "date": "06:56",
+      "timestamp": "2025-11-10T02:09:53.189835",
+      "sources": [
+        {
+          "outlet": "RIA",
+          "url": "https://ria.ru/"
+        }
+      ],
+      "tags": [
+        "США"
+      ]
+    }
+  ]
+}
