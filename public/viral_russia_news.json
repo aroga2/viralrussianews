@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2025-11-11T06:17:30.743299",
-    "collection_period": "2025-11-11",
+    "generated_at": "2025-11-12T06:17:03.149982",
+    "collection_period": "2025-11-12",
     "total_outlets": 6,
     "outlets": [
       {
@@ -30,34 +30,5 @@
       }
     ]
   },
-  "stories": [
-    {
-      "rank": 1,
-      "title": "ВС России взяли под контроль нефтебазу и две железнодорожные станции в Купянске",
-      "title_ru": "ВС России взяли под контроль нефтебазу и две железнодорожные станции в Купянске",
-      "viral_score": 49,
-      "outlets": [
-        "RIA",
-        "RT"
-      ],
-      "outlet_count": 2,
-      "topic": "Society",
-      "vk_engagement": "MEDIUM",
-      "prominence": "FEATURED",
-      "summary": "This story about 'ВС России взяли под контроль нефтебазу и две железнодорожные станции в Купянске' is trending across 2 major Russian news outlets.",
-      "summary_ru": "Эта история о 'ВС России взяли под контроль нефтебазу и две железнодорожные станции в Купянске' в тренде в 2 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 2 major outlets with a viral score of 49/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 2 крупных изданиях с вирусным рейтингом 49/100.",
-      "source_urls": [
-        "https://russian.rt.com/",
-        "https://ria.ru/"
-      ],
-      "date": "2025-11-11",
-      "tags": [
-        "society",
-        "trending",
-        "russia"
-      ]
-    }
-  ]
+  "stories": []
 }
