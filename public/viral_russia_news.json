@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2025-12-03T06:17:53.618829",
-    "collection_period": "2025-12-03",
+    "generated_at": "2025-12-04T06:17:58.963891",
+    "collection_period": "2025-12-04",
     "total_outlets": 6,
     "outlets": [
       {
@@ -30,5 +30,34 @@
       }
     ]
   },
-  "stories": []
+  "stories": [
+    {
+      "rank": 1,
+      "title": "ВС России ликвидировали штурмовиков спецроты ВСУ в районе Алексеевки",
+      "title_ru": "ВС России ликвидировали штурмовиков спецроты ВСУ в районе Алексеевки",
+      "viral_score": 49,
+      "outlets": [
+        "RT",
+        "RIA"
+      ],
+      "outlet_count": 2,
+      "topic": "Society",
+      "vk_engagement": "MEDIUM",
+      "prominence": "FEATURED",
+      "summary": "This story about 'ВС России ликвидировали штурмовиков спецроты ВСУ в районе Алексеевки' is trending across 2 major Russian news outlets.",
+      "summary_ru": "Эта история о 'ВС России ликвидировали штурмовиков спецроты ВСУ в районе Алексеевки' в тренде в 2 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 2 major outlets with a viral score of 49/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 2 крупных изданиях с вирусным рейтингом 49/100.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://ria.ru/"
+      ],
+      "date": "2025-12-04",
+      "tags": [
+        "society",
+        "trending",
+        "russia"
+      ]
+    }
+  ]
 }
