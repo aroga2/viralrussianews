@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-01-14T06:20:03.710925",
-    "collection_period": "2026-01-14",
+    "generated_at": "2026-01-15T06:19:11.472853",
+    "collection_period": "2026-01-15",
     "total_outlets": 6,
     "outlets": [
       {
@@ -30,32 +30,5 @@
       }
     ]
   },
-  "stories": [
-    {
-      "rank": 1,
-      "title": "Трамп пригрозил премьеру Гренландии большой проблемой за слова о желании остаться с Данией02:49",
-      "title_ru": "Трамп пригрозил премьеру Гренландии большой проблемой за слова о желании остаться с Данией02:49",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Politics",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about 'Трамп пригрозил премьеру Гренландии большой проблемой за слова о желании остаться с Данией02:49' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Трамп пригрозил премьеру Гренландии большой проблемой за слова о желании остаться с Данией02:49' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-01-14",
-      "tags": [
-        "politics",
-        "trending",
-        "russia"
-      ]
-    }
-  ]
+  "stories": []
 }
