@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-01-30T06:34:45.731479",
-    "collection_period": "2026-01-30",
+    "generated_at": "2026-01-31T06:25:04.615797",
+    "collection_period": "2026-01-31",
     "total_outlets": 6,
     "outlets": [
       {
@@ -30,5 +30,32 @@
       }
     ]
   },
-  "stories": []
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Конгрессмены предупредили Трампа об опасности истечения ДСНВ01:50",
+      "title_ru": "Конгрессмены предупредили Трампа об опасности истечения ДСНВ01:50",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Politics",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'Конгрессмены предупредили Трампа об опасности истечения ДСНВ01:50' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Конгрессмены предупредили Трампа об опасности истечения ДСНВ01:50' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-01-31",
+      "tags": [
+        "politics",
+        "trending",
+        "russia"
+      ]
+    }
+  ]
 }
