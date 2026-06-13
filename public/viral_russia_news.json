@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-06-12T09:54:42.085976",
-    "collection_period": "2026-06-12",
+    "generated_at": "2026-06-13T08:46:05.371490",
+    "collection_period": "2026-06-13",
     "total_outlets": 6,
     "outlets": [
       {
@@ -30,34 +30,5 @@
       }
     ]
   },
-  "stories": [
-    {
-      "rank": 1,
-      "title": "Суд арестовал водителя автобуса, сбившего насмерть людей в Екатеринбурге",
-      "title_ru": "Суд арестовал водителя автобуса, сбившего насмерть людей в Екатеринбурге",
-      "viral_score": 49,
-      "outlets": [
-        "RT",
-        "RIA"
-      ],
-      "outlet_count": 2,
-      "topic": "Society",
-      "vk_engagement": "MEDIUM",
-      "prominence": "FEATURED",
-      "summary": "This story about 'Суд арестовал водителя автобуса, сбившего насмерть людей в Екатеринбурге' is trending across 2 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Суд арестовал водителя автобуса, сбившего насмерть людей в Екатеринбурге' в тренде в 2 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 2 major outlets with a viral score of 49/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 2 крупных изданиях с вирусным рейтингом 49/100.",
-      "source_urls": [
-        "https://russian.rt.com/",
-        "https://ria.ru/"
-      ],
-      "date": "2026-06-12",
-      "tags": [
-        "society",
-        "trending",
-        "russia"
-      ]
-    }
-  ]
+  "stories": []
 }
