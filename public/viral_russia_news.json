@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-26T08:05:37.568786",
-    "collection_period": "2026-07-26",
+    "generated_at": "2026-07-27T09:25:47.724146",
+    "collection_period": "2026-07-27",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,8 +33,8 @@
   "stories": [
     {
       "rank": 1,
-      "title": "На Эльбрусе одного из запросивших помощь альпинистов нашли живым08:08",
-      "title_ru": "На Эльбрусе одного из запросивших помощь альпинистов нашли живым08:08",
+      "title": "ВСУ предприняли самую массированную за последнее время атаку на Удмуртию08:52",
+      "title_ru": "ВСУ предприняли самую массированную за последнее время атаку на Удмуртию08:52",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -43,14 +43,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'На Эльбрусе одного из запросивших помощь альпинистов нашли живым08:08' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'На Эльбрусе одного из запросивших помощь альпинистов нашли живым08:08' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'ВСУ предприняли самую массированную за последнее время атаку на Удмуртию08:52' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'ВСУ предприняли самую массированную за последнее время атаку на Удмуртию08:52' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "tags": [
         "society",
         "trending",
@@ -59,34 +59,60 @@
     },
     {
       "rank": 2,
-      "title": "ВМФ и ученые обеспечили России статус великой морской державы, рассказал Путин00:09",
-      "title_ru": "ВМФ и ученые обеспечили России статус великой морской державы, рассказал Путин00:09",
+      "title": "Двадцать первый пакет санкций ЕС может стать последним, пишет FT09:32",
+      "title_ru": "Двадцать первый пакет санкций ЕС может стать последним, пишет FT09:32",
       "viral_score": 37,
       "outlets": [
         "RIA"
       ],
       "outlet_count": 1,
-      "topic": "Politics",
+      "topic": "Economy",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'ВМФ и ученые обеспечили России статус великой морской державы, рассказал Путин00:09' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'ВМФ и ученые обеспечили России статус великой морской державы, рассказал Путин00:09' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Двадцать первый пакет санкций ЕС может стать последним, пишет FT09:32' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Двадцать первый пакет санкций ЕС может стать последним, пишет FT09:32' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "tags": [
-        "politics",
+        "economy",
         "trending",
         "russia"
       ]
     },
     {
       "rank": 3,
-      "title": "ВС России поразили объекты для хранения военных грузов в порту Черноморск08:02",
-      "title_ru": "ВС России поразили объекты для хранения военных грузов в порту Черноморск08:02",
+      "title": "Эстонцы, желающие попасть в Россию, столкнулись с проблемами на пропускном пункте у Нарвы05:27",
+      "title_ru": "Эстонцы, желающие попасть в Россию, столкнулись с проблемами на пропускном пункте у Нарвы05:27",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Society",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'Эстонцы, желающие попасть в Россию, столкнулись с проблемами на пропускном пункте у Нарвы05:27' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Эстонцы, желающие попасть в Россию, столкнулись с проблемами на пропускном пункте у Нарвы05:27' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-07-27",
+      "tags": [
+        "society",
+        "trending",
+        "russia"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Число американских военных, раненных в ходе операции против Ирана, достигло 62407:24",
+      "title_ru": "Число американских военных, раненных в ходе операции против Ирана, достигло 62407:24",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -95,42 +121,16 @@
       "topic": "Military",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'ВС России поразили объекты для хранения военных грузов в порту Черноморск08:02' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'ВС России поразили объекты для хранения военных грузов в порту Черноморск08:02' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Число американских военных, раненных в ходе операции против Ирана, достигло 62407:24' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Число американских военных, раненных в ходе операции против Ирана, достигло 62407:24' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "tags": [
         "military",
-        "trending",
-        "russia"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "В Ростове-на-Дону из-за непогоды погиб человек, еще 13 пострадали10:27",
-      "title_ru": "В Ростове-на-Дону из-за непогоды погиб человек, еще 13 пострадали10:27",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Emergency",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about 'В Ростове-на-Дону из-за непогоды погиб человек, еще 13 пострадали10:27' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'В Ростове-на-Дону из-за непогоды погиб человек, еще 13 пострадали10:27' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-07-26",
-      "tags": [
-        "emergency",
         "trending",
         "russia"
       ]
