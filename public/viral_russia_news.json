@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-05T08:13:45.962056",
-    "collection_period": "2026-08-05",
+    "generated_at": "2026-08-06T08:12:15.957616",
+    "collection_period": "2026-08-06",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,34 +33,8 @@
   "stories": [
     {
       "rank": 1,
-      "title": "Дрон атаковал склад Wildberries в Тульской области, есть пострадавший05:53",
-      "title_ru": "Дрон атаковал склад Wildberries в Тульской области, есть пострадавший05:53",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Military",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about 'Дрон атаковал склад Wildberries в Тульской области, есть пострадавший05:53' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Дрон атаковал склад Wildberries в Тульской области, есть пострадавший05:53' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-08-05",
-      "tags": [
-        "military",
-        "trending",
-        "russia"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Россия и Соединенные Штаты совместно выведут МКС с орбиты06:06",
-      "title_ru": "Россия и Соединенные Штаты совместно выведут МКС с орбиты06:06",
+      "title": "ВС России поразили два морских судна в акватории Черного моря07:51",
+      "title_ru": "ВС России поразили два морских судна в акватории Черного моря07:51",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -69,14 +43,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Россия и Соединенные Штаты совместно выведут МКС с орбиты06:06' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Россия и Соединенные Штаты совместно выведут МКС с орбиты06:06' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'ВС России поразили два морских судна в акватории Черного моря07:51' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'ВС России поразили два морских судна в акватории Черного моря07:51' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "tags": [
         "society",
         "trending",
@@ -84,9 +58,35 @@
       ]
     },
     {
+      "rank": 2,
+      "title": "Трамп потребовал от Хегсета объяснений из-за нехватки ракет, пишет WP03:07",
+      "title_ru": "Трамп потребовал от Хегсета объяснений из-за нехватки ракет, пишет WP03:07",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Politics",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'Трамп потребовал от Хегсета объяснений из-за нехватки ракет, пишет WP03:07' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Трамп потребовал от Хегсета объяснений из-за нехватки ракет, пишет WP03:07' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-08-06",
+      "tags": [
+        "politics",
+        "trending",
+        "russia"
+      ]
+    },
+    {
       "rank": 3,
-      "title": "Таиланд передал Лаврову письмо по поводу гибели Назимовых06:43",
-      "title_ru": "Таиланд передал Лаврову письмо по поводу гибели Назимовых06:43",
+      "title": "Жители Словакии, отказавшиеся от гражданства России, заинтересовались его возвращением04:43",
+      "title_ru": "Жители Словакии, отказавшиеся от гражданства России, заинтересовались его возвращением04:43",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -95,14 +95,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Таиланд передал Лаврову письмо по поводу гибели Назимовых06:43' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Таиланд передал Лаврову письмо по поводу гибели Назимовых06:43' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Жители Словакии, отказавшиеся от гражданства России, заинтересовались его возвращением04:43' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Жители Словакии, отказавшиеся от гражданства России, заинтересовались его возвращением04:43' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "tags": [
         "society",
         "trending",
@@ -111,8 +111,8 @@
     },
     {
       "rank": 4,
-      "title": "США, Иран и Оман близки к достижению соглашения по Ормузу, пишет Axios05:42",
-      "title_ru": "США, Иран и Оман близки к достижению соглашения по Ормузу, пишет Axios05:42",
+      "title": "Украинские наемники попали под авиаудар в Харьковской области06:33",
+      "title_ru": "Украинские наемники попали под авиаудар в Харьковской области06:33",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -121,14 +121,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'США, Иран и Оман близки к достижению соглашения по Ормузу, пишет Axios05:42' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'США, Иран и Оман близки к достижению соглашения по Ормузу, пишет Axios05:42' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Украинские наемники попали под авиаудар в Харьковской области06:33' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Украинские наемники попали под авиаудар в Харьковской области06:33' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "tags": [
         "society",
         "trending",
