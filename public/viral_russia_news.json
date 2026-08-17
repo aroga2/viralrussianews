@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-16T06:20:26.579258",
-    "collection_period": "2026-08-16",
+    "generated_at": "2026-08-17T06:30:42.984840",
+    "collection_period": "2026-08-17",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,8 +33,34 @@
   "stories": [
     {
       "rank": 1,
-      "title": "На подлете к Москве сбили более 200 дронов06:46",
-      "title_ru": "На подлете к Москве сбили более 200 дронов06:46",
+      "title": "Украинские связисты попали в окружение в Сумской области06:31",
+      "title_ru": "Украинские связисты попали в окружение в Сумской области06:31",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Society",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'Украинские связисты попали в окружение в Сумской области06:31' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Украинские связисты попали в окружение в Сумской области06:31' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-08-17",
+      "tags": [
+        "society",
+        "trending",
+        "russia"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "\"Герани\" уничтожили логистический центр и склад дронов ВСУ08:46",
+      "title_ru": "\"Герани\" уничтожили логистический центр и склад дронов ВСУ08:46",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -43,14 +69,14 @@
       "topic": "Military",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'На подлете к Москве сбили более 200 дронов06:46' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'На подлете к Москве сбили более 200 дронов06:46' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about '\"Герани\" уничтожили логистический центр и склад дронов ВСУ08:46' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о '\"Герани\" уничтожили логистический центр и склад дронов ВСУ08:46' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "tags": [
         "military",
         "trending",
@@ -58,35 +84,9 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "В Киеве прогремели взрывы03:03",
-      "title_ru": "В Киеве прогремели взрывы03:03",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Emergency",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about 'В Киеве прогремели взрывы03:03' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'В Киеве прогремели взрывы03:03' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-08-16",
-      "tags": [
-        "emergency",
-        "trending",
-        "russia"
-      ]
-    },
-    {
       "rank": 3,
-      "title": "Иран и Оман достигли согласия по карте судоходства через Ормузский пролив02:26",
-      "title_ru": "Иран и Оман достигли согласия по карте судоходства через Ормузский пролив02:26",
+      "title": "Фестиваль \"Спасская башня\" перенесли на 2027 год08:12",
+      "title_ru": "Фестиваль \"Спасская башня\" перенесли на 2027 год08:12",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -95,14 +95,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Иран и Оман достигли согласия по карте судоходства через Ормузский пролив02:26' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Иран и Оман достигли согласия по карте судоходства через Ормузский пролив02:26' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Фестиваль \"Спасская башня\" перенесли на 2027 год08:12' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Фестиваль \"Спасская башня\" перенесли на 2027 год08:12' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "tags": [
         "society",
         "trending",
@@ -111,26 +111,26 @@
     },
     {
       "rank": 4,
-      "title": "Россиянин Махачев одолел ирландца Гэрри и установил рекорд UFC по количеству побед подряд07:22",
-      "title_ru": "Россиянин Махачев одолел ирландца Гэрри и установил рекорд UFC по количеству побед подряд07:22",
+      "title": "Трамп приказал сократить масштаб военных учений США с Южной Кореей00:24",
+      "title_ru": "Трамп приказал сократить масштаб военных учений США с Южной Кореей00:24",
       "viral_score": 37,
       "outlets": [
         "RIA"
       ],
       "outlet_count": 1,
-      "topic": "Society",
+      "topic": "Politics",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Россиянин Махачев одолел ирландца Гэрри и установил рекорд UFC по количеству побед подряд07:22' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Россиянин Махачев одолел ирландца Гэрри и установил рекорд UFC по количеству побед подряд07:22' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Трамп приказал сократить масштаб военных учений США с Южной Кореей00:24' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Трамп приказал сократить масштаб военных учений США с Южной Кореей00:24' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "tags": [
-        "society",
+        "politics",
         "trending",
         "russia"
       ]
