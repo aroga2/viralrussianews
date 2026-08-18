@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-17T06:30:42.984840",
-    "collection_period": "2026-08-17",
+    "generated_at": "2026-08-18T06:22:39.819854",
+    "collection_period": "2026-08-18",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,8 +33,8 @@
   "stories": [
     {
       "rank": 1,
-      "title": "Украинские связисты попали в окружение в Сумской области06:31",
-      "title_ru": "Украинские связисты попали в окружение в Сумской области06:31",
+      "title": "Украина использовала спутниковые снимки против России еще до 2022, пишет NYT06:13",
+      "title_ru": "Украина использовала спутниковые снимки против России еще до 2022, пишет NYT06:13",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -43,14 +43,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Украинские связисты попали в окружение в Сумской области06:31' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Украинские связисты попали в окружение в Сумской области06:31' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Украина использовала спутниковые снимки против России еще до 2022, пишет NYT06:13' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Украина использовала спутниковые снимки против России еще до 2022, пишет NYT06:13' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "tags": [
         "society",
         "trending",
@@ -59,34 +59,8 @@
     },
     {
       "rank": 2,
-      "title": "\"Герани\" уничтожили логистический центр и склад дронов ВСУ08:46",
-      "title_ru": "\"Герани\" уничтожили логистический центр и склад дронов ВСУ08:46",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Military",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about '\"Герани\" уничтожили логистический центр и склад дронов ВСУ08:46' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о '\"Герани\" уничтожили логистический центр и склад дронов ВСУ08:46' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-08-17",
-      "tags": [
-        "military",
-        "trending",
-        "russia"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Фестиваль \"Спасская башня\" перенесли на 2027 год08:12",
-      "title_ru": "Фестиваль \"Спасская башня\" перенесли на 2027 год08:12",
+      "title": "Минпросвещения определило продолжительность нового учебного года01:48",
+      "title_ru": "Минпросвещения определило продолжительность нового учебного года01:48",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -95,14 +69,40 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Фестиваль \"Спасская башня\" перенесли на 2027 год08:12' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Фестиваль \"Спасская башня\" перенесли на 2027 год08:12' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Минпросвещения определило продолжительность нового учебного года01:48' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Минпросвещения определило продолжительность нового учебного года01:48' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-08-17",
+      "date": "2026-08-18",
+      "tags": [
+        "society",
+        "trending",
+        "russia"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Бойцы \"Днепра\" поразили замаскированные резервы ВСУ в Орехове08:27",
+      "title_ru": "Бойцы \"Днепра\" поразили замаскированные резервы ВСУ в Орехове08:27",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Society",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'Бойцы \"Днепра\" поразили замаскированные резервы ВСУ в Орехове08:27' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Бойцы \"Днепра\" поразили замаскированные резервы ВСУ в Орехове08:27' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-08-18",
       "tags": [
         "society",
         "trending",
@@ -111,26 +111,26 @@
     },
     {
       "rank": 4,
-      "title": "Трамп приказал сократить масштаб военных учений США с Южной Кореей00:24",
-      "title_ru": "Трамп приказал сократить масштаб военных учений США с Южной Кореей00:24",
+      "title": "Госдолг Украины после Майдана увеличился более чем в 16 раз03:22",
+      "title_ru": "Госдолг Украины после Майдана увеличился более чем в 16 раз03:22",
       "viral_score": 37,
       "outlets": [
         "RIA"
       ],
       "outlet_count": 1,
-      "topic": "Politics",
+      "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Трамп приказал сократить масштаб военных учений США с Южной Кореей00:24' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Трамп приказал сократить масштаб военных учений США с Южной Кореей00:24' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Госдолг Украины после Майдана увеличился более чем в 16 раз03:22' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Госдолг Украины после Майдана увеличился более чем в 16 раз03:22' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "tags": [
-        "politics",
+        "society",
         "trending",
         "russia"
       ]
