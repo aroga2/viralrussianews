@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-03T10:18:32.204313",
-    "collection_period": "2026-09-03",
+    "generated_at": "2026-09-04T10:06:58.189770",
+    "collection_period": "2026-09-04",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,8 +33,34 @@
   "stories": [
     {
       "rank": 1,
-      "title": "Путин связал вбросы о мобилизации с попытками повлиять на выборы в Госдуму12:22",
-      "title_ru": "Путин связал вбросы о мобилизации с попытками повлиять на выборы в Госдуму12:22",
+      "title": "Лондон переходит к массовому производству ракет для Киева, заявил Медведчук10:54",
+      "title_ru": "Лондон переходит к массовому производству ракет для Киева, заявил Медведчук10:54",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Society",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'Лондон переходит к массовому производству ракет для Киева, заявил Медведчук10:54' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Лондон переходит к массовому производству ракет для Киева, заявил Медведчук10:54' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-09-04",
+      "tags": [
+        "society",
+        "trending",
+        "russia"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Путин и президент Вьетнама обсудят торговлю, оборону и перспективы партнерства12:08",
+      "title_ru": "Путин и президент Вьетнама обсудят торговлю, оборону и перспективы партнерства12:08",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -43,14 +69,14 @@
       "topic": "Politics",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Путин связал вбросы о мобилизации с попытками повлиять на выборы в Госдуму12:22' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Путин связал вбросы о мобилизации с попытками повлиять на выборы в Госдуму12:22' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Путин и президент Вьетнама обсудят торговлю, оборону и перспективы партнерства12:08' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Путин и президент Вьетнама обсудят торговлю, оборону и перспективы партнерства12:08' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "tags": [
         "politics",
         "trending",
@@ -58,35 +84,9 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Российские военные поразили логистический центр в Киевской области09:34",
-      "title_ru": "Российские военные поразили логистический центр в Киевской области09:34",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Military",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about 'Российские военные поразили логистический центр в Киевской области09:34' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Российские военные поразили логистический центр в Киевской области09:34' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-09-03",
-      "tags": [
-        "military",
-        "trending",
-        "russia"
-      ]
-    },
-    {
       "rank": 3,
-      "title": "Президент назвал отмалчивающихся союзников Украины соучастниками терроризма11:07",
-      "title_ru": "Президент назвал отмалчивающихся союзников Украины соучастниками терроризма11:07",
+      "title": "ВС России освободили два населенных пункта в ДНР12:21",
+      "title_ru": "ВС России освободили два населенных пункта в ДНР12:21",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -95,14 +95,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Президент назвал отмалчивающихся союзников Украины соучастниками терроризма11:07' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Президент назвал отмалчивающихся союзников Украины соучастниками терроризма11:07' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'ВС России освободили два населенных пункта в ДНР12:21' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'ВС России освободили два населенных пункта в ДНР12:21' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "tags": [
         "society",
         "trending",
@@ -111,8 +111,8 @@
     },
     {
       "rank": 4,
-      "title": "Россия нашла партнеров для всех 13 автозаводов, оставленных иностранцами04:10",
-      "title_ru": "Россия нашла партнеров для всех 13 автозаводов, оставленных иностранцами04:10",
+      "title": "Ученые сообщили о резком росте солнечной активности10:47",
+      "title_ru": "Ученые сообщили о резком росте солнечной активности10:47",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -121,14 +121,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Россия нашла партнеров для всех 13 автозаводов, оставленных иностранцами04:10' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Россия нашла партнеров для всех 13 автозаводов, оставленных иностранцами04:10' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Ученые сообщили о резком росте солнечной активности10:47' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Ученые сообщили о резком росте солнечной активности10:47' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "tags": [
         "society",
         "trending",
