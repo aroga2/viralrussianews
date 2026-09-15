@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-14T11:09:40.986440",
-    "collection_period": "2026-09-14",
+    "generated_at": "2026-09-15T10:37:55.193344",
+    "collection_period": "2026-09-15",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,8 +33,8 @@
   "stories": [
     {
       "rank": 1,
-      "title": "Генпрокурор Украины ночью уехал из страны на служебном авто, пишут СМИ09:42",
-      "title_ru": "Генпрокурор Украины ночью уехал из страны на служебном авто, пишут СМИ09:42",
+      "title": "Кобахидзе пообещал уничтожить русофобию в Грузии в зародыше10:18",
+      "title_ru": "Кобахидзе пообещал уничтожить русофобию в Грузии в зародыше10:18",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -43,14 +43,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Генпрокурор Украины ночью уехал из страны на служебном авто, пишут СМИ09:42' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Генпрокурор Украины ночью уехал из страны на служебном авто, пишут СМИ09:42' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Кобахидзе пообещал уничтожить русофобию в Грузии в зародыше10:18' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Кобахидзе пообещал уничтожить русофобию в Грузии в зародыше10:18' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "tags": [
         "society",
         "trending",
@@ -59,34 +59,8 @@
     },
     {
       "rank": 2,
-      "title": "Путин обсудил экономические проекты с губернатором Новгородской области14:04",
-      "title_ru": "Путин обсудил экономические проекты с губернатором Новгородской области14:04",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Politics",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about 'Путин обсудил экономические проекты с губернатором Новгородской области14:04' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Путин обсудил экономические проекты с губернатором Новгородской области14:04' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-09-14",
-      "tags": [
-        "politics",
-        "trending",
-        "russia"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "В Сочи пять человек пострадали при падении обломков дронов08:26",
-      "title_ru": "В Сочи пять человек пострадали при падении обломков дронов08:26",
+      "title": "Российские бойцы поразили украинский погранпереход, через который шли военные поставки12:15",
+      "title_ru": "Российские бойцы поразили украинский погранпереход, через который шли военные поставки12:15",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -95,14 +69,14 @@
       "topic": "Military",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'В Сочи пять человек пострадали при падении обломков дронов08:26' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'В Сочи пять человек пострадали при падении обломков дронов08:26' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Российские бойцы поразили украинский погранпереход, через который шли военные поставки12:15' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Российские бойцы поразили украинский погранпереход, через который шли военные поставки12:15' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "tags": [
         "military",
         "trending",
@@ -110,9 +84,9 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Финляндия присоединилась к французской инициативе по ядерному сдерживанию11:41",
-      "title_ru": "Финляндия присоединилась к французской инициативе по ядерному сдерживанию11:41",
+      "rank": 3,
+      "title": "Таганрог подвергся массированному ракетному обстрелу05:55",
+      "title_ru": "Таганрог подвергся массированному ракетному обстрелу05:55",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -121,14 +95,40 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Финляндия присоединилась к французской инициативе по ядерному сдерживанию11:41' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Финляндия присоединилась к французской инициативе по ядерному сдерживанию11:41' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Таганрог подвергся массированному ракетному обстрелу05:55' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Таганрог подвергся массированному ракетному обстрелу05:55' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-09-14",
+      "date": "2026-09-15",
+      "tags": [
+        "society",
+        "trending",
+        "russia"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "В МВД предупредили о новой схеме обмана родителей подростков08:22",
+      "title_ru": "В МВД предупредили о новой схеме обмана родителей подростков08:22",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Society",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'В МВД предупредили о новой схеме обмана родителей подростков08:22' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'В МВД предупредили о новой схеме обмана родителей подростков08:22' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-09-15",
       "tags": [
         "society",
         "trending",
