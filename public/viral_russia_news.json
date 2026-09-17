@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-16T10:26:14.016270",
-    "collection_period": "2026-09-16",
+    "generated_at": "2026-09-17T10:35:50.737935",
+    "collection_period": "2026-09-17",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,34 +33,8 @@
   "stories": [
     {
       "rank": 1,
-      "title": "Путин обратится к россиянам перед выборами в Госдуму12:26",
-      "title_ru": "Путин обратится к россиянам перед выборами в Госдуму12:26",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Politics",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about 'Путин обратится к россиянам перед выборами в Госдуму12:26' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Путин обратится к россиянам перед выборами в Госдуму12:26' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-09-16",
-      "tags": [
-        "politics",
-        "trending",
-        "russia"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Умер Герой России Антон Грунис10:52",
-      "title_ru": "Умер Герой России Антон Грунис10:52",
+      "title": "ЦИК сорвал попытку дискредитировать систему дистанционного электронного голосования11:37",
+      "title_ru": "ЦИК сорвал попытку дискредитировать систему дистанционного электронного голосования11:37",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -69,14 +43,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Умер Герой России Антон Грунис10:52' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Умер Герой России Антон Грунис10:52' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'ЦИК сорвал попытку дискредитировать систему дистанционного электронного голосования11:37' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'ЦИК сорвал попытку дискредитировать систему дистанционного электронного голосования11:37' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "tags": [
         "society",
         "trending",
@@ -84,9 +58,35 @@
       ]
     },
     {
+      "rank": 2,
+      "title": "Кремль назвал одобрение конгрессом новых санкций против России недружественным шагом12:47",
+      "title_ru": "Кремль назвал одобрение конгрессом новых санкций против России недружественным шагом12:47",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Economy",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'Кремль назвал одобрение конгрессом новых санкций против России недружественным шагом12:47' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Кремль назвал одобрение конгрессом новых санкций против России недружественным шагом12:47' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-09-17",
+      "tags": [
+        "economy",
+        "trending",
+        "russia"
+      ]
+    },
+    {
       "rank": 3,
-      "title": "Германия готовит больницы к приему раненых в случае войны, пишет Bloomberg12:40",
-      "title_ru": "Германия готовит больницы к приему раненых в случае войны, пишет Bloomberg12:40",
+      "title": "Минобороны назвало цели группового удара по Украине09:42",
+      "title_ru": "Минобороны назвало цели группового удара по Украине09:42",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -95,14 +95,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Германия готовит больницы к приему раненых в случае войны, пишет Bloomberg12:40' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Германия готовит больницы к приему раненых в случае войны, пишет Bloomberg12:40' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Минобороны назвало цели группового удара по Украине09:42' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Минобороны назвало цели группового удара по Украине09:42' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "tags": [
         "society",
         "trending",
@@ -111,8 +111,8 @@
     },
     {
       "rank": 4,
-      "title": "Минтранс показал новый знак парковки для многодетных семей09:02",
-      "title_ru": "Минтранс показал новый знак парковки для многодетных семей09:02",
+      "title": "Число госпитализированных после массового отравления в Казани выросло до 2810:44",
+      "title_ru": "Число госпитализированных после массового отравления в Казани выросло до 2810:44",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -121,14 +121,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Минтранс показал новый знак парковки для многодетных семей09:02' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Минтранс показал новый знак парковки для многодетных семей09:02' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Число госпитализированных после массового отравления в Казани выросло до 2810:44' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Число госпитализированных после массового отравления в Казани выросло до 2810:44' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "tags": [
         "society",
         "trending",
