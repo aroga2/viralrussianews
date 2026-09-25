@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-24T10:41:52.494539",
-    "collection_period": "2026-09-24",
+    "generated_at": "2026-09-25T10:45:10.991931",
+    "collection_period": "2026-09-25",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,34 +33,8 @@
   "stories": [
     {
       "rank": 1,
-      "title": "Путин обсудил с Совбезом меры по нейтрализации угроз общественной безопасности13:04",
-      "title_ru": "Путин обсудил с Совбезом меры по нейтрализации угроз общественной безопасности13:04",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Politics",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about 'Путин обсудил с Совбезом меры по нейтрализации угроз общественной безопасности13:04' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Путин обсудил с Совбезом меры по нейтрализации угроз общественной безопасности13:04' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-09-24",
-      "tags": [
-        "politics",
-        "trending",
-        "russia"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Минфин рассказал о проекте бюджета в 2027-2029 годах11:08",
-      "title_ru": "Минфин рассказал о проекте бюджета в 2027-2029 годах11:08",
+      "title": "Группировка \"Север\" взяла под контроль все логистические пути ВСУ у Доброполья12:46",
+      "title_ru": "Группировка \"Север\" взяла под контроль все логистические пути ВСУ у Доброполья12:46",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -69,14 +43,40 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Минфин рассказал о проекте бюджета в 2027-2029 годах11:08' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Минфин рассказал о проекте бюджета в 2027-2029 годах11:08' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Группировка \"Север\" взяла под контроль все логистические пути ВСУ у Доброполья12:46' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Группировка \"Север\" взяла под контроль все логистические пути ВСУ у Доброполья12:46' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-09-24",
+      "date": "2026-09-25",
+      "tags": [
+        "society",
+        "trending",
+        "russia"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "На грузинском КПП на границе с Россией прошла эвакуация10:39",
+      "title_ru": "На грузинском КПП на границе с Россией прошла эвакуация10:39",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Society",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'На грузинском КПП на границе с Россией прошла эвакуация10:39' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'На грузинском КПП на границе с Россией прошла эвакуация10:39' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-09-25",
       "tags": [
         "society",
         "trending",
@@ -85,34 +85,34 @@
     },
     {
       "rank": 3,
-      "title": "Минобороны перечислило цели удара по Киеву и Одессе09:15",
-      "title_ru": "Минобороны перечислило цели удара по Киеву и Одессе09:15",
+      "title": "Российские военные нанесли удары по украинскому ВПК08:02",
+      "title_ru": "Российские военные нанесли удары по украинскому ВПК08:02",
       "viral_score": 37,
       "outlets": [
         "RIA"
       ],
       "outlet_count": 1,
-      "topic": "Society",
+      "topic": "Military",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Минобороны перечислило цели удара по Киеву и Одессе09:15' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Минобороны перечислило цели удара по Киеву и Одессе09:15' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Российские военные нанесли удары по украинскому ВПК08:02' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Российские военные нанесли удары по украинскому ВПК08:02' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "tags": [
-        "society",
+        "military",
         "trending",
         "russia"
       ]
     },
     {
       "rank": 4,
-      "title": "Источник сообщил подробности нападения медведя на отца хоккеиста Кузьменко12:30",
-      "title_ru": "Источник сообщил подробности нападения медведя на отца хоккеиста Кузьменко12:30",
+      "title": "В Красноярском крае медведь убил женщину на приусадебном участке07:50",
+      "title_ru": "В Красноярском крае медведь убил женщину на приусадебном участке07:50",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -121,14 +121,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Источник сообщил подробности нападения медведя на отца хоккеиста Кузьменко12:30' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Источник сообщил подробности нападения медведя на отца хоккеиста Кузьменко12:30' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'В Красноярском крае медведь убил женщину на приусадебном участке07:50' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'В Красноярском крае медведь убил женщину на приусадебном участке07:50' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "tags": [
         "society",
         "trending",
