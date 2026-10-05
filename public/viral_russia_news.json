@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-04T11:28:46.585308",
-    "collection_period": "2026-10-04",
+    "generated_at": "2026-10-05T12:55:25.383691",
+    "collection_period": "2026-10-05",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,8 +33,8 @@
   "stories": [
     {
       "rank": 1,
-      "title": "Гросси объяснил, почему МАГАТЭ не называет Киев виновным в атаках на Запорожскую АЭС08:11",
-      "title_ru": "Гросси объяснил, почему МАГАТЭ не называет Киев виновным в атаках на Запорожскую АЭС08:11",
+      "title": "Украинские боевики нанесли удар в 200 метрах от энергоблоков Запорожской АЭС11:10",
+      "title_ru": "Украинские боевики нанесли удар в 200 метрах от энергоблоков Запорожской АЭС11:10",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -43,14 +43,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Гросси объяснил, почему МАГАТЭ не называет Киев виновным в атаках на Запорожскую АЭС08:11' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Гросси объяснил, почему МАГАТЭ не называет Киев виновным в атаках на Запорожскую АЭС08:11' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Украинские боевики нанесли удар в 200 метрах от энергоблоков Запорожской АЭС11:10' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Украинские боевики нанесли удар в 200 метрах от энергоблоков Запорожской АЭС11:10' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "tags": [
         "society",
         "trending",
@@ -59,34 +59,8 @@
     },
     {
       "rank": 2,
-      "title": "В Кремле рассказали о подготовке к прямой линии с Путиным11:57",
-      "title_ru": "В Кремле рассказали о подготовке к прямой линии с Путиным11:57",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Politics",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about 'В Кремле рассказали о подготовке к прямой линии с Путиным11:57' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'В Кремле рассказали о подготовке к прямой линии с Путиным11:57' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-10-04",
-      "tags": [
-        "politics",
-        "trending",
-        "russia"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Роспотребнадзор не выявил аварий в Иркутском противочумном институте12:41",
-      "title_ru": "Роспотребнадзор не выявил аварий в Иркутском противочумном институте12:41",
+      "title": "Участники протестов во Франции начали применять коктейли Молотова13:57",
+      "title_ru": "Участники протестов во Франции начали применять коктейли Молотова13:57",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -95,14 +69,40 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Роспотребнадзор не выявил аварий в Иркутском противочумном институте12:41' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Роспотребнадзор не выявил аварий в Иркутском противочумном институте12:41' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Участники протестов во Франции начали применять коктейли Молотова13:57' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Участники протестов во Франции начали применять коктейли Молотова13:57' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-10-04",
+      "date": "2026-10-05",
+      "tags": [
+        "society",
+        "trending",
+        "russia"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Экс-мэра Сочи осудили на 15 лет за коррупцию12:19",
+      "title_ru": "Экс-мэра Сочи осудили на 15 лет за коррупцию12:19",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Society",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'Экс-мэра Сочи осудили на 15 лет за коррупцию12:19' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Экс-мэра Сочи осудили на 15 лет за коррупцию12:19' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-10-05",
       "tags": [
         "society",
         "trending",
@@ -111,8 +111,8 @@
     },
     {
       "rank": 4,
-      "title": "У подозреваемого в убийстве сожительницы в Москве нашли схрон с оружием10:23",
-      "title_ru": "У подозреваемого в убийстве сожительницы в Москве нашли схрон с оружием10:23",
+      "title": "В Нижнем Новгороде задержали подозреваемого в убийстве трех женщин15:44",
+      "title_ru": "В Нижнем Новгороде задержали подозреваемого в убийстве трех женщин15:44",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -121,14 +121,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'У подозреваемого в убийстве сожительницы в Москве нашли схрон с оружием10:23' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'У подозреваемого в убийстве сожительницы в Москве нашли схрон с оружием10:23' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'В Нижнем Новгороде задержали подозреваемого в убийстве трех женщин15:44' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'В Нижнем Новгороде задержали подозреваемого в убийстве трех женщин15:44' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "tags": [
         "society",
         "trending",
