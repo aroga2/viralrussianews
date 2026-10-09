@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-08T12:24:22.074875",
-    "collection_period": "2026-10-08",
+    "generated_at": "2026-10-09T12:14:00.963316",
+    "collection_period": "2026-10-09",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,8 +33,34 @@
   "stories": [
     {
       "rank": 1,
-      "title": "Южная Корея отозвала посла с Украины11:20",
-      "title_ru": "Южная Корея отозвала посла с Украины11:20",
+      "title": "Путин рассказал, как странам СНГ добиться еще больших успехов10:21",
+      "title_ru": "Путин рассказал, как странам СНГ добиться еще больших успехов10:21",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Politics",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'Путин рассказал, как странам СНГ добиться еще больших успехов10:21' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Путин рассказал, как странам СНГ добиться еще больших успехов10:21' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-10-09",
+      "tags": [
+        "politics",
+        "trending",
+        "russia"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "В Черногории задержали основателя проекта \"Рыбарь\" Звинчука11:23",
+      "title_ru": "В Черногории задержали основателя проекта \"Рыбарь\" Звинчука11:23",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -43,14 +69,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Южная Корея отозвала посла с Украины11:20' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Южная Корея отозвала посла с Украины11:20' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'В Черногории задержали основателя проекта \"Рыбарь\" Звинчука11:23' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'В Черногории задержали основателя проекта \"Рыбарь\" Звинчука11:23' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "tags": [
         "society",
         "trending",
@@ -58,61 +84,9 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "\"Яндекс\" предупредил о возможных сбоях в работе сервисов из-за пожара в ЦОД09:05",
-      "title_ru": "\"Яндекс\" предупредил о возможных сбоях в работе сервисов из-за пожара в ЦОД09:05",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Emergency",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about '\"Яндекс\" предупредил о возможных сбоях в работе сервисов из-за пожара в ЦОД09:05' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о '\"Яндекс\" предупредил о возможных сбоях в работе сервисов из-за пожара в ЦОД09:05' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-10-08",
-      "tags": [
-        "emergency",
-        "trending",
-        "russia"
-      ]
-    },
-    {
       "rank": 3,
-      "title": "Российские военные продвинулись в Доброполье11:51",
-      "title_ru": "Российские военные продвинулись в Доброполье11:51",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Military",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about 'Российские военные продвинулись в Доброполье11:51' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Российские военные продвинулись в Доброполье11:51' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-10-08",
-      "tags": [
-        "military",
-        "trending",
-        "russia"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Нобелевскую премию по литературе получит канадская писательница Энн Карсон14:11",
-      "title_ru": "Нобелевскую премию по литературе получит канадская писательница Энн Карсон14:11",
+      "title": "В программе для 5-11-х классов появится новый обязательный курс12:20",
+      "title_ru": "В программе для 5-11-х классов появится новый обязательный курс12:20",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -121,14 +95,40 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Нобелевскую премию по литературе получит канадская писательница Энн Карсон14:11' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Нобелевскую премию по литературе получит канадская писательница Энн Карсон14:11' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'В программе для 5-11-х классов появится новый обязательный курс12:20' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'В программе для 5-11-х классов появится новый обязательный курс12:20' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-10-08",
+      "date": "2026-10-09",
+      "tags": [
+        "society",
+        "trending",
+        "russia"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Две квартиры Блиновской перешли государству, пишут СМИ09:35",
+      "title_ru": "Две квартиры Блиновской перешли государству, пишут СМИ09:35",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Society",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'Две квартиры Блиновской перешли государству, пишут СМИ09:35' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Две квартиры Блиновской перешли государству, пишут СМИ09:35' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-10-09",
       "tags": [
         "society",
         "trending",
