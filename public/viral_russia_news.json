@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-09T12:14:00.963316",
-    "collection_period": "2026-10-09",
+    "generated_at": "2026-10-10T11:31:35.486091",
+    "collection_period": "2026-10-10",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,8 +33,34 @@
   "stories": [
     {
       "rank": 1,
-      "title": "Путин рассказал, как странам СНГ добиться еще больших успехов10:21",
-      "title_ru": "Путин рассказал, как странам СНГ добиться еще больших успехов10:21",
+      "title": "В Киеве полностью остановилось метро13:48",
+      "title_ru": "В Киеве полностью остановилось метро13:48",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Society",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'В Киеве полностью остановилось метро13:48' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'В Киеве полностью остановилось метро13:48' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-10-10",
+      "tags": [
+        "society",
+        "trending",
+        "russia"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Трамп заключил сделку по дизтопливу из-за отказа Украины прекратить атаки на российские НПЗ, пишет Axios07:34",
+      "title_ru": "Трамп заключил сделку по дизтопливу из-за отказа Украины прекратить атаки на российские НПЗ, пишет Axios07:34",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -43,14 +69,14 @@
       "topic": "Politics",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Путин рассказал, как странам СНГ добиться еще больших успехов10:21' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Путин рассказал, как странам СНГ добиться еще больших успехов10:21' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Трамп заключил сделку по дизтопливу из-за отказа Украины прекратить атаки на российские НПЗ, пишет Axios07:34' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Трамп заключил сделку по дизтопливу из-за отказа Украины прекратить атаки на российские НПЗ, пишет Axios07:34' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "tags": [
         "politics",
         "trending",
@@ -58,35 +84,9 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "В Черногории задержали основателя проекта \"Рыбарь\" Звинчука11:23",
-      "title_ru": "В Черногории задержали основателя проекта \"Рыбарь\" Звинчука11:23",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Society",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about 'В Черногории задержали основателя проекта \"Рыбарь\" Звинчука11:23' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'В Черногории задержали основателя проекта \"Рыбарь\" Звинчука11:23' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-10-09",
-      "tags": [
-        "society",
-        "trending",
-        "russia"
-      ]
-    },
-    {
       "rank": 3,
-      "title": "В программе для 5-11-х классов появится новый обязательный курс12:20",
-      "title_ru": "В программе для 5-11-х классов появится новый обязательный курс12:20",
+      "title": "Группа наемников ВСУ отказалась идти на прорыв котла в Харьковской области09:34",
+      "title_ru": "Группа наемников ВСУ отказалась идти на прорыв котла в Харьковской области09:34",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -95,14 +95,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'В программе для 5-11-х классов появится новый обязательный курс12:20' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'В программе для 5-11-х классов появится новый обязательный курс12:20' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Группа наемников ВСУ отказалась идти на прорыв котла в Харьковской области09:34' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Группа наемников ВСУ отказалась идти на прорыв котла в Харьковской области09:34' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "tags": [
         "society",
         "trending",
@@ -111,8 +111,8 @@
     },
     {
       "rank": 4,
-      "title": "Две квартиры Блиновской перешли государству, пишут СМИ09:35",
-      "title_ru": "Две квартиры Блиновской перешли государству, пишут СМИ09:35",
+      "title": "В России снизилось число повторных инфарктов миокарда13:08",
+      "title_ru": "В России снизилось число повторных инфарктов миокарда13:08",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -121,14 +121,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Две квартиры Блиновской перешли государству, пишут СМИ09:35' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Две квартиры Блиновской перешли государству, пишут СМИ09:35' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'В России снизилось число повторных инфарктов миокарда13:08' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'В России снизилось число повторных инфарктов миокарда13:08' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "tags": [
         "society",
         "trending",
