@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-10T11:31:35.486091",
-    "collection_period": "2026-10-10",
+    "generated_at": "2026-10-11T11:45:21.060390",
+    "collection_period": "2026-10-11",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,8 +33,8 @@
   "stories": [
     {
       "rank": 1,
-      "title": "В Киеве полностью остановилось метро13:48",
-      "title_ru": "В Киеве полностью остановилось метро13:48",
+      "title": "Зеленский впал в истерику, заявил Песков12:54",
+      "title_ru": "Зеленский впал в истерику, заявил Песков12:54",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -43,14 +43,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'В Киеве полностью остановилось метро13:48' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'В Киеве полностью остановилось метро13:48' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Зеленский впал в истерику, заявил Песков12:54' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Зеленский впал в истерику, заявил Песков12:54' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "tags": [
         "society",
         "trending",
@@ -59,34 +59,8 @@
     },
     {
       "rank": 2,
-      "title": "Трамп заключил сделку по дизтопливу из-за отказа Украины прекратить атаки на российские НПЗ, пишет Axios07:34",
-      "title_ru": "Трамп заключил сделку по дизтопливу из-за отказа Украины прекратить атаки на российские НПЗ, пишет Axios07:34",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Politics",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about 'Трамп заключил сделку по дизтопливу из-за отказа Украины прекратить атаки на российские НПЗ, пишет Axios07:34' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Трамп заключил сделку по дизтопливу из-за отказа Украины прекратить атаки на российские НПЗ, пишет Axios07:34' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-10-10",
-      "tags": [
-        "politics",
-        "trending",
-        "russia"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Группа наемников ВСУ отказалась идти на прорыв котла в Харьковской области09:34",
-      "title_ru": "Группа наемников ВСУ отказалась идти на прорыв котла в Харьковской области09:34",
+      "title": "ВС России освободили два населенных пункта в котле в Харьковской области12:15",
+      "title_ru": "ВС России освободили два населенных пункта в котле в Харьковской области12:15",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -95,14 +69,40 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Группа наемников ВСУ отказалась идти на прорыв котла в Харьковской области09:34' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Группа наемников ВСУ отказалась идти на прорыв котла в Харьковской области09:34' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'ВС России освободили два населенных пункта в котле в Харьковской области12:15' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'ВС России освободили два населенных пункта в котле в Харьковской области12:15' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-10-10",
+      "date": "2026-10-11",
+      "tags": [
+        "society",
+        "trending",
+        "russia"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Самая мощная за три месяца магнитная буря достигла уровня G309:20",
+      "title_ru": "Самая мощная за три месяца магнитная буря достигла уровня G309:20",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Society",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'Самая мощная за три месяца магнитная буря достигла уровня G309:20' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Самая мощная за три месяца магнитная буря достигла уровня G309:20' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-10-11",
       "tags": [
         "society",
         "trending",
@@ -111,26 +111,26 @@
     },
     {
       "rank": 4,
-      "title": "В России снизилось число повторных инфарктов миокарда13:08",
-      "title_ru": "В России снизилось число повторных инфарктов миокарда13:08",
+      "title": "Российские военные поразили дата-центр в Одессе08:12",
+      "title_ru": "Российские военные поразили дата-центр в Одессе08:12",
       "viral_score": 37,
       "outlets": [
         "RIA"
       ],
       "outlet_count": 1,
-      "topic": "Society",
+      "topic": "Military",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'В России снизилось число повторных инфарктов миокарда13:08' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'В России снизилось число повторных инфарктов миокарда13:08' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Российские военные поразили дата-центр в Одессе08:12' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Российские военные поразили дата-центр в Одессе08:12' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "tags": [
-        "society",
+        "military",
         "trending",
         "russia"
       ]
