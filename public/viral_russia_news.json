@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-27T11:12:48.506410",
-    "collection_period": "2026-10-27",
+    "generated_at": "2026-10-28T11:47:10.831131",
+    "collection_period": "2026-10-28",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,34 +33,8 @@
   "stories": [
     {
       "rank": 1,
-      "title": "Российские военные ввели режим тишины для гуманитарной операции в районе Алешек04:01",
-      "title_ru": "Российские военные ввели режим тишины для гуманитарной операции в районе Алешек04:01",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Military",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about 'Российские военные ввели режим тишины для гуманитарной операции в районе Алешек04:01' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Российские военные ввели режим тишины для гуманитарной операции в районе Алешек04:01' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-10-27",
-      "tags": [
-        "military",
-        "trending",
-        "russia"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "ФСБ раскрыла масштабную схему с незаконной миграцией и хищениями средств09:46",
-      "title_ru": "ФСБ раскрыла масштабную схему с незаконной миграцией и хищениями средств09:46",
+      "title": "В России возобновят программу льготного автокредитования12:52",
+      "title_ru": "В России возобновят программу льготного автокредитования12:52",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -69,14 +43,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'ФСБ раскрыла масштабную схему с незаконной миграцией и хищениями средств09:46' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'ФСБ раскрыла масштабную схему с незаконной миграцией и хищениями средств09:46' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'В России возобновят программу льготного автокредитования12:52' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'В России возобновят программу льготного автокредитования12:52' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "tags": [
         "society",
         "trending",
@@ -84,9 +58,35 @@
       ]
     },
     {
+      "rank": 2,
+      "title": "В Испании при столкновении поездов погибли не менее 50 человек12:31",
+      "title_ru": "В Испании при столкновении поездов погибли не менее 50 человек12:31",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Emergency",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'В Испании при столкновении поездов погибли не менее 50 человек12:31' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'В Испании при столкновении поездов погибли не менее 50 человек12:31' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-10-28",
+      "tags": [
+        "emergency",
+        "trending",
+        "russia"
+      ]
+    },
+    {
       "rank": 3,
-      "title": "Минобороны назвало цели массированного удара по Украине09:07",
-      "title_ru": "Минобороны назвало цели массированного удара по Украине09:07",
+      "title": "Сроки гаражной амнистии больше не будут продлевать11:59",
+      "title_ru": "Сроки гаражной амнистии больше не будут продлевать11:59",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -95,14 +95,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Минобороны назвало цели массированного удара по Украине09:07' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Минобороны назвало цели массированного удара по Украине09:07' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Сроки гаражной амнистии больше не будут продлевать11:59' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Сроки гаражной амнистии больше не будут продлевать11:59' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "tags": [
         "society",
         "trending",
@@ -111,8 +111,8 @@
     },
     {
       "rank": 4,
-      "title": "Иностранных гостей саммита \"Россия — Африка\" пытались отговорить от участия, заявила Захарова11:52",
-      "title_ru": "Иностранных гостей саммита \"Россия — Африка\" пытались отговорить от участия, заявила Захарова11:52",
+      "title": "Власти определили перечень стратегических объектов для защиты от атак ВСУ12:34",
+      "title_ru": "Власти определили перечень стратегических объектов для защиты от атак ВСУ12:34",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -121,14 +121,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Иностранных гостей саммита \"Россия — Африка\" пытались отговорить от участия, заявила Захарова11:52' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Иностранных гостей саммита \"Россия — Африка\" пытались отговорить от участия, заявила Захарова11:52' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Власти определили перечень стратегических объектов для защиты от атак ВСУ12:34' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Власти определили перечень стратегических объектов для защиты от атак ВСУ12:34' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "tags": [
         "society",
         "trending",
