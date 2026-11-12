@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-11T13:07:31.582784",
-    "collection_period": "2026-11-11",
+    "generated_at": "2026-11-12T14:10:27.887249",
+    "collection_period": "2026-11-12",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,34 +33,8 @@
   "stories": [
     {
       "rank": 1,
-      "title": "Путин открыл саммит ОДКБ в Москве15:28",
-      "title_ru": "Путин открыл саммит ОДКБ в Москве15:28",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Politics",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about 'Путин открыл саммит ОДКБ в Москве15:28' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Путин открыл саммит ОДКБ в Москве15:28' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-11-11",
-      "tags": [
-        "politics",
-        "trending",
-        "russia"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "В Генштабе рассказали о формате нового обмена пленными с Украиной15:16",
-      "title_ru": "В Генштабе рассказали о формате нового обмена пленными с Украиной15:16",
+      "title": "Президенты России и Таджикистана обсудили двусторонние отношения13:01",
+      "title_ru": "Президенты России и Таджикистана обсудили двусторонние отношения13:01",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -69,14 +43,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'В Генштабе рассказали о формате нового обмена пленными с Украиной15:16' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'В Генштабе рассказали о формате нового обмена пленными с Украиной15:16' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Президенты России и Таджикистана обсудили двусторонние отношения13:01' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Президенты России и Таджикистана обсудили двусторонние отношения13:01' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "tags": [
         "society",
         "trending",
@@ -84,35 +58,35 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Российские военные освободили два населенных пункта в зоне спецоперации12:00",
-      "title_ru": "Российские военные освободили два населенных пункта в зоне спецоперации12:00",
+      "rank": 2,
+      "title": "Санкции против Москвы погубят Грузию, заявил мэр Тбилиси10:11",
+      "title_ru": "Санкции против Москвы погубят Грузию, заявил мэр Тбилиси10:11",
       "viral_score": 37,
       "outlets": [
         "RIA"
       ],
       "outlet_count": 1,
-      "topic": "Military",
+      "topic": "Economy",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Российские военные освободили два населенных пункта в зоне спецоперации12:00' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Российские военные освободили два населенных пункта в зоне спецоперации12:00' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Санкции против Москвы погубят Грузию, заявил мэр Тбилиси10:11' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Санкции против Москвы погубят Грузию, заявил мэр Тбилиси10:11' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "tags": [
-        "military",
+        "economy",
         "trending",
         "russia"
       ]
     },
     {
-      "rank": 4,
-      "title": "В Испании участники забастовки ворвались в телестудию и сорвали прямой эфир13:40",
-      "title_ru": "В Испании участники забастовки ворвались в телестудию и сорвали прямой эфир13:40",
+      "rank": 3,
+      "title": "Набиуллина назвала текущую ключевую ставку оправданной12:54",
+      "title_ru": "Набиуллина назвала текущую ключевую ставку оправданной12:54",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -121,14 +95,40 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'В Испании участники забастовки ворвались в телестудию и сорвали прямой эфир13:40' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'В Испании участники забастовки ворвались в телестудию и сорвали прямой эфир13:40' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Набиуллина назвала текущую ключевую ставку оправданной12:54' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Набиуллина назвала текущую ключевую ставку оправданной12:54' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-11-11",
+      "date": "2026-11-12",
+      "tags": [
+        "society",
+        "trending",
+        "russia"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Председателя Конституционного суда Польши не пустили на рабочее место14:45",
+      "title_ru": "Председателя Конституционного суда Польши не пустили на рабочее место14:45",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Society",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'Председателя Конституционного суда Польши не пустили на рабочее место14:45' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Председателя Конституционного суда Польши не пустили на рабочее место14:45' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-11-12",
       "tags": [
         "society",
         "trending",
