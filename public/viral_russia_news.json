@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-19T14:51:29.081843",
-    "collection_period": "2026-11-19",
+    "generated_at": "2026-11-20T14:32:48.177053",
+    "collection_period": "2026-11-20",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,34 +33,8 @@
   "stories": [
     {
       "rank": 1,
-      "title": "Кремль опубликовал полный текст декларации по итогам встречи с Си Цзиньпином и Трампом13:54",
-      "title_ru": "Кремль опубликовал полный текст декларации по итогам встречи с Си Цзиньпином и Трампом13:54",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Politics",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about 'Кремль опубликовал полный текст декларации по итогам встречи с Си Цзиньпином и Трампом13:54' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Кремль опубликовал полный текст декларации по итогам встречи с Си Цзиньпином и Трампом13:54' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-11-19",
-      "tags": [
-        "politics",
-        "trending",
-        "russia"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "На Крымском мосту открыли движение по первому железнодорожному пути15:47",
-      "title_ru": "На Крымском мосту открыли движение по первому железнодорожному пути15:47",
+      "title": "В Кремле раскрыли детали встречи президентов России и Таджикистана13:17",
+      "title_ru": "В Кремле раскрыли детали встречи президентов России и Таджикистана13:17",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -69,14 +43,40 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'На Крымском мосту открыли движение по первому железнодорожному пути15:47' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'На Крымском мосту открыли движение по первому железнодорожному пути15:47' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'В Кремле раскрыли детали встречи президентов России и Таджикистана13:17' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'В Кремле раскрыли детали встречи президентов России и Таджикистана13:17' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-11-19",
+      "date": "2026-11-20",
+      "tags": [
+        "society",
+        "trending",
+        "russia"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Москва выразила протест послу Румынии из-за отказа дать визы спортсменам16:38",
+      "title_ru": "Москва выразила протест послу Румынии из-за отказа дать визы спортсменам16:38",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Society",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'Москва выразила протест послу Румынии из-за отказа дать визы спортсменам16:38' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Москва выразила протест послу Румынии из-за отказа дать визы спортсменам16:38' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-11-20",
       "tags": [
         "society",
         "trending",
@@ -85,8 +85,8 @@
     },
     {
       "rank": 3,
-      "title": "Никитин рассказал о начале полномасштабного строительства ВСМ Москва — Петербург14:54",
-      "title_ru": "Никитин рассказал о начале полномасштабного строительства ВСМ Москва — Петербург14:54",
+      "title": "Школьники на акции протеста в Гамбурге заявили, что не хотят умирать за Германию16:32",
+      "title_ru": "Школьники на акции протеста в Гамбурге заявили, что не хотят умирать за Германию16:32",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -95,14 +95,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Никитин рассказал о начале полномасштабного строительства ВСМ Москва — Петербург14:54' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Никитин рассказал о начале полномасштабного строительства ВСМ Москва — Петербург14:54' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Школьники на акции протеста в Гамбурге заявили, что не хотят умирать за Германию16:32' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Школьники на акции протеста в Гамбурге заявили, что не хотят умирать за Германию16:32' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "tags": [
         "society",
         "trending",
@@ -111,8 +111,8 @@
     },
     {
       "rank": 4,
-      "title": "Экс-замглавы Минобороны Цаликов получил срок за взятки16:21",
-      "title_ru": "Экс-замглавы Минобороны Цаликов получил срок за взятки16:21",
+      "title": "Эстония с 1 декабря закроет все автомобильные КПП на границе с Россией13:09",
+      "title_ru": "Эстония с 1 декабря закроет все автомобильные КПП на границе с Россией13:09",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -121,14 +121,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'Экс-замглавы Минобороны Цаликов получил срок за взятки16:21' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Экс-замглавы Минобороны Цаликов получил срок за взятки16:21' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Эстония с 1 декабря закроет все автомобильные КПП на границе с Россией13:09' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Эстония с 1 декабря закроет все автомобильные КПП на границе с Россией13:09' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "tags": [
         "society",
         "trending",
