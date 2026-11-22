@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-21T13:51:07.633957",
-    "collection_period": "2026-11-21",
+    "generated_at": "2026-11-22T13:44:04.400722",
+    "collection_period": "2026-11-22",
     "total_outlets": 6,
     "outlets": [
       {
@@ -33,8 +33,34 @@
   "stories": [
     {
       "rank": 1,
-      "title": "В Финском заливе два беспилотника атаковали судно, следовавшее в Калининград13:09",
-      "title_ru": "В Финском заливе два беспилотника атаковали судно, следовавшее в Калининград13:09",
+      "title": "ВС Германии и НАТО изменили планы переброски военной техники на восточный фланг, пишут СМИ12:38",
+      "title_ru": "ВС Германии и НАТО изменили планы переброски военной техники на восточный фланг, пишут СМИ12:38",
+      "viral_score": 37,
+      "outlets": [
+        "RIA"
+      ],
+      "outlet_count": 1,
+      "topic": "Military",
+      "vk_engagement": "LOW",
+      "prominence": "FEATURED",
+      "summary": "This story about 'ВС Германии и НАТО изменили планы переброски военной техники на восточный фланг, пишут СМИ12:38' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'ВС Германии и НАТО изменили планы переброски военной техники на восточный фланг, пишут СМИ12:38' в тренде в 1 крупных российских новостных изданиях.",
+      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
+      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2026-11-22",
+      "tags": [
+        "military",
+        "trending",
+        "russia"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Минобороны рассказало об освобождении Соснового Бора в Харьковской области13:39",
+      "title_ru": "Минобороны рассказало об освобождении Соснового Бора в Харьковской области13:39",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -43,14 +69,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'В Финском заливе два беспилотника атаковали судно, следовавшее в Калининград13:09' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'В Финском заливе два беспилотника атаковали судно, следовавшее в Калининград13:09' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Минобороны рассказало об освобождении Соснового Бора в Харьковской области13:39' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Минобороны рассказало об освобождении Соснового Бора в Харьковской области13:39' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "tags": [
         "society",
         "trending",
@@ -58,35 +84,9 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Число погибших при ударе ВСУ по жилым домам в Луганске возросло до шести12:07",
-      "title_ru": "Число погибших при ударе ВСУ по жилым домам в Луганске возросло до шести12:07",
-      "viral_score": 37,
-      "outlets": [
-        "RIA"
-      ],
-      "outlet_count": 1,
-      "topic": "Emergency",
-      "vk_engagement": "LOW",
-      "prominence": "FEATURED",
-      "summary": "This story about 'Число погибших при ударе ВСУ по жилым домам в Луганске возросло до шести12:07' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'Число погибших при ударе ВСУ по жилым домам в Луганске возросло до шести12:07' в тренде в 1 крупных российских новостных изданиях.",
-      "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
-      "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
-      "source_urls": [
-        "https://ria.ru/"
-      ],
-      "date": "2026-11-21",
-      "tags": [
-        "emergency",
-        "trending",
-        "russia"
-      ]
-    },
-    {
       "rank": 3,
-      "title": "ЕС хочет урезать расходы на науку и защиту граждан, сохранив финансирование Украины14:59",
-      "title_ru": "ЕС хочет урезать расходы на науку и защиту граждан, сохранив финансирование Украины14:59",
+      "title": "Премьер Чехии раскритиковал проект бюджета ЕС из-за средств для Киева16:22",
+      "title_ru": "Премьер Чехии раскритиковал проект бюджета ЕС из-за средств для Киева16:22",
       "viral_score": 37,
       "outlets": [
         "RIA"
@@ -95,14 +95,14 @@
       "topic": "Society",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'ЕС хочет урезать расходы на науку и защиту граждан, сохранив финансирование Украины14:59' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'ЕС хочет урезать расходы на науку и защиту граждан, сохранив финансирование Украины14:59' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'Премьер Чехии раскритиковал проект бюджета ЕС из-за средств для Киева16:22' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'Премьер Чехии раскритиковал проект бюджета ЕС из-за средств для Киева16:22' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "tags": [
         "society",
         "trending",
@@ -111,26 +111,26 @@
     },
     {
       "rank": 4,
-      "title": "В России создали препарат против опасной супербактерии из Европы15:53",
-      "title_ru": "В России создали препарат против опасной супербактерии из Европы15:53",
+      "title": "В ЛНР при атаках украинских дронов погиб  человек и трое ранены12:38",
+      "title_ru": "В ЛНР при атаках украинских дронов погиб  человек и трое ранены12:38",
       "viral_score": 37,
       "outlets": [
         "RIA"
       ],
       "outlet_count": 1,
-      "topic": "Society",
+      "topic": "Emergency",
       "vk_engagement": "LOW",
       "prominence": "FEATURED",
-      "summary": "This story about 'В России создали препарат против опасной супербактерии из Европы15:53' is trending across 1 major Russian news outlets.",
-      "summary_ru": "Эта история о 'В России создали препарат против опасной супербактерии из Европы15:53' в тренде в 1 крупных российских новостных изданиях.",
+      "summary": "This story about 'В ЛНР при атаках украинских дронов погиб  человек и трое ранены12:38' is trending across 1 major Russian news outlets.",
+      "summary_ru": "Эта история о 'В ЛНР при атаках украинских дронов погиб  человек и трое ранены12:38' в тренде в 1 крупных российских новостных изданиях.",
       "why_trending": "This story is trending because it appears across 1 major outlets with a viral score of 37/100.",
       "why_trending_ru": "Эта история в тренде, потому что появляется в 1 крупных изданиях с вирусным рейтингом 37/100.",
       "source_urls": [
         "https://ria.ru/"
       ],
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "tags": [
-        "society",
+        "emergency",
         "trending",
         "russia"
       ]
